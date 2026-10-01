@@ -1,0 +1,485 @@
+{
+  "version": 2,
+  "width": 106000,
+  "height": 112000,
+  "places": [
+    {
+      "id": "estate",
+      "x": 0,
+      "y": 0,
+      "label": "Vane’s house",
+      "priority": 1,
+      "minZoom": 1,
+      "anchor": "right",
+      "focusWidth": 500,
+      "realm": "earth"
+    },
+    {
+      "id": "entry-heath",
+      "x": -29300,
+      "y": 29700,
+      "label": "Entry heath",
+      "priority": 2,
+      "minZoom": 1,
+      "anchor": "right",
+      "focusWidth": 1400
+    },
+    {
+      "id": "pine-portal",
+      "x": -28900,
+      "y": 28900,
+      "label": "Pine crossing",
+      "priority": 6,
+      "minZoom": 1.6,
+      "anchor": "right",
+      "focusWidth": 650
+    },
+    {
+      "id": "sleep",
+      "x": -27000,
+      "y": 39500,
+      "label": "House of Sleep",
+      "priority": 1,
+      "minZoom": 1,
+      "anchor": "left",
+      "focusWidth": 450
+    },
+    {
+      "id": "cemetery",
+      "x": -28100,
+      "y": 41500,
+      "label": "Cemetery moor",
+      "priority": 7,
+      "minZoom": 2,
+      "anchor": "right",
+      "focusWidth": 10000
+    },
+    {
+      "id": "bad-burrow",
+      "x": -22500,
+      "y": 36000,
+      "label": "Bad Burrow",
+      "restoredLabel": "Monster lake",
+      "priority": 2,
+      "minZoom": 1,
+      "anchor": "top",
+      "focusWidth": 5500
+    },
+    {
+      "id": "low-hills",
+      "x": -18500,
+      "y": 35000,
+      "label": "Low hills",
+      "priority": 8,
+      "minZoom": 2.3,
+      "anchor": "right",
+      "focusWidth": 6500
+    },
+    {
+      "id": "first-branch",
+      "x": -12800,
+      "y": 31000,
+      "label": "First branch",
+      "priority": 5,
+      "minZoom": 1.5,
+      "anchor": "left",
+      "focusWidth": 6500
+    },
+    {
+      "id": "evil-wood",
+      "x": 500,
+      "y": 33000,
+      "label": "Evil Wood",
+      "priority": 1,
+      "minZoom": 1,
+      "anchor": "bottom",
+      "focusWidth": 16000
+    },
+    {
+      "id": "second-branch",
+      "x": 10600,
+      "y": 33400,
+      "label": "Second branch",
+      "priority": 5,
+      "minZoom": 1.5,
+      "anchor": "right",
+      "focusWidth": 6500
+    },
+    {
+      "id": "orchard",
+      "x": 19000,
+      "y": 39000,
+      "label": "Fruit valley",
+      "restoredLabel": "Former lake basin",
+      "priority": 2,
+      "minZoom": 1,
+      "anchor": "bottom",
+      "focusWidth": 12000
+    },
+    {
+      "id": "bags",
+      "x": 17800,
+      "y": 36500,
+      "label": "Bags’ old huts",
+      "priority": 7,
+      "minZoom": 6,
+      "anchor": "left",
+      "focusWidth": 700
+    },
+    {
+      "id": "nests",
+      "x": 23500,
+      "y": 36500,
+      "label": "Nest village",
+      "priority": 2,
+      "minZoom": 1,
+      "anchor": "right",
+      "focusWidth": 1400
+    },
+    {
+      "id": "baby-forest",
+      "x": 27600,
+      "y": 34500,
+      "label": "Baby-finding forest",
+      "priority": 3,
+      "minZoom": 1.5,
+      "anchor": "right",
+      "focusWidth": 17000
+    },
+    {
+      "id": "mara",
+      "x": 3500,
+      "y": 23500,
+      "label": "Mara’s cottage",
+      "priority": 1,
+      "minZoom": 1,
+      "anchor": "left",
+      "focusWidth": 600
+    },
+    {
+      "id": "mara-approach",
+      "x": 6200,
+      "y": 27100,
+      "label": "Sandy ravines",
+      "priority": 9,
+      "minZoom": 3,
+      "anchor": "left",
+      "focusWidth": 6500
+    },
+    {
+      "id": "cataract",
+      "x": 890,
+      "y": 580,
+      "label": "Ancient cataract",
+      "restoredLabel": "Great cataract",
+      "priority": 1,
+      "minZoom": 1,
+      "anchor": "left",
+      "focusWidth": 230
+    },
+    {
+      "id": "hand-site",
+      "x": 450,
+      "y": -1100,
+      "label": "Hand-burial site",
+      "priority": 6,
+      "minZoom": 6,
+      "anchor": "left",
+      "focusWidth": 1100
+    },
+    {
+      "id": "guide-forest",
+      "x": 12000,
+      "y": -3500,
+      "label": "Guide forest",
+      "priority": 4,
+      "minZoom": 1,
+      "anchor": "left",
+      "focusWidth": 11000
+    },
+    {
+      "id": "ivy-hall",
+      "x": 27500,
+      "y": 20500,
+      "label": "Ivy hall",
+      "priority": 3,
+      "minZoom": 1.5,
+      "anchor": "right",
+      "focusWidth": 600
+    },
+    {
+      "id": "carriage",
+      "x": 27516,
+      "y": 20517,
+      "label": "Skeleton carriage",
+      "priority": 9,
+      "minZoom": 6,
+      "anchor": "left",
+      "focusWidth": 90
+    },
+    {
+      "id": "discovery-tree",
+      "x": 35800,
+      "y": 23850,
+      "label": "Lilith’s discovery",
+      "priority": 8,
+      "minZoom": 6,
+      "anchor": "right",
+      "focusWidth": 350
+    },
+    {
+      "id": "hot-cave",
+      "x": 36500,
+      "y": 23400,
+      "label": "Hot-stream cave",
+      "priority": 4,
+      "minZoom": 6,
+      "anchor": "top",
+      "focusWidth": 220
+    },
+    {
+      "id": "hot-stream",
+      "x": 36600,
+      "y": 24500,
+      "label": "Hot river",
+      "priority": 1,
+      "minZoom": 1,
+      "anchor": "right",
+      "focusWidth": 250
+    },
+    {
+      "id": "plain",
+      "x": 49500,
+      "y": 25500,
+      "label": "Grassy plain",
+      "priority": 3,
+      "minZoom": 1.4,
+      "anchor": "right",
+      "focusWidth": 28000
+    },
+    {
+      "id": "bulika",
+      "x": 63000,
+      "y": 25000,
+      "label": "Bulika",
+      "priority": 1,
+      "minZoom": 1,
+      "anchor": "right",
+      "focusWidth": 2400
+    },
+    {
+      "id": "palace",
+      "x": 63090,
+      "y": 24750,
+      "label": "Fortress-palace",
+      "priority": 6,
+      "minZoom": 6,
+      "anchor": "top",
+      "focusWidth": 650
+    },
+    {
+      "id": "square",
+      "x": 63035,
+      "y": 25010,
+      "label": "Bat-pillar square",
+      "priority": 8,
+      "minZoom": 6,
+      "anchor": "left",
+      "focusWidth": 350
+    },
+    {
+      "id": "bulika-camp",
+      "x": 62100,
+      "y": 26000,
+      "label": "Exterior camp",
+      "priority": 7,
+      "minZoom": 2,
+      "anchor": "right",
+      "focusWidth": 2000
+    },
+    {
+      "id": "restored-upper",
+      "x": -6000,
+      "y": -23000,
+      "label": "Later upstream country",
+      "priority": 4,
+      "minZoom": 1,
+      "anchor": "right",
+      "only": "restored",
+      "focusWidth": 16000
+    },
+    {
+      "id": "mountain-city",
+      "x": -5700,
+      "y": -48700,
+      "label": "Mountain city",
+      "priority": 1,
+      "minZoom": 1,
+      "anchor": "right",
+      "only": "restored",
+      "focusWidth": 9500
+    },
+    {
+      "id": "book-door",
+      "x": -6000,
+      "y": -52300,
+      "label": "Cloud stair / book-door",
+      "priority": 6,
+      "minZoom": 2,
+      "anchor": "top",
+      "only": "restored",
+      "focusWidth": 2400
+    }
+  ],
+  "related": {
+    "estate": [
+      "library",
+      "garret",
+      "church",
+      "lost-tower"
+    ],
+    "library": [
+      "estate",
+      "garret"
+    ],
+    "garret": [
+      "estate",
+      "entry-heath"
+    ],
+    "church": [
+      "estate"
+    ],
+    "lost-tower": [
+      "estate"
+    ],
+    "sleep": [
+      "sexton",
+      "cemetery"
+    ],
+    "sexton": [
+      "sleep",
+      "cemetery"
+    ],
+    "bad-burrow": [
+      "low-hills"
+    ],
+    "evil-wood": [
+      "first-branch",
+      "second-branch",
+      "cataract"
+    ],
+    "orchard": [
+      "bags",
+      "baby-forest",
+      "nests"
+    ],
+    "baby-forest": [
+      "orchard",
+      "nests",
+      "guide-forest",
+      "hot-stream"
+    ],
+    "mara": [
+      "mara-approach",
+      "cataract"
+    ],
+    "cataract": [
+      "first-branch",
+      "second-branch",
+      "hand-site",
+      "evil-wood"
+    ],
+    "ivy-hall": [
+      "carriage",
+      "guide-forest"
+    ],
+    "hot-stream": [
+      "hot-cave",
+      "baby-forest",
+      "plain"
+    ],
+    "plain": [
+      "water-trail",
+      "bulika",
+      "hot-stream"
+    ],
+    "water-trail": [
+      "plain"
+    ],
+    "bulika": [
+      "square",
+      "palace",
+      "citizen-house",
+      "cellars",
+      "bulika-camp"
+    ],
+    "palace": [
+      "bulika",
+      "palace-passages",
+      "black-hall",
+      "guest-room",
+      "alabaster",
+      "palace-tree"
+    ],
+    "square": [
+      "bulika",
+      "palace"
+    ],
+    "palace-passages": [
+      "palace"
+    ],
+    "black-hall": [
+      "palace",
+      "guest-room"
+    ],
+    "guest-room": [
+      "palace",
+      "alabaster"
+    ],
+    "alabaster": [
+      "palace",
+      "guest-room"
+    ],
+    "palace-tree": [
+      "palace",
+      "estate"
+    ],
+    "citizen-house": [
+      "bulika"
+    ],
+    "cellars": [
+      "bulika"
+    ],
+    "mountain-city": [
+      "restored-upper",
+      "book-door"
+    ],
+    "book-door": [
+      "mountain-city",
+      "library"
+    ]
+  },
+  "notes": {
+    "mara": "Interpretive placement in the sandy country between the branches. Vane walks many desert miles from here to the cataract; this draft gives that journey about 25 km.",
+    "cataract": "The artwork retains its local metre scale. The fork and distant Evil Wood between its branches are textual; the 38 m drop, channel widths, geology and all regional coordinates remain interpretations.",
+    "orchard": "The former lake basin is described in Chapter XII. Its restored shoreline in this draft is an interpretation of Vane’s prediction, not a surveyed shoreline.",
+    "evil-wood": "The wood lies between the branches, far away when seen from the cataract. Its outline and restored island boundary are invented.",
+    "hand-site": "The burial point disappears after restoration; it is retained here as an event marker. The river’s source is farther upstream.",
+    "restored-upper": "A provisional long upper-river country. Its route, forests and distant mountain are grounded in the restored journey; its length and exact outline are invented.",
+    "mountain-city": "A distinct mountain city beyond greater forests and a far plain. Its position, scale and architecture are provisional; it is not Bulika.",
+    "estate": "Earth is a separate setting, reached through the mirror, garden and book transitions. It has no ordinary coordinate in the strange country.",
+    "pine-portal": "The first pine crossing is not securely identified with the later baby-finding forest.",
+    "palace": "Interior locations below share this palace marker. Their complete floor plan is not supplied by the book.",
+    "carriage": "Vane sees the carriage before walking ten paces from the hall, then approaches it. This nearby placement is invented; the passage does not measure the full separation.",
+    "hot-stream": "A deep, hot stream only a few yards wide, along the forest/plain boundary. It remains separate from the great river and wet in both states.",
+    "bulika": "A roughly 700 m city footprint is a design choice. The walls, gardens, elevated palace and its connection to the square are grounded; building count and street plan are provisional.",
+    "guide-forest": "A provisional forest fringe beyond the sandy upper country. The broad forest joins the fruit valley and hot stream; these contours and bearings are editorial.",
+    "ivy-hall": "A local placeholder in the connected great forest. MacDonald describes a hall made of growing vegetation; its detailed scene remains to be built.",
+    "plain": "A substantial grassland between the hot stream and Bulika. This draft allows about 27 km for the crossing; the novel supplies journey stages rather than measured kilometres.",
+    "nests": "A local village of nests in large forest trees, with little undergrowth, beyond the giants’ reach but within foraging distance of the fruit valley. This is an unfinished terrain draft."
+  },
+  "origin": {
+    "x": -36000,
+    "y": -56000
+  }
+}

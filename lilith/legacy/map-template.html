@@ -1,0 +1,253 @@
+<div id="lilith-map-draft">
+  <div class="viz-row lm-heading">
+    <h3>Lilith · spatial draft</h3>
+    <span class="text-small text-muted">Relative layout · no fixed compass or scale</span>
+  </div>
+  <div class="viz-controls">
+    <label class="form-label">Landscape
+      <select class="form-select" id="lm-landscape">
+        <option value="dry">Dry country</option>
+        <option value="restored">After the waters return</option>
+      </select>
+    </label>
+    <div class="viz-row">
+      <button type="button" class="btn" id="lm-minus" aria-label="Zoom out">−</button>
+      <button type="button" class="btn" id="lm-plus" aria-label="Zoom in">+</button>
+      <span class="text-small text-muted" id="lm-zoom">1×</span>
+    </div>
+  </div>
+  <div class="lm-map-field" id="lm-field">
+    <svg id="lm-map" class="lm-map" role="img" aria-labelledby="lm-title lm-desc">
+      <title id="lm-title">Relative geography of Lilith</title>
+      <desc id="lm-desc">An explorable schematic map. Evil Wood lies between two river branches below a cataract. The fruit valley connects through forest to a hot stream and grassy country toward Bulika. A separate earthly inset represents portals. The restored view adds flowing waters and the later mountain city. Shapes, positions, distances and orientation are provisional.</desc>
+      <defs>
+        <pattern id="lm-sand" width="45" height="39" patternUnits="userSpaceOnUse"><path d="M4 6l10-1m18 18l5 1M13 33l6-1" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".17"/></pattern>
+        <pattern id="lm-grass" width="39" height="42" patternUnits="userSpaceOnUse"><path d="M8 25l-2-6m2 6l3-4M26 9l-1-5m1 5l3-3" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".22"/></pattern>
+        <pattern id="lm-water-lines" width="42" height="35" patternUnits="userSpaceOnUse"><path d="M3 10q8-3 15 0t15 0M12 27q7-3 14 0" fill="none" stroke="var(--viz-series-1)" stroke-width="1.3" opacity=".55"/></pattern>
+      </defs>
+      <g id="lm-world"></g>
+      <g id="lm-pins"></g>
+    </svg>
+    <div id="lm-labels" class="lm-labels"></div>
+  </div>
+  <div class="viz-row text-small text-muted lm-legend">
+    <span>Scroll / drag to explore · pinch to zoom</span>
+    <span>Boundaries &amp; spacing provisional</span>
+    <span id="lm-state-note">River beds are dry; the hot stream still flows.</span>
+  </div>
+  <div class="card" id="lm-detail" aria-live="polite"></div>
+</div>
+<style>
+#lilith-map-draft{color:var(--foreground)}
+#lilith-map-draft .lm-heading{justify-content:space-between;gap:12px;margin-bottom:12px}
+#lilith-map-draft .lm-heading h3{margin:0}
+#lilith-map-draft .lm-map-field{position:relative;width:100%;height:610px;overflow:hidden;touch-action:none;user-select:none}
+#lilith-map-draft .lm-map{display:block;width:100%;height:100%;color:var(--foreground)}
+#lilith-map-draft .lm-labels{position:absolute;inset:0;pointer-events:none}
+#lilith-map-draft .lm-label{position:absolute;pointer-events:auto;white-space:nowrap;max-width:100%;font-family:Georgia,serif}
+#lilith-map-draft .lm-label.lm-hidden{visibility:hidden;pointer-events:none}
+#lilith-map-draft .lm-legend{justify-content:space-between;gap:8px 20px;margin:8px 0 16px}
+#lilith-map-draft .lm-land{fill:var(--muted);fill-opacity:.22;stroke:var(--foreground);stroke-opacity:.2;stroke-width:1.2;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-forest-edge{fill:var(--green);fill-opacity:.07;stroke:var(--foreground);stroke-opacity:.13;stroke-width:1;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-tree{fill:none;stroke:var(--foreground);stroke-opacity:.34;stroke-width:1.1;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-contour{fill:none;stroke:var(--foreground);stroke-opacity:.2;stroke-width:1;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-ink{fill:none;stroke:var(--foreground);stroke-opacity:.55;stroke-width:1.2;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-bed{fill:none;stroke:var(--foreground);stroke-opacity:.25;stroke-width:13}
+#lilith-map-draft .lm-bed-center{fill:none;stroke:var(--background);stroke-width:9}
+#lilith-map-draft .lm-river{fill:none;stroke:var(--viz-series-1);stroke-width:13;stroke-opacity:.68}
+#lilith-map-draft .lm-hot-stream{fill:none;stroke:var(--viz-series-1);stroke-width:8;stroke-opacity:.75}
+#lilith-map-draft .lm-lake{fill:var(--viz-series-1);fill-opacity:.12;stroke:var(--viz-series-1);stroke-opacity:.5;stroke-width:1.2;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-projected-lake{fill:var(--viz-series-1);fill-opacity:.08;stroke:var(--viz-series-1);stroke-opacity:.5;stroke-width:1;stroke-dasharray:4 5;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-building{fill:var(--background);stroke:var(--foreground);stroke-opacity:.6;stroke-width:1.1;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-portal{fill:none;stroke:var(--purple);stroke-opacity:.5;stroke-width:1.2;stroke-dasharray:3 7;vector-effect:non-scaling-stroke}
+#lilith-map-draft .lm-pin{fill:var(--foreground);stroke:var(--background);stroke-width:1.8}
+#lilith-map-draft .lm-halo{fill:none;stroke:var(--viz-series-1);stroke-width:1.8}
+#lilith-map-draft .lm-quote{border-left:2px solid var(--border);padding-left:16px;white-space:pre-line;margin:16px 0}
+#lilith-map-draft .lm-detail-meta{margin:8px 0 12px}
+#lilith-map-draft .lm-source-refs{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+#lilith-map-draft .lm-related{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+#lilith-map-draft .lm-detail-title{display:flex;align-items:start;justify-content:space-between;gap:10px}
+#lilith-map-draft .lm-detail-title h3{margin:0}
+#lilith-map-draft .lm-passages{margin-top:16px}
+#lilith-map-draft summary{color:var(--foreground)}
+@media(max-width:500px){#lilith-map-draft .lm-map-field{height:clamp(240px,70vw,360px)}#lilith-map-draft .lm-heading{align-items:start}#lilith-map-draft .lm-heading .text-small{max-width:145px}#lilith-map-draft .lm-legend{justify-content:flex-start}}
+</style>
+<script id="lm-data" type="application/json">__MAP_DATA__</script>
+<script>
+(() => {
+const root=document.getElementById('lilith-map-draft');
+const $=id=>root.querySelector('#'+id);
+const DATA=JSON.parse(document.getElementById('lm-data').textContent);
+const layout=DATA.layout,places=DATA.places,source=DATA.source;
+const ns='http://www.w3.org/2000/svg';
+const world=$('lm-world'),pins=$('lm-pins'),svg=$('lm-map'),field=$('lm-field');
+const labelLayer=$('lm-labels');
+let width=736,height=610,fit=1,k=1,tx=0,ty=0,selected='cataract',landscape='dry';
+let saved=null,saveTimer=null,layoutFrame=null;
+const submittedStates=new Set();
+const markers=new Map(),labels=new Map(),points=new Map(layout.places.map(p=>[p.id,p]));
+const make=(tag,attrs={},parent)=>{const e=document.createElementNS(ns,tag);for(const [key,value]of Object.entries(attrs))e.setAttribute(key,value);if(parent)parent.append(e);return e};
+const html=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};
+const path=(d,cls,parent=world)=>make('path',{d,class:cls},parent);
+const group=(attrs={},parent=world)=>make('g',attrs,parent);
+const isRestored=()=>landscape==='restored';
+const visible=p=>!p.only||p.only===landscape;
+const pointFor=id=>{
+  if(points.has(id))return points.get(id);
+  if(['library','garret','church','lost-tower'].includes(id))return points.get('estate');
+  if(id==='sexton')return points.get('sleep');
+  if(['palace-passages','black-hall','guest-room','alabaster','palace-tree'].includes(id))return points.get('palace');
+  if(['citizen-house','cellars','water-trail'].includes(id))return points.get(id==='water-trail'?'plain':'bulika');
+  return null;
+};
+
+// These paths are editorial schematic landforms, not surveyed outlines.
+const terrain=group();
+path('M118 491C207 490 371 504 405 571S384 729 290 748S97 686 81 609S100 529 118 491Z','lm-forest-edge',terrain);
+path('M82 912C147 856 270 878 309 972S306 1262 208 1397L61 1404C34 1292 32 1073 82 912Z','lm-land',terrain);
+path('M530 267C692 225 1012 278 1160 437L1213 596 1061 695 766 664 600 595 506 423Z','lm-land',terrain);
+make('path',{d:'M530 267C692 225 1012 278 1160 437L1213 596 1061 695 766 664 600 595 506 423Z',fill:'url(#lm-sand)'},terrain);
+path('M654 666C750 611 1060 674 1082 839S976 1038 819 1037S656 876 654 666Z','lm-land',terrain);
+make('path',{d:'M654 666C750 611 1060 674 1082 839S976 1038 819 1037S656 876 654 666Z',fill:'url(#lm-sand)'},terrain);
+const forestOutline='M1213 654C1350 597 1538 607 1642 695S1770 827 1786 1010S1748 1362 1565 1433L1264 1412C1174 1376 1193 1321 1135 1269S1155 1097 1190 985S1191 782 1213 654Z';
+path(forestOutline,'lm-forest-edge',terrain);
+const evilOutline='M708 1000C782 953 904 966 964 1045S962 1236 885 1301S728 1286 701 1202S680 1072 708 1000Z';
+path(evilOutline,'lm-forest-edge',terrain);
+make('path',{d:'M1830 586C1929 506 2151 552 2182 689L2185 1451 1830 1445Z',fill:'url(#lm-grass)'},terrain);
+const basinOutline='M1100 1181C1210 1139 1383 1215 1404 1314S1351 1438 1227 1430S1083 1281 1100 1181Z';
+path(basinOutline,'lm-land',terrain);
+const monsterOutline='M315 967C357 936 451 955 470 1028S455 1167 403 1197S305 1170 281 1086S277 1001 315 967Z';
+path(monsterOutline,'lm-land',terrain);
+
+let seed=67;const rand=()=>{seed=(seed*16807)%2147483647;return(seed-1)/2147483646};
+function tree(x,y,size=20,dark=false){const g=group({transform:`translate(${x} ${y})`,opacity:dark?.86:.7},terrain);path(`M0 0L${-size*.6} ${size*.7}L${-size*.3} ${size*.7}L${-size*.75} ${size*1.2}L${-size*.25} ${size*1.2}L${-size*.8} ${size*1.65}L${size*.8} ${size*1.65}L${size*.3} ${size*1.2}L${size*.7} ${size*1.2}L${size*.3} ${size*.7}L${size*.6} ${size*.7}Z M0 ${size*1.65}v${size*.3}`,'lm-tree',g)}
+for(let y=670;y<1380;y+=55){for(let x=1200;x<1775;x+=57){const inside=(x>1250&&y<1350)||(x>1210&&y>800&&y<1250);if(inside&&rand()>.17)tree(x+rand()*25,y+rand()*21,18+rand()*9)}}
+for(let y=1010;y<1260;y+=40)for(let x=718;x<946;x+=42)if(rand()>.12)tree(x+rand()*14,y+rand()*12,21+rand()*8,true);
+for(let y=530;y<695;y+=46)for(let x=135;x<369;x+=45)if(rand()>.18)tree(x+rand()*14,y+rand()*14,25);
+for(let i=0;i<26;i++){const x=1150+rand()*205,y=1205+rand()*157;const g=group({transform:`translate(${x} ${y})`},terrain);make('circle',{cx:0,cy:0,r:11+rand()*6,class:'lm-building','fill-opacity':.6,'stroke-opacity':.32},g);path('M0 15v13','lm-tree',g)}
+for(let i=0;i<6;i++){const y=910+i*62;path(`M495 ${y+38}Q535 ${y-24} 585 ${y+48}M501 ${y+43}q39-48 74 3`,'lm-contour',terrain)}
+for(let i=0;i<7;i++){const x=711+i*32;path(`M${x} 917q30-54 58-24`,'lm-contour',terrain)}
+for(let i=0;i<5;i++){const x=1682+i*34;path(`M${x} 590l29-82 40 83m-65-6 24-44 18 41`,'lm-ink',terrain)}
+
+const dryWaters=group({'data-landscape':'dry'});
+const first='M890 587C809 673 714 722 649 831S590 1003 615 1157C584 1187 509 1142 466 1100';
+const second='M890 587C1049 671 1115 759 1106 896S1067 1052 1100 1148S1198 1274 1210 1370';
+for(const d of[first,second]){path(d,'lm-bed',dryWaters);path(d,'lm-bed-center',dryWaters)}
+const wetWaters=group({'data-landscape':'restored'});
+path('M1040 169C998 226 978 285 951 347S877 424 883 483S886 546 890 587','lm-river',wetWaters);
+for(const d of[first,second])path(d,'lm-river',wetWaters);
+path(monsterOutline,'lm-lake',wetWaters);make('path',{d:monsterOutline,fill:'url(#lm-water-lines)'},wetWaters);
+path(basinOutline,'lm-projected-lake',wetWaters);make('path',{d:basinOutline,fill:'url(#lm-water-lines)',opacity:.45},wetWaters);
+for(let i=0;i<8;i++){const x=766+i*31;path(`M${x} 455Q${x+24} 370 ${x+96} 333`,'lm-contour',wetWaters)}
+const hot='M1715 600C1693 643 1726 706 1747 775S1765 892 1768 1000S1748 1164 1735 1255';
+path(hot,'lm-hot-stream');
+for(let i=0;i<7;i++){const x=839+i*15;path(`M${x} 572l9 28m-5-23 5 24`,'lm-ink')}
+
+const later=group({'data-landscape':'restored'});
+path('M821 275C862 215 957 158 984 86L1058 35 1130 113 1199 246 1292 283','lm-contour',later);
+path('M930 187l112-116 63 119m-144-31 61-39 56 17m-63-53 35 41','lm-ink',later);
+for(let i=0;i<8;i++){const x=981+i*12,y=172-(i%3)*13;make('rect',{x,y,width:9,height:17+(i%3)*5,class:'lm-building'},later)}
+path('M1041 166l-9 30m-2-13-21 15m27-4-19 19','lm-river',later);
+path('M1015 93q24-22 44-3q25-17 42 3m-84-7q-15-14 0-22q25-8 44 7','lm-contour',later);
+
+// The inset represents a separate world, not a geographical house placement.
+const earth=group();
+make('rect',{x:82,y:170,width:410,height:222,rx:10,fill:'var(--background)',stroke:'var(--border)','stroke-width':1.2,'vector-effect':'non-scaling-stroke'},earth);
+path('M137 277l62-45 75 44m-127-5v77h117v-77M183 348v-38h25v38M217 309h21v19h-21Z M157 308h13v19h-13Z','lm-ink',earth);
+make('ellipse',{cx:352,cy:312,rx:40,ry:15,class:'lm-contour'},earth);
+path('M352 307v-53m-14 6q14-18 28 0','lm-contour',earth);
+path('M166 392C118 503 119 646 201 740','lm-portal');
+path('M201 390C129 589 37 820 164 1166','lm-portal');
+
+function cottage(x,y){const g=group({transform:`translate(${x} ${y})`});path('M-31 0l29-23 35 23M-23-3v39h51V-3M-5 36V15h16v21M-17 7h9v10h-9Z','lm-building',g)}
+cottage(180,1180);cottage(840,790);
+const city=group();
+path('M1945 999Q2021 929 2108 995L2130 1091Q2037 1143 1950 1100Z','lm-building',city);
+path('M1953 993v-20h12v25m31-20v-20h12v15m85 11v-22h13v27m19 76h18v12h-18m-160 0h-17v12h18','lm-ink',city);
+path('M2017 1009h58v-26h-8v-20h-9v20h-31v-20h-10Zm12-27q17-28 28 0','lm-building',city);
+path('M2018 1082L2030 1017M2018 1082l-61 2m61-2 91 6','lm-contour',city);
+for(let i=0;i<19;i++){const angle=i*2.399,x=2020+Math.cos(angle)*(30+(i%4)*13),y=1069+Math.sin(angle)*(19+(i%3)*9);if(y<1032)continue;make('rect',{x,y,width:8,height:9,class:'lm-building','stroke-opacity':.3},city)}
+for(let i=0;i<4;i++)path(`M1931 ${1015+i*26}l-24 9m28-4-24 9`,'lm-contour',city);
+path('M1478 788q52-51 110 3l-5 58q-45 13-93-2Z M1496 844v-33h40v35','lm-contour');
+path('M1499 821l-9 13m50-13 12 15','lm-contour');
+make('ellipse',{cx:1716,cy:597,rx:14,ry:9,class:'lm-building'});
+
+for(const p of layout.places){
+  const g=make('g',{'data-place':p.id},pins);
+  const halo=make('circle',{r:9,class:'lm-halo',display:'none'},g);
+  make('circle',{r:3.6,class:'lm-pin'},g);
+  markers.set(p.id,{g,halo});
+  const button=html('button','btn lm-label cursor-interaction',p.label);
+  button.type='button';button.dataset.place=p.id;button.setAttribute('aria-label','Explore '+p.label);button.setAttribute('aria-pressed','false');button.addEventListener('click',()=>select(p.id));labelLayer.append(button);labels.set(p.id,button);
+}
+const earthLabel=html('span','text-small text-muted lm-label','Earthly inset');
+earthLabel.style.pointerEvents='none';labelLayer.append(earthLabel);
+
+function save(){clearTimeout(saveTimer);saveTimer=setTimeout(()=>{const api=window.openai;if(!api?.setWidgetState)return;const privateContent={version:1,selected,landscape,relativeZoom:k/fit,centerX:(width/2-tx)/k,centerY:(height/2-ty)/k};submittedStates.add(JSON.stringify(privateContent));if(submittedStates.size>12)submittedStates.delete(submittedStates.values().next().value);api.setWidgetState({modelContent:{map:'Lilith spatial draft',landscape,selectedPlace:places[selected]?.title||selected,layoutVersion:layout.version},privateContent}).catch(()=>{})},250)}
+function clamp(){
+  const limit=(value,size,total)=>total<size-32?(size-total)/2:Math.min(32,Math.max(size-total-32,value));
+  tx=limit(tx,width,layout.width*k);ty=limit(ty,height,layout.height*k);
+}
+function intersects(a,b){return a.x<b.x+b.w+4&&a.x+a.w+4>b.x&&a.y<b.y+b.h+3&&a.y+a.h+3>b.y}
+function labelRect(point,w,h,anchor){const x=point.x*k+tx,y=point.y*k+ty;const gap=8;const choices={right:[x+gap,y-h/2],left:[x-gap-w,y-h/2],top:[x-w/2,y-gap-h],bottom:[x-w/2,y+gap]};const [left,top]=choices[anchor];return{x:left,y:top,w,h}}
+function drawLabels(){
+  const used=[];const parentID=pointFor(selected)?.id;const ordered=[...layout.places].sort((a,b)=>(a.id===parentID?-10:a.priority)-(b.id===parentID?-10:b.priority));
+  const ex=90*k+tx,ey=183*k+ty,earthVisible=410*k>=112&&ex>=0&&ey>=0&&ex+105<width&&ey+20<height;
+  earthLabel.style.left=ex+'px';earthLabel.style.top=ey+'px';earthLabel.style.visibility=earthVisible?'visible':'hidden';
+  if(earthVisible)used.push({x:ex,y:ey,w:earthLabel.offsetWidth,h:earthLabel.offsetHeight});
+  for(const p of ordered){
+    const b=labels.get(p.id),pin=markers.get(p.id);const x=p.x*k+tx,y=p.y*k+ty;
+    const onScreen=x>=-8&&x<=width+8&&y>=-8&&y<=height+8&&visible(p);
+    pin.g.setAttribute('transform',`translate(${x} ${y})`);pin.g.style.display=onScreen?'':'none';pin.halo.style.display=p.id===pointFor(selected)?.id?'':'none';
+    b.textContent=isRestored()&&p.restoredLabel?p.restoredLabel:p.label;
+    b.setAttribute('aria-label','Explore '+b.textContent);
+    b.setAttribute('aria-pressed',p.id===pointFor(selected)?.id?'true':'false');
+    let chosen=null;
+    if(onScreen&&(k/fit>=p.minZoom||p.id===pointFor(selected)?.id)){
+      b.classList.remove('lm-hidden');const w=b.offsetWidth,h=b.offsetHeight;
+      const anchors=[p.anchor,'right','left','top','bottom'].filter((v,i,a)=>a.indexOf(v)===i);
+      for(const anchor of anchors){const rect=labelRect(p,w,h,anchor);if(rect.x>=2&&rect.y>=2&&rect.x+rect.w<=width-2&&rect.y+rect.h<=height-2&&!used.some(other=>intersects(rect,other))){chosen=rect;break}}
+    }
+    if(chosen){b.style.left=chosen.x+'px';b.style.top=chosen.y+'px';b.classList.remove('lm-hidden');used.push(chosen)}else b.classList.add('lm-hidden');
+  }
+}
+function draw(){clamp();world.setAttribute('transform',`translate(${tx} ${ty}) scale(${k})`);drawLabels();$('lm-zoom').textContent=(k/fit).toFixed(1).replace('.0','')+'×';$('lm-minus').disabled=k<=fit*1.001;$('lm-plus').disabled=k>=fit*12*.999}
+function queueDraw(){if(layoutFrame!==null)return;layoutFrame=requestAnimationFrame(()=>{layoutFrame=null;draw()})}
+function zoomAt(factor,x=width/2,y=height/2){const next=Math.min(fit*12,Math.max(fit,k*factor));tx=x-(x-tx)*next/k;ty=y-(y-ty)*next/k;k=next;draw();save()}
+function focusPoint(id){const p=pointFor(id);if(!p)return;if(p.only&&p.only!==landscape){landscape=p.only;$('lm-landscape').value=landscape;applyLandscape()}
+  const x=p.x*k+tx,y=p.y*k+ty;if(x<30||x>width-30||y<30||y>height-30){tx=width/2-p.x*k;ty=height/2-p.y*k}draw();
+}
+function sourceBlock(id){const p=source[id];const block=html('blockquote','lm-quote');block.append(html('div','text-small text-muted','Source paragraph '+id),html('div','',p.text));return block}
+function updateDetail(){
+  const p=places[selected];if(!p)return;const detail=$('lm-detail');detail.replaceChildren();
+  const title=html('div','lm-detail-title');title.append(html('h3','',p.title));detail.append(title,html('div','text-small text-muted lm-detail-meta',p.state));
+  detail.append(html('p','',p.paragraphs[0]));
+  const note=layout.notes[selected]||layout.notes[pointFor(selected)?.id];if(note)detail.append(html('div','text-small',note));
+  const related=layout.related[selected]||[];
+  if(related.length){const row=html('div','lm-related');for(const id of related){const link=html('button','btn',DATA.shortNames[id]||places[id].title);link.type='button';link.addEventListener('click',()=>select(id));row.append(link)}detail.append(row)}
+  const more=html('details','lm-passages');more.append(html('summary','','Full context and book passages'));
+  p.paragraphs.slice(1).forEach(text=>more.append(html('p','',text)));
+  const refs=html('div','lm-source-refs');p.refs.forEach(id=>{const b=html('button','btn btn-ghost',id);b.type='button';b.addEventListener('click',()=>{const block=detail.querySelector('[data-source="'+id+'"]');block.scrollIntoView({block:'nearest',behavior:'smooth'})});refs.append(b)});more.append(refs);
+  p.refs.forEach(id=>{const block=sourceBlock(id);block.dataset.source=id;more.append(block)});detail.append(more);
+}
+function select(id){if(!places[id])return;selected=id;focusPoint(id);updateDetail();drawLabels();save()}
+function applyLandscape(){root.querySelectorAll('[data-landscape]').forEach(g=>g.style.display=g.getAttribute('data-landscape')===landscape?'':'none');$('lm-state-note').textContent=isRestored()?'Valley refilling is anticipated; monster lake and flowing cataract are witnessed.':'River beds are dry; the hot stream still flows.';drawLabels()}
+$('lm-landscape').addEventListener('change',()=>{landscape=$('lm-landscape').value;if(!visible(pointFor(selected)||{}))selected='cataract';applyLandscape();updateDetail();draw();save()});
+$('lm-plus').addEventListener('click',()=>zoomAt(1.6));$('lm-minus').addEventListener('click',()=>zoomAt(1/1.6));
+field.addEventListener('wheel',e=>{e.preventDefault();const rect=field.getBoundingClientRect();if(e.ctrlKey||e.metaKey)zoomAt(Math.exp(-e.deltaY*.01),e.clientX-rect.left,e.clientY-rect.top);else{tx-=e.deltaX;ty-=e.deltaY;draw();save()}},{passive:false});
+const pointers=new Map();let gesture=null,moved=false;
+function gestureStart(){const ps=[...pointers.values()];if(ps.length===1)gesture={x:ps[0].x,y:ps[0].y,tx,ty};else if(ps.length>=2){const [a,b]=ps;gesture={cx:(a.x+b.x)/2,cy:(a.y+b.y)/2,distance:Math.hypot(a.x-b.x,a.y-b.y),k,tx,ty}}}
+field.addEventListener('pointerdown',e=>{if(e.target.closest('button'))return;const rect=field.getBoundingClientRect();pointers.set(e.pointerId,{x:e.clientX-rect.left,y:e.clientY-rect.top});field.setPointerCapture(e.pointerId);moved=false;gestureStart()});
+field.addEventListener('pointermove',e=>{if(!pointers.has(e.pointerId))return;const rect=field.getBoundingClientRect();pointers.set(e.pointerId,{x:e.clientX-rect.left,y:e.clientY-rect.top});const ps=[...pointers.values()];if(ps.length===1&&gesture){const dx=ps[0].x-gesture.x,dy=ps[0].y-gesture.y;if(Math.hypot(dx,dy)>4)moved=true;tx=gesture.tx+dx;ty=gesture.ty+dy}else if(ps.length>=2&&gesture?.distance){const[a,b]=ps,cx=(a.x+b.x)/2,cy=(a.y+b.y)/2,next=Math.max(fit,Math.min(fit*12,gesture.k*Math.hypot(a.x-b.x,a.y-b.y)/gesture.distance));tx=cx-(gesture.cx-gesture.tx)*next/gesture.k;ty=cy-(gesture.cy-gesture.ty)*next/gesture.k;k=next;moved=true}queueDraw()});
+field.addEventListener('pointerup',e=>{if(!pointers.has(e.pointerId))return;const point=pointers.get(e.pointerId);if(!moved&&pointers.size===1){let nearest=null,distance=24;for(const p of layout.places){if(!visible(p))continue;const d=Math.hypot(point.x-(p.x*k+tx),point.y-(p.y*k+ty));if(d<distance){distance=d;nearest=p}}if(nearest)select(nearest.id)}pointers.delete(e.pointerId);gestureStart();save()});
+field.addEventListener('pointercancel',e=>{pointers.delete(e.pointerId);gestureStart()});
+field.addEventListener('dblclick',e=>{if(e.target.closest('button'))return;const r=field.getBoundingClientRect();zoomAt(1.7,e.clientX-r.left,e.clientY-r.top)});
+function resize(){const oldFit=fit,oldW=width,oldH=height,cx=(oldW/2-tx)/k,cy=(oldH/2-ty)/k;const r=field.getBoundingClientRect();width=r.width;height=r.height;svg.setAttribute('viewBox',`0 0 ${width} ${height}`);fit=Math.min((width-28)/layout.width,(height-34)/layout.height);
+  if(!saved&&oldFit===1){k=fit;tx=(width-layout.width*k)/2;ty=(height-layout.height*k)/2}else if(saved){k=fit*Math.max(1,Math.min(12,saved.relativeZoom||1));tx=width/2-(saved.centerX??layout.width/2)*k;ty=height/2-(saved.centerY??layout.height/2)*k;saved=null}else{k=fit*(k/oldFit);tx=width/2-cx*k;ty=height/2-cy*k}draw()}
+function applyState(state){const s=state?.privateContent;if(!s||s.version!==1||submittedStates.has(JSON.stringify(s)))return;if(['dry','restored'].includes(s.landscape))landscape=s.landscape;if(places[s.selected])selected=s.selected;saved=s;$('lm-landscape').value=landscape;applyLandscape();updateDetail();resize()}
+applyLandscape();updateDetail();
+const initial=window.openai?.widgetState;if(initial?.privateContent?.version===1){saved=initial.privateContent;landscape=saved.landscape||landscape;selected=places[saved.selected]?saved.selected:selected;$('lm-landscape').value=landscape;applyLandscape();updateDetail()}
+new ResizeObserver(resize).observe(field);
+window.addEventListener('openai:set_globals',e=>{if(e.detail?.globals?.widgetState)applyState(e.detail.globals.widgetState)});
+})();
+</script>

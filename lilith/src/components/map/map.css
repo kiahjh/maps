@@ -1,0 +1,56 @@
+.map-section { min-width: 0; height: 100%; }
+.map-field {
+  position: relative; height: 100%;
+  overflow: hidden; touch-action: none; user-select: none; cursor: grab;
+  background: #b8b08e;
+}
+.map-field[data-dragging='true'] { cursor: grabbing; }
+.map-field:focus-visible { outline-offset: -4px; }
+.map-svg { display: block; width: 100%; height: 100%; color: var(--ink); }
+.map-svg .land { fill: #b5aa85; fill-opacity: .14; stroke: var(--ink); stroke-opacity: .2; stroke-width: 1.2; vector-effect: non-scaling-stroke; }
+.map-svg .forest-edge { fill: var(--forest); fill-opacity: .08; stroke: var(--forest); stroke-opacity: .22; stroke-width: 1; vector-effect: non-scaling-stroke; }
+.map-svg .tree { fill: none; stroke: var(--forest); stroke-opacity: .48; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.map-svg .contour { fill: none; stroke: var(--ink); stroke-opacity: .24; stroke-width: 1; vector-effect: non-scaling-stroke; }
+.map-svg .ink { fill: none; stroke: var(--ink); stroke-opacity: .58; stroke-width: 1.2; vector-effect: non-scaling-stroke; }
+.map-svg .river-bed { fill: none; stroke: #a99375; stroke-opacity: .42; stroke-width: 13; }
+.map-svg .river-bed-center { fill: none; stroke: #f5f1e3; stroke-width: 9; }
+.map-svg .river { fill: none; stroke: var(--water); stroke-width: 13; stroke-opacity: .68; }
+.map-svg .hot-stream { fill: none; stroke: var(--water); stroke-width: 8; stroke-opacity: .75; }
+.map-svg .lake { fill: var(--water); fill-opacity: .13; stroke: var(--water); stroke-opacity: .5; stroke-width: 1.2; vector-effect: non-scaling-stroke; }
+.map-svg .projected-lake { fill: var(--water); fill-opacity: .08; stroke: var(--water); stroke-opacity: .5; stroke-width: 1; stroke-dasharray: 4 5; vector-effect: non-scaling-stroke; }
+.map-svg .building { fill: var(--paper); stroke: var(--ink); stroke-opacity: .6; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.map-svg .portal { fill: none; stroke: var(--portal); stroke-opacity: .55; stroke-width: 1.2; stroke-dasharray: 3 7; vector-effect: non-scaling-stroke; }
+.map-markers { position: absolute; inset: 0; pointer-events: none; }
+.map-pin { position: absolute; transform: translate(-50%, -50%); width: 30px; height: 30px; display: grid; place-items: center; padding: 0; border: 0; border-radius: 50%; background: transparent; pointer-events: auto; }
+.map-pin span { width: 7px; height: 7px; background: var(--ink); border: 1.5px solid var(--paper); border-radius: 50%; box-shadow: 0 0 0 1px #283a3220; transition: box-shadow .2s; }
+.map-pin:hover span { box-shadow: 0 0 0 5px #426c5025; }
+.map-pin.is-selected span { background: var(--accent); box-shadow: 0 0 0 4px #a27a4525, 0 0 0 5px #a27a4580; }
+.map-label { position: absolute; pointer-events: auto; white-space: nowrap; border: 0; padding: 5px 7px; background: transparent; border-radius: 2px; font: 13px/1.3 Georgia, serif; color: #293e31; text-shadow: 0 0 5px #f7f0dcee, 0 1px 2px #f7f0dc; }
+.map-label:hover { color: #7e5a2c; background: #fffaf0; }
+.map-label.is-selected { color: #7e5a2c; background: #f6eedb; box-shadow: 0 0 0 1px #bda57855; }
+.earth-label { position: absolute; color: var(--muted); font-size: 9px; letter-spacing: .7px; pointer-events: none; }
+@media (max-width: 420px) { .map-label { font-size: 12px; } }
+.camera-controls { position: absolute; right: 16px; bottom: 16px; z-index: 3; cursor: default; }
+.camera-bar, .camera-settings { background: #faf6e9eb; border: 1px solid #8e8b7133; border-radius: 12px; box-shadow: 0 3px 16px #2c382318; backdrop-filter: blur(12px); }
+.camera-bar { display: flex; align-items: center; padding: 3px; gap: 2px; width: max-content; margin-left: auto; }
+.camera-bar button, .camera-directions button { border: 0; background: transparent; color: var(--ink); border-radius: 8px; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; padding: 0; }
+.camera-bar button:hover, .camera-directions button:hover { background: #50634b12; }
+.camera-mode { font-size: 11px; font-weight: 600; letter-spacing: .3px; }
+.camera-compass { position: relative; }
+.camera-compass span { position: absolute; right: 3px; top: 1px; font-size: 8px; }
+.camera-settings { width: 184px; margin-bottom: 8px; padding: 10px; }
+.camera-directions { display: flex; justify-content: space-between; }
+.camera-directions button { width: 36px; height: 32px; font-size: 11px; }
+.camera-directions button[aria-pressed='true'] { background: #52634817; color: #805c3a; }
+.camera-tilt { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px; padding: 10px 4px 4px; color: var(--muted); font-size: 11px; }
+.camera-tilt input { width: 100%; accent-color: #5d7152; cursor: pointer; margin: 5px 0; }
+.camera-flight { font-size: 11px; font-weight: 600; }
+.flyover-controls { position: absolute; left: 16px; bottom: 16px; z-index: 3; width: 180px; padding: 12px; background: #faf6e9ed; border: 1px solid #8e8b7133; border-radius: 12px; box-shadow: 0 3px 16px #2c382318; backdrop-filter: blur(12px); cursor: default; }
+.flyover-controls p { margin: 0 0 8px; font-size: 10px; line-height: 1.6; color: var(--muted); }
+.flyover-pad { display: grid; grid-template-columns: repeat(3, 1fr); gap: 3px; }
+.flyover-pad button { display: flex; gap: 5px; align-items: center; justify-content: center; border: 0; height: 32px; border-radius: 5px; background: #5263480d; color: var(--ink); touch-action: none; }
+.flyover-pad button:hover, .flyover-pad button:active { background: #52634825; }
+.flyover-pad small { font-size: 9px; color: var(--muted); }
+.flyover-controls label { display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 9px; font-size: 10px; color: var(--muted); }
+.flyover-controls input { width: 100%; margin: 6px 0 0; accent-color: #5d7152; }
+.map-field:has(.flyover-controls) { cursor: move; }

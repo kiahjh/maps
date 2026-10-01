@@ -1,0 +1,2016 @@
+LILITH — WORLD CONTEXT AND GEOGRAPHICAL EVIDENCE
+George MacDonald
+Source: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm
+Prepared: 2026-09-30
+No secondary sources, illustrations or map construction used.
+Complete reading: 47 chapters; 243 grouped evidence spans; 47 gazetteer entries; 44 route constraints.
+The HTML reader and structured JSON retain all original source paragraphs. This text file contains the synthesis and every catalogue note. The separate indexed-text file contains the complete book.
+Paragraph IDs are research locators for this edition, not printed page numbers.
+
+SCOPE AND EVIDENCE STANDARD
+
+This dossier covers the complete 47-chapter Project Gutenberg text of Lilith, its Thoreau epigraph, and its terminal literary notes. The reading proceeded through every chapter, with a second audit of unselected paragraphs for spatial, landscape, architectural, ecological, weather, water, and route language. The catalogue deliberately keeps substantial surrounding dialogue: a description can be corrected many paragraphs later, and the meaning of a place often depends on who sees it or when it is visited.
+
+The sole substantive source is this edition of the book. The gazetteer and route record below are editorial organization of that evidence, not additional world lore. Paragraph IDs such as 16.004 identify locally indexed source blocks; they are not page numbers or numbers printed by MacDonald. Each evidence group includes its original paragraphs, a research note, a dominant evidence type, and one neighboring paragraph on each side where available. A group can contain several kinds of evidence; qualifications in its note take precedence over its broad type label.
+
+Observed means Vane narrates an experience; it does not guarantee ordinary physical reality. Reported means a character supplies history, directions, or an account. Transition records an experienced passage between settings. World-rule includes explanations of space, time, perception, access, and spiritual states. Dream and imagined material remains separate from completed journeys. Reference covers comparisons, backstory, epigraph, and literary apparatus. Vane explicitly admits that he makes theories too quickly and that his descriptions cannot fully reproduce this world. [01.002; 03.005; 09.046]
+
+The last chapter leaves open whether even the apparent final waking belongs to a larger dream. For working purposes, events not subsequently reclassified are recorded as narrated waking experience, with that final qualification retained. A usable map should express the strongest relationships while leaving uncertain distance, direction, identity, and state visibly unresolved. [43.005–43.045; 44.001; 47.001–47.016]
+
+THE SHAPE OF THE WORLD THE TEXT ACTUALLY ESTABLISHES
+
+The earthly estate is an inhabited house, lawn, garden, and home-farm setting, with an unnamed village and an old ruined church. Oxford belongs to Vane’s educational history. The estate receives no surveyed address. The father’s manuscript mentions a blue sea, but does not place the estate on a coast. Switzerland is a proposed escape in Vane’s imagination. None supplies a geographical anchor for the strange country. [01.001; 01.016–01.021; 03.043; 05.007–05.008; 08.001]
+
+In the dry strange country the main connected landscape includes an entry heath and pine wood; a cemetery moor with the sexton’s cottage and House of Sleep; a monster-inhabited hollow separated by low hills from a wide rocky river-bed; Evil Wood between two dry river branches; a former lake basin containing the Little Ones’ fruit valley and the Bags; Mara’s cottage in sandy country; the scaur of an ancient cataract above the fork; a great forest reaching from the valley to a hot stream; the grassy plain beyond that stream; and Bulika, its gardens, walls, streets, mines, and elevated palace. These are a connected itinerary, not a complete continental outline. [02.010; 06.001–06.008; 10.005–11.017; 12.001–12.027; 15.050–16.004; 18.010–18.027; 22.004–25.019; 32.013]
+
+The clearest large-scale landform is the cataract and fork. Looking back from the scaur, Vane sees the dry river divide into two branches as it fell, with Evil Wood between them on the distant horizon. One is the branch he crossed before entering Evil Wood; the other is the branch he later followed upward. This is explicit topological evidence. The former lake and the broader, rougher branch have additional narrative links, but the book supplies neither a surveyed fork angle nor a universally usable east/west assignment. [11.004–11.017; 16.001–16.004; 38.015; 41.022; 42.001]
+
+The country changes after repentance, local rain, and the burial of Lilith’s severed hand. Dry river channels fill; the monster hollow becomes a clear lake; the cataract flows and divides; the sandy upper country becomes grassland threaded with waters and new forests. This is an altered state of previously visited country, not a second adjacent desert and river system. Some restoration is first seen in a dream and only later independently encountered after awakening. [39.108–40.043; 41.037–42.024; 43.005–43.011; 44.001; 45.004–45.013]
+
+Beyond the restored upper country, an upstream journey through an increasingly magnificent forest reaches a city on the side of a solitary mountain. The text explicitly distinguishes this city from Bulika. Its river comes down from the mountain peak through the main street, water stairs, and gate. Higher still, broken source rocks and cloud steps lead to a little door that becomes a book cover as Vane finds himself in his earthly library. This final sequence must remain distinct from Bulika’s fortifications and from the earlier mirror routes. [46.001–46.035]
+
+SPACE, PORTALS, AND OBSERVER-DEPENDENT PLACES
+
+Raven says Vane has entered a region of seven dimensions. A tree about thirty yards to the left stands on the earthly kitchen hearth and grows up the chimney; reaching it would cross the place where someone plays the piano. A rosebush and wild hyacinths share that breakfast-room setting. The house and forest have not left one another. These are asserted co-locations across worlds, not permission to flatten the forest into a scaled architectural floor plan. [04.050–04.089]
+
+The library closet connects with the House of Sleep on one escape, but Raven explicitly says it is no nearer to, and no farther from, the cottage than any other place. The shared book projects between libraries without proving physical adjacency. The garret mirror, pine shimmer, garden crossing, courtyard tree/fountain passage, and final book-door are separate recorded access events. Their existence does not establish a general network of stable roads or mechanically repeatable doorways. [03.040–03.042; 04.012–04.043; 07.040–07.046; 27.013–28.001; 30.010–30.016; 46.035]
+
+Several threats depend on the traveler. Moonlight restrains the burrowing monsters, while slopes, shadows, or moonset remove that protection. The children cross among monsters without seeing them and are safe from them in that episode. Children can see into the House of Sleep beyond Vane’s candle-lit vision. The skeleton couple are in hell while Vane and Raven in the same wood are not. Lilith is in outer darkness while observers remain physically with her in Mara’s cottage. These differences belong to the evidence and cannot be represented solely by coloring regions of a conventional map. [10.005–10.016; 17.060–17.082; 39.045–39.107; 40.044–40.058; 40.106–40.120]
+
+Even buildings change access state: Mara’s cottage has two doors during the first visit, becomes doorless after Vane leaves, and is open again on later visits. The first nocturnal battle in Evil Wood leaves no bones in daylight. The foliage hall appears as a splendid ballroom at night and remains a vegetal enclosure by day. Record one location with different states rather than silently multiplying buildings, ruins, or battlefields. [11.005–11.014; 15.050–15.100; 16.011–16.024; 38.091–38.106; 41.037]
+
+TIME, SKY, WEATHER, AND LIGHT
+
+Earthly and strange-world durations do not reliably agree: an appointment can have passed days ago during a seemingly brief excursion, and the earlier visit is called last week rather than last night. At the cemetery, dawn is spring, noon summer, afternoon autumn, and night winter. The care of Lilith lasts more than three months, but that stationary duration cannot be converted into travel distance. In the House of Sleep, years are not ordinary measures of experience. [04.091–04.098; 06.007; 09.007–09.012; 19.062; 42.048–42.080; 43.001–43.004]
+
+The country has several moons whose periods and orbits Vane never discovers. Early moons appear full; another is low, copper-colored and dented. During the horse ride a moon reaches the zenith then rolls rapidly to the horizon. During the later monster crossing it follows an irregular low arc. Instructions to face a rising moon are therefore exact narrative instructions but not a safe substitute for terrestrial east. There are local sun and west references; none supplies a complete geographical north arrow. [15.001; 15.063–15.077; 18.001; 31.045–31.048; 38.016; 40.052]
+
+Early dryness coexists with hearing hidden waters and with exceptional accessible water: Mara provides a cup; the forest-edge hot river flows; Lilith’s palace has a clear bath. Bulika is less cold at night than the sexton’s neighborhood. The leafy hall has a warm evening despite cold elsewhere. Do not impose one uniform temperature, season, or complete surface-water absence on every district. [11.004; 13.069–13.090; 15.050–15.062; 16.014; 18.017; 25.035–25.045; 27.031]
+
+Rain first visibly wets the desert near Mara’s house after Lilith yields. The party’s next departure still passes dry country. Water restoration has stages; a single instant of universal flooding is not narrated. The children’s earlier account of water filling the garret is explicitly uncertain between dream and waking. [39.001–39.005; 39.108–39.110; 40.001–40.043]
+
+After the true awakening, plants are legible in dim twilight without ordinary external illumination; Vane thinks light may come from them or from the observers’ eyes. Nothing casts shadow, and the heather bells can be heard. Later sunrise, insects and summer moisture accompany the restored river. Near the mountain city, lightning reveals living forms in clouds without thunder; sweet rain becomes torrents and a rainbow while the river remains crystal-clear. These sensory changes are part of the world’s appearance. [45.001–45.013; 46.005–46.024]
+
+WATER HISTORY AND RESTORATION, WITHOUT INVENTED HYDROLOGY
+
+Mara calls the former country the Land of Waters: living torrents fed the lake now occupied by the fruit valley, and people lived as shepherds and cultivators. Mining and foreign commerce accompanied the growth of Bulika. She says Lilith carried away at most half the waters in an egg and the remainder fled underground, still sustaining life. This is Mara’s history. The dry channels, old cataract, former lake form, and recurrent water sounds support ancient water, but the underground network is not surveyed. [12.003; 14.001–14.006; 15.036–15.049; 16.001–16.004]
+
+The hot stream is physically inspected: warm, metallic-tasting water wells from the ground at the back of a small cave and follows a narrow side channel. It is a distinct visible watercourse. The text does not connect its source to the great cataract or identify it as either dry river branch. The grass-borne water from the wounded leopardess is another event, without a channel and ending short of Bulika; it should not automatically become a permanent named river. [18.017–18.027; 21.005–21.020; 22.001–22.003]
+
+Vane is sent above the cataract into the sand, following progressively louder water by stopping every few yards to listen. He digs at the loudest place until damp soil appears, places Lilith’s hand there, sees a little water ooze from beneath its fingers, and fills the pit. He does not inspect a subterranean reservoir, a dam, an egg inside the hand, or a measured spring tunnel. The hand-burial site is a temporary action location, not an independently named town or final river source. [41.017–41.019; 41.037–41.038]
+
+On waking, he predicts a fork returning water to the fruit valley and perhaps drowning monsters, with Evil Wood between as an isle. Later he hears waters behind him in the basin. After the true awakening he actually sees the monster lake, living immobilized monsters at its bottom, the flowing cataract and two branches, and the upstream river in renewed grassland. The monsters are expressly not dead. The burial leaves no sign, and the river comes from far beyond it. The upstream river eventually leads to the mountain city and the peak/source beyond. [42.001–42.002; 42.016–42.024; 45.004–45.013; 46.021–46.035]
+
+VEGETATION, ANIMALS, AND MATERIAL PALETTE
+
+The earthly garden includes lawn, fountain, shrubs, a creeper-covered porch, a thrush with a snail, goldfish and a Persian cat. The home-farm church has an ancient flowering hawthorn. The pine crossing is marked by tall slender fragrant trees; deeper woodland has old grotesque trunks. Heath and cemetery terrain include low plants, heather, dry vegetation, moss and granite. The single pale rose, golden-hearted prayer-flower is an exceptional manifestation at a granite block, not evidence of a widespread ornamental crop. [04.001–04.004; 05.001–05.033; 06.001–06.008; 29.010–29.012]
+
+Evil Wood mixes unfamiliar and familiar forms, including a smooth-stemmed eucalyptus-like tree, blade-like leaves and skull-like calyces. Nocturnal animal shapes and skeleton horses must remain distinct from day fauna. In the fruit valley, small rosy apples, plums, berries, quince and beech coexist with coarse large fruits, tubers and bulbs used by the Bags. Later orchard testimony explicitly names pears, figs, mesples and peaches. The social transformation from Little Ones into Bags affects the population of the same country; it does not imply migration to another continent. [11.005–11.014; 12.001–13.125; 33.001–33.009]
+
+The approach to the guide forest includes tamarisk, juniper and stunted firs, then large pines, flowering shrubs, immense rose trees, vines and ivy. Inside much of the baby/nest forest, large trees stand with little shrub undergrowth; the children use high branches, one enormous walnut and bird-learned nests. Stone is scarce there. Some later local woods seem flowerless for lack of water, while the earlier hall has abundant roses: preserve that variation. Clothing is made from fibrous prickly-pear-like plant remains, aloe-like material and tough evergreen leaves, and aloe spikes become weapons. Resemblance language does not always warrant exact botanical naming. [16.005–16.014; 19.007–19.026; 32.013–32.035; 33.001–33.025; 34.007–34.012]
+
+Observed forest animals include snake, doe and calf, bear-like cubs, miniature adult horses, dwarf cattle and small elephants; birds, owl, mice and butterflies occur around the vegetal hall. The children befriend small animals. Full-sized horses appear later at the forest outskirts. Cats, spotted and spotless leopardesses, dove and Raven have transforming or protective roles; not every appearance indicates a stable breeding habitat. The reported six-foot leech is Lilith’s account and remains doubtful. Monster fauna are many singular hybrid forms rather than a normal species distribution. [16.011–16.024; 18.010–18.018; 19.010–19.026; 33.010–33.025; 34.007–34.012; 40.044–40.058]
+
+Bulika’s exterior gardens contain mostly unfamiliar vegetables and lack observed flowers, water and animals on that visit. Its fabric includes paving stone, walls and battlements, gravel refuse, cellar excavations, palace black and white marble, alabaster, ivory, silver and restrained-animal hardware. Its court has poplar-like stems and one taller palm-like center tree; do not substitute literal botanical species or a borrowed architectural style for Vane’s analogies. The renewed upper country gains flowering undergrowth, songbirds, rivulets, softer sweeter grass and a greater canopy with squirrels and friendly birds. No monkeys are observed there. [22.004; 23.012–23.030; 25.001–25.045; 27.013–27.018; 45.011–45.013]
+
+Cloud forms above the mountain include horses, elephants, lions, dogs, cranes, flamingoes, pigeons, peacocks, hummingbirds, butterflies and transformed creeping life. They are visionary cloud manifestations, not coordinates for ground habitats. The final water-stair uses porphyry and serpentine; the river has a pale beryl-like clearness and flows over grass with primroses, daisies, crocuses, narcissi, pimpernels and anemones. The gate’s precious stones are described as living originals of earthly gems. [46.005–46.032]
+
+WHAT A FUTURE MAP CAN AND CANNOT CLAIM
+
+Safe commitments: preserve the two branches with Evil Wood between them; keep the cataract above the fork; retain the old lake basin/fruit valley relationship; connect the valley to the hot stream through the great baby-finding forest; put the grassy plain across the hot stream toward Bulika; give Bulika surrounding gardens, a refuse belt, multiple gates, a central square and an uphill palace reached by a lane; distinguish the mountain city from Bulika; show its water descending through the main street and gate, with walking steps on both sides.
+
+Qualified commitments: Mara lies on Vane’s repeated approach between the cottage/monster country and the cataract route, but her precise position within the branch system is not triangulated. Entry pine wood and later great forest cannot be merged solely because both contain pines. The rose/ivy hall and carriage are close together and recognized on return; the broad forest reaches the hot stream, but its exact outline and the arrangement of every local grove are unknown. Several local left/right statements belong to a traveler’s viewpoint rather than global compass directions.
+
+Keep alternatives visible for incomplete restoration outcomes. Vane anticipates re-submergence of the orchard lake and an isle of Evil Wood; the later narrated journey directly verifies the monster lake and cataract system, but does not walk the whole former fruit valley to survey its new shore. A complete restored coastline around the wood would therefore need an explicitly inferred treatment rather than an assertion that MacDonald describes its shape. [42.001; 45.004–45.013]
+
+No whole-world scale is recoverable. Local figures include the thirty-yard overlapping tree, the hot stream only a few yards wide, the carriage less than ten paces from the hall, the hundred-foot earthly fountain jet, the sleeping spot a few hundred yards outside Bulika, and periodic listening every few yards. The proposed three-yard no-plough buffer was never realized. Vane’s horse only seemed nineteen hands high. Journey durations vary with moons, supernatural transport, long rests and changing time; they are not a conversion table for miles. [04.056; 05.008; 17.001; 18.017; 22.010; 28.001; 31.005; 41.017]
+
+Do not invent a continent outline, an ocean boundary for the dry country, ranges of named mountains, fixed national borders, the location of other trading towns, city street names, a complete mining network, the number of gates, the exact palace dimensions, a port, or engineering that explains the magical waters. The first horizon mountains, later low hills, hot-stream rocky hills and final solitary mountain have different narrative roles; no text establishes that they are one continuous range.
+
+Dream-only additions require their own label: snowy peak, glacier, dream garden, empty crypt, bottomless grave-mouth pit and apparent Earth return in chapter XLIII. Some dream waters are later corroborated, but that does not retroactively validate every dream route. Paradise, Uranus, Switzerland, Vallombrosa, Aladdin’s cave, Hybla, Hymettus, Indian resemblance, Maelstrom and the Thoreau farm belong to reference or reported other settings, not unmarked landmarks in the principal country. [04.006–04.010; 06.002; 07.032; 16.013; 25.001; 25.045; 43.001–44.001; 45.004]
+
+PLACE-BY-PLACE GAZETTEER
+
+Earthly estate, lawn, garden, and home-farm
+State: Earth
+Source locators: 01.001; 01.003; 04.004; 05.007; 28.001; 29.010
+
+An old inherited estate without stated address. The ancient house has been enlarged into a rambling collection of wings and rooms. The lawn has a central fountain built by Vane’s father; its jet rises a hundred feet before foaming outward. A garden porch covered in creepers leads to a grassy nook between two parts of the house. Ground-floor windows admit Raven. Shrubs, goldfish, a thrush and the Persian cat establish ordinary garden life.
+
+The home-farm contains old church ruins and an ancient hawthorn. Vane intends a rose wilderness around those ruins and a three-yard plough exclusion around the tree, but this is an unfulfilled plan. An unnamed village supplies the butler’s ghost-story source. The blue sea in the father’s writing and Vane’s Oxford history do not locate the estate.
+
+Library and masked book closet
+State: Earth / cross-world access
+Source locators: 01.003; 01.009; 07.040; 07.046; 07.048; 07.050; 29.060; 30.011
+
+The library occupies most of the ground floor. A large principal room has shelves nearly to the ceiling; adjoining irregular rooms connect through doors, arches, short passages and changes of level. An ancestral portrait occupies a niche among books; other portraits hang in a gallery and great rooms. One window looks over the lawn fountain.
+
+A low, narrow, thick door is disguised by projecting frame and false book backs. Behind it is a rare-book closet with no ordinary second exit; a fixed fragment of manuscript seems impossible to remove. A dark corner contains drawers. A small eastern window and mirror throw morning sun toward the masked door; Vane reads in a western window. A couch is used for overnight sleep.
+
+Escape from the House of Sleep places Vane at this door holding its handle. Lilith is later locked in the closet behind a marked threshold. Raven denies that this makes the closet geographically adjacent to the sexton’s cottage: the book links settings without establishing ordinary distance.
+
+Garret, wooden chamber, and mirror apparatus
+State: Earth / portal
+Source locators: 02.003; 02.008; 08.044; 08.055; 09.001; 30.029
+
+The detailed ascent runs from library to hall, great stair, first-floor main rooms, wide corridor, narrower stair, second-floor passages, a door and winding wooden stair. The huge garret has beams, rafters, long dim views, other doors, few cobwebbed windows and dusky skylights. The father’s account adds gaps without flooring where he steps joist to joist, with light entering along roof-slab edges.
+
+A rough unpainted plank enclosure stands within the garret; its chamber narrows upward through the roof. The dusty oblong floor mirror leans against the wall, framed in ebony, with eagle ornament, chains and black ball. Another mirror stands opposite. Chains adjust a rotating hood/top, altering sunlight and reflected rays. The vista clears to heath and distant mountains before passage. Noon adjustment works in narrated entries, but Vane’s optical explanation is conjectural.
+
+Sir Upward’s lost tower
+State: Historical account
+Source locators: 08.019; 08.029
+
+Within the father’s manuscript, Raven describes Sir Upward’s library of a hundred manuscripts. From the great hall a steep rough descent and underground passage lead to a newly built tower, its stair, and top room. A tiny key opens a very large lock. The threshold reveals immense space, blue mountains and a paler blue sky. The tower subsequently disappears; it is not an extant building on Vane’s present estate.
+
+Mirror-entry heath and first horizon
+State: Dry country / entry
+Source locators: 02.009; 03.001; 03.040; 09.007; 09.029
+
+From the mirror: flat melancholy moor near at hand, low desolate broken heathy hills in the middle distance, and mountain tops on the far horizon. Once through, there is no familiar house or visible door behind, only ambiguous foglike distance. Low plants and wind are perceptible. Raven has a shadow although no shining sun is seen in the opening episode.
+
+A later search traverses thickets and several small fir woods without finding the expected pine forest. Near-horizon sun brings winter cold. Raven points toward a blinding setting sun before the yellow light-creature leads Vane, supporting a westward initial direction in that particular scene. The placement of the mirror horizon mountains relative to later regions is not resolved.
+
+First pine wood, shimmer, and overlapping forest
+State: Dry country / cross-world overlap
+Source locators: 03.040; 03.042; 04.050; 04.056; 04.064; 05.001
+
+Tall slender fragrant pines hold twilight gloom. A shimmer between two trunks resembles heat haze, disappears near at hand, and gives uncertain sight of trees beyond. Passing it returns Vane to the wooden mirror chamber. A separate garden-following episode also ends in a pine forest, but the exact identity of each stretch is not surveyed.
+
+Raven’s seven-dimensional explanation places a large tree about thirty yards left on the kitchen hearth, a piano-player across the path to it, a rosebush beside her, and hyacinths among the strings. As the party proceeds, trees grow larger, older and more grotesque before thinning into open heath. These are co-located perceptions, not a conventional forest encircling the house at measured setbacks.
+
+Ruined church and prayer-flower
+State: Earth / overlapping sacred setting
+Source locators: 05.001; 05.007; 05.009; 05.025; 05.033
+
+The ancient white-flowering hawthorn in the home-farm church ruins looks to Vane like a white-headed man. Raven says old worshippers continue to gather and sing; windlike music and an ascending white pigeon belong to the encounter. The pigeon interpreted as prayer and celestial stair language need no separate literal staircase.
+
+At the foot of a granite block stands one unfamiliar anemone-like flower, pale rose with golden center and remarkable scent. Raven identifies it with prayer. It is a localized exceptional flower, distinct from the proposed rose garden that Vane has not planted.
+
+Rocky moor and unenclosed cemetery
+State: Dry country / renewed departure
+Source locators: 06.001; 06.008; 07.015; 07.020; 40.059; 42.016; 45.001
+
+Rocky moor, dry vegetation and moss lead to the cottage, first visible very far away. Gray clouds, sinking western sun, strong cold and a gray starless horizon produce the approach. The whole flat unenclosed heath is described as cemetery, although Vane sees neither marked graves nor a church. Many sleepers lie above ground like thick fallen petals; few are buried underneath.
+
+Its apparent boundary is the horizon, not a measured wall. The sexton’s day cycles through four seasons. Later a distant light, Adam’s doorway candle, or Eve’s window candle guides the returning party. After awakening, the same heath has visible heather bells, shrubs and grass in a twilight without ordinary shadows.
+
+Sexton’s cottage
+State: Dry country / House of Sleep entrance
+Source locators: 06.009; 06.045; 06.071; 40.059; 41.014; 42.021; 44.075
+
+A small cottage with central deal table, candle, wall cupboard of bread and wine, and an inner door resembling a coffin lid. Eve stands before that door at the first arrival. A later visit specifies a clay floor. Doorway and window lights guide travelers; animals shelter or wait outside.
+
+This is not an ordinary inn where Vane may stay awake overnight as a halfway guest. Passing the inner threshold enters the immense cold sleeping room. On his last solitary return the front room is empty, but the inner coffin-door moves. Horse and elephants wait by the outer door on the final departure.
+
+House of Death / House of Sleep / great chamber
+State: Persistent place, changing occupants
+Source locators: 07.001; 07.010; 40.083; 40.106; 40.121; 40.157; 42.068; 44.054
+
+An immense still room entered through the cottage’s inner door, with ice-like cold and pure air. Innumerable separate couches form aisles, heads toward the passages, white sheets over sleepers. Moonlight enters wall openings and gives a bluish frozen appearance. Vane cannot grasp its total outline: cathedral nave and huge barn are alternate impressions. Mara calls it the biggest room in the world, with future little nests, but no measurable dimensions follow.
+
+Three empty couches lie by a woman with a wounded hand and a middle-aged man, later identified as Vane’s parents. Lona takes the middle empty couch, Lilith the couch to her right; Vane eventually sleeps beside his mother and Lona. The explicit local family sequence is father–mother–Vane–Lona–Lilith, or its mirror reversal. No cardinal axis is supplied.
+
+Children share occupied women’s couches and those of Vane’s parents rather than inhabiting a separate new nursery wing. Two boys lie on either side of Lilith; the rescued white leopardess is laid across her feet, forepaws outstretched and head between them. At the true awakening many children rise, but Peter, Crispy, Lilith and the white cat remain sleeping. The parents have already departed, though a dreaming Vane earlier thought everyone gone.
+
+The Shadow cannot enter or hurt those within. Lilith and the Shadow are expected to wake last. Low horizontal crypt-like windows are first specified in the dream excursion, so retain that qualification if illustrating the waking room. Lona simultaneously seems to emerge and is already asleep on her couch: the text explicitly resists treating every apparition as bodily displacement.
+
+Bad Burrow / evil hollow / monster basin
+State: Dry basin → restored lake
+Source locators: 10.005; 10.012; 11.001; 31.045; 40.044; 40.050; 42.016; 45.004
+
+Beyond heather the ground becomes bare, spongy and powdery like dry peat. It ripples and heaves under monsters: a tiger-like burrower, white-maned red-necked bear-headed worm, feathered serpent and many unique mixed forms. Later encounters add bodiless heads, fleshy hairy tubes, beaks, claws, tentacles and long-necked corpse-headed shapes. This is ground behaving like a sea, not an actual early sea.
+
+Moonlight restrains the creatures; mist, hill shadows, darkness and moonset intensify danger. A low hill range and ridge offer escape. The later party crosses a shallow basin with firm ground on the far side, but children do not see the monsters. After restoration it is a clear lake with greenish depths. A whirlpool has swept away burrowing soil; the monsters lie knotted, coiled or piled motionless at the bottom, expressly alive. No surveyed shoreline is provided.
+
+Low hills, escape ridge, and first river approach
+State: Dry / restored route
+Source locators: 10.015; 10.017; 11.001; 40.044; 43.009; 45.008
+
+The low range beyond the monster country offers a moonlit ridge and a warmer short descent where Vane waits for dawn. From the summit at sunrise he sees the apparently lifeless hollow behind and an empty expanse with a differently colored possible forest ahead. Descent reaches the first exposed river-bed. Later Mara’s party reaches a ridge above the basin at sunset after crossing the river channels.
+
+The book establishes a separating ridge and journey order, not a named mountain chain or elevation. It does not identify these hills with the first mirror horizon mountains, the hot-stream source hills, or the final solitary mountain.
+
+First dry river branch / broader, rougher branch
+State: Dry channels → flowing water
+Source locators: 11.001; 11.004; 16.004; 31.045; 38.015; 41.022; 45.008
+
+The first immense crossing before Evil Wood consists of exposed rock, many water-runs, flat or channelled surfaces, humped and pinnacled places, dry moss and hard lichens. A day passes before Vane reaches the wood. Sounds suggest water but he crosses no actual water then. Night riding later involves ravines and chasms, and the horse falls by a wide shallow channel near the midst of the crossings.
+
+The cataract view recognizes this as one of the two branches. Later Vane wants help crossing the broader, rougher branch on the route toward the cemetery; Mara supplies an easy crossing. On the hand mission he crosses channels of the first branch and judges Mara near. Those passages connect the route but do not specify all individual channels or a compass bearing.
+
+Evil Wood
+State: Nocturnal phantoms / anticipated restored isle
+Source locators: 09.024; 11.005; 11.009; 11.014; 16.004; 32.004; 42.001
+
+A mixed forest unlike the entry pine wood, with glades, enclosing low boughs and unfamiliar eucalyptus-like growth. Foliage suggests wolves, horses, skeletons and a woman as cold and wind arrive. At night Vane sees a violent phantom/skeleton battle and misty or white-boned horses. Just before sunrise the figures collapse; daylight reveals no bones, only withered branches and burial-like sounds. No ordinary birds or small animals are seen on that day.
+
+The scaur view explicitly places the wood between the two river branches. Raven says Vane’s grandfather is among those who fight there instead of sleeping. Cats later drive Vane through the wood unseen on his way back to the fruit valley. Restoration would make it an isle in Vane’s anticipation; the later party does not survey its full new water boundary.
+
+Second dry river branch and upward bank route
+State: Dry → restored
+Source locators: 11.015; 12.001; 14.025; 15.068; 16.004
+
+On emerging from Evil Wood, Vane crosses another network of dry channels. He initially fears he has reversed direction, then supposes another branch; the later scaur view confirms two branches. A broad mossy channel offers a sleeping place, and he hears water with his head to the ground. Shrub-like vegetation and dwarf fruit trees increase toward the former lake basin.
+
+After leaving the children he travels up this branch, whose bank eventually leads toward Mara and the old cataract route. The return from the nest village crosses a branch described as left from that traveler’s viewpoint. No text fixes all these local left/right words to a universal north-up orientation.
+
+Former lake basin / fruit valley / Little Ones’ hollow
+State: Dry habitation / restoration anticipated
+Source locators: 12.001; 12.003; 13.001; 13.069; 14.001; 15.039; 33.001; 42.001
+
+A hollow interpreted as an old lake basin. Forest flows into it from the left; grass and moss cover descending slopes. Fruit trees dominate, larger coarse-fruited growth at the rim and tiny rosy apple trees among them. Tiny trees fill intervals like brushwood. The small fruit nourishes children and Vane; giant food includes large unpalatable green apples, tubers and bulbs.
+
+Children hide among small growth and warm Vane at night; Lona brings babies from the wood. They have no ordinary counting of age and have never seen water until tears, though the region shows ancient water and offers hidden-water sounds. Their country is bound up with identity. Mara later confirms the receiving-lake history. Vane expects the lake to refill; the final shoreline and the survival or relocation of every orchard tree are not narrated.
+
+Bags’ huts and changing occupation of the valley
+State: Dry country / before and after relocation
+Source locators: 12.024; 13.001; 13.110; 33.001; 33.026
+
+The initial giant settlement is in wood above the valley. Huts use fallen branches and a few stones; Vane lies on bare ground at a hut door and is tied to a fruitless work tree by day. Lona reports a largest unseen giant worshipped in one house. This reported house is not a visited landmark with a known plan.
+
+The Bags destroy small fruit trees after Vane leaves. The Little Ones move beyond the giants’ range. Over a hundred giants later attack the nest forest and are repelled from fifty trees with collected stones and elephants. They depart to the other end of the orchard valley and never return to that forest. The old huts and the later giant location belong to different stages; no permanent administrative border is established.
+
+Great baby-finding forest between valley and hot stream
+State: Dry country / changing community
+Source locators: 13.020; 14.021; 16.006; 30.003; 32.013; 33.001
+
+Vane eventually explicitly identifies a forest extending all the way from the valley to the hot stream. Earlier resemblance of the guide forest to the baby forest is only his conjecture; the later statement establishes the broad connection. Parts are open, with large trees and little shrub undergrowth. Children search it at night for infants.
+
+The source of all infants is unresolved: children guess tree-drop or eggs, and Vane later guesses mothers from Bulika. One fugitive mother does reach the colony, so that route is real, but it is not a universal explanation. Adam gives Lona a distinct history of divine fostering in the wilderness. No single nursery, egg grove, or portal-origin point can be mapped as fact.
+
+Little Ones’ high nest village
+State: Dry country / later colony
+Source locators: 32.024; 32.033; 33.001; 33.019; 34.007; 38.014
+
+After giant damage, the children build sleeping nests high in tall welcoming trees, beyond the Bags’ range but close enough for nocturnal fruit visits to the old orchards. They learn nests from birds and climb bough to bough; they have arms and legs, not wings. One occupied tree is an enormous walnut. There is little underbrush and no conventional street of houses.
+
+Stone is scarce, gathered from far away for nest defense. Lona’s tree is the site of the spotted and white cats’ battle. Bright birds, friendly miniature animals, stored fruit, later full-sized horses on the outskirts and leaf garments give this site its specific appearance. The party returns here after the ivy hall, stays a night and resettles most children before the smaller group goes to Mara. No precise forest area or nest count follows from the fifty defended trees.
+
+Mara’s sandy approach, ravines, and hollows
+State: Dry country / transition
+Source locators: 14.025; 15.001; 15.035; 38.015; 40.043
+
+Leaving the children’s branch escort brings Vane into sandy country. Numerous small ravines obstruct his night walk; he sleeps in a sandy hollow. Mara’s cottage appears in alignment with a setting moon, light shining through an open door or window. This is a sightline, not a building on or near the lunar surface.
+
+Later the small returning party camps in desert between the branches and sees the house before evening on the next day. The route confirms a sandy inter-branch approach, but does not triangulate the cottage. Local rain later arrives while surrounding travel country is still dry.
+
+Mara’s House of Bitterness
+State: Dry / repentance / first local rain
+Source locators: 15.050; 15.062; 15.085; 38.091; 39.006; 39.108; 41.037
+
+A cottage resembling the sexton’s but with thicker walls, its rock foundation deep in a wide tract of sand. A heavy strong outer door leads directly into a large bare room. Two small opposite glassless windows and two doors produce the original moon sightline. A horn lantern stands at the hearth. Mara lives alone except for guests.
+
+A narrow steep stair leads to an unpartitioned, unceiled garret with one broad low dormer. The guest bed stands under the slope with a white coverlet; dry bread and cold water are supplied. On leaving, Vane finds the house abruptly doorless and cannot get back in. Later visits restore the open doorway.
+
+The main room later has clay floor, small hearth fire, a lamp high on the chimney-piece and a rough settle initially at one side. It is moved to the center with Lilith’s feet toward the hearth; Mara and Vane sit on opposite sides of the fire. Mara’s own bed lies in a downstairs corner, separate from the guest bed above. Bread and pitcher remain on the table during the two later empty-house passages.
+
+Cats, inner fire, invisible water and Lilith’s inward hell belong to its changing experiential state. The children cannot say whether their garret flood and cats were dream or waking. Actual soft rain wets the outer desert at dawn after Lilith’s surrender; this is separately narrated.
+
+Old cataract scaur / great restored cataract
+State: Dry rock → flowing fork
+Source locators: 16.001; 16.004; 41.017; 41.038; 45.010
+
+After many unspecified desert miles, Vane reaches and climbs a rock marked by an ancient waterfall, with green moss and audible hidden water below. Above lies fine sand filling an upper river course. Ahead and left desert stretches beyond sight; a far-right forest skyline gives his next direction. Looking back reveals the river dividing as it fell, and Evil Wood between the two branches far away.
+
+After restoration, the party follows the river upstream along its right bank without crossing to the sheer cataract at the foot of the former sandy desert. Above the climb is a broad deep quiet brim-full river in grassland. The text describes a shared cataract and two branches, not two separate waterfall sources.
+
+Upper sand and the burial of Lilith’s hand
+State: Dry action site → erased in restoration
+Source locators: 16.003; 41.017; 41.038; 42.001; 45.011
+
+Above the cataract stretches a sandy upper plain and old river course. Adam sends Vane deep into it, following underground sound by repeated listening every few yards. At the loudest point he digs a large pit through loose sand to damp soil. Water oozes from under the hand’s fingers before he covers it level with the desert and sleeps.
+
+The waking ground is moist and his old track has quicksand as the river stirs. On the final upstream passage there is no sign of the burial, and the river comes from far beyond. This place begins the narrated release without becoming the ultimate river headwater. Its exact distance or direction from the scaur is not measured.
+
+Guide forest and rose wood
+State: Dry country / route to the hot stream
+Source locators: 15.068; 16.005; 16.010; 16.025; 18.001
+
+Mara instructs Vane to go up the river bank until it disappears, verge right to forest, then leave it facing a rising moon and keep that heading. Tamarisk and juniper give way to stunted firs, larger firs, and pines mixed with other trees. Large trunks stand almost geometrically, with little undergrowth, long views, colored and white butterflies and some birds.
+
+The pines open into flowering shrubs and splendid tree-sized roses among immense columnar trees. The hall and carriage occur within this route. Later recognition on the return from Bulika places them between the hot-stream crossing and the nest village, but no measured forest path or perimeter is supplied.
+
+Rose-and-ivy vegetal hall
+State: Vegetal enclosure / nocturnal ballroom
+Source locators: 16.011; 16.024; 18.003; 38.008; 38.009
+
+A house or castle-like shape appears among plants, but Vane cannot verify masonry; an ivy-swallowed ruin is his conjecture. A rectangular doorless gap opens into hall-like space with grass and flowers for floor and ivy, vine and roses for walls and roof. He beds on dead leaves in a corner. Sky and stars show through the branch roof; nesting birds, owl and mice inhabit it. Grapes grow by its doorway.
+
+At midnight the place seems a splendid hall with ancient dancers whose faces are skulls and whose bodies pass through Vane. Wind strips finery and bodies away. The returning children later play among the dancers. A Lilith-like doorway apparition does not establish a second palace or a second bodily captive. For illustration the plant fabric is secure; stone towers would be invention.
+
+Mouldering carriage and skeleton pair’s thicket
+State: Dry country / close to ivy hall
+Source locators: 17.001; 17.060; 38.011
+
+Before walking ten paces after leaving the hall Vane catches sight of a carriage and then approaches it; the text does not measure the full separation between hall and carriage. The old carriage stands upright on heavy wheels, with fallen doors, two horse skeletons by the pole, a coachman’s skeleton and two skeletal passengers. Fibrous grass binds a damaged joint; a fallen branch serves as crutch. This establishes a nearby relic site, not a road network or known carriage destination.
+
+On return the same pair occupy a nearby thicket and move more freely, gathering herbs; Vane’s proposed explanation that they rub their bones with them is conjecture. Raven says the hall dancers are spiritually far ahead of the pair although physically close. Their hell is a co-located state, not a separate region.
+
+Lilith’s discovery tree and converging animal tracks
+State: Dry forest / temporary care site
+Source locators: 18.001; 18.008; 18.010; 18.018
+
+Facing a low copper-dark dented moon, Vane finds a wasted cold woman under a spreading tree on hard root-woven ground and pine needles. He brings grapes from the hall, makes a branch-and-leaf bed and tends her. Her initial arrival and life/death condition are not explained by a confirmed local history.
+
+Before dawn, animal paths converge into a well-beaten track, widening as lesser tracks join. Miniature horses, dwarf cattle, elephants and other animals lead to the forest edge. The route establishes an approach to the hot river; no surveyed distance from the hall or source cave is given.
+
+Hot river at the forest edge
+State: Visible water / protective crossing
+Source locators: 18.017; 18.020; 25.046; 30.004; 32.013; 38.001
+
+A deep brim-full stream, only a few yards wide, runs along the forest edge beside a vast green grassy plain. Bluish mist rises from hot, metallic-tasting water. Its current is swift and steady. Animals swim across toward grazing; Vane supposes they sleep in the wood and feed on the plain.
+
+This is Mara’s instructed running-stream crossing before Bulika. Adam later confirms that it stopped Lilith’s attack and that she could bypass it only through the three-dimensional world in contact with Vane. The barrier is a magical crossing restriction, not a built wall. The return party crosses it before the ivy hall and nest village; Lilith’s eyes close after crossing.
+
+Rocky hot-stream source cave and bridge-bed
+State: Temporary dwelling / inspected spring
+Source locators: 18.025; 18.033; 19.001; 19.027
+
+Upstream nearby rocky hills contain a small cave at the foot of one hill. Water rises quietly from the ground at the back, like the base of a column, and runs along one side through a deep narrow channel. The outlet does not fill the whole cave entrance. Vane’s imagined internal waterfall stair is explicitly disproved.
+
+He arranges boulders and spans the stream with fallen beech boughs, dry yellow leaves, cross-twigs and packed leaves/moss, making a bed warmed from below. Warm water keeps air fresh but sometimes oppressive; outside air is cooler. Forest fruit and fiber supply food and clothing. Care extends beyond three months. This is a makeshift bridge-bed, not a village or permanent stone bridge.
+
+Grassy plain between forest-edge stream and Bulika
+State: Dry country / pursuit and marches
+Source locators: 20.001; 20.018; 21.001; 22.004; 34.013; 35.001; 38.001
+
+Beyond the stream grass thickens toward a far green horizon. Leaving it, Lilith crosses a gentle upslope; Vane follows across thick soft grass for a whole day. The two cats pursue the same line. A fleeing mother travels on a parallel line with an infant. No named highway, compass bearing or mile count is supplied.
+
+Children had reported smooth green country without rocks or trees toward the moonrise side beyond their wood. The army later crosses silent levels of short grass, carrying hay because elephants cannot gather enough of the short blades. Rest and night-march stages, supernatural fauna and uncertain sky cycles prevent exact distance conversion. Outside Bulika the grass grows thicker and softer at the temporary camp.
+
+Channel-less water from the wounded leopardess
+State: Transient observed water
+Source locators: 21.005; 21.020; 22.001; 22.003
+
+A spotted leopardess wounded in the left forepaw leaves a copious flow Vane first mistakes for blood. Testing proves it water. It murmurs across grass without a channel, with force at his ankles. He follows it toward Bulika; at dawn it stops short of the walls, leaving bent grass and little pools. Its permanence and subsequent course are not established. A fixed blue river on a map would overstate this evidence.
+
+Bulika: country, gardens, walls, gates, and streets
+State: Dry city / historical Land of Waters
+Source locators: 15.036; 22.004; 22.008; 22.011; 23.001; 35.007
+
+Mara names the city in grassy country and reports its rise from pastoral and agricultural life through diamond/opal mining and foreign commerce. Lilith’s sweeping imperial claims and citizens’ assertions of her power do not establish surveyed political borders. Other manufacturing towns are unnamed and unlocated.
+
+At dawn old wall towers stand against pale sky. Vegetable gardens closely surround walls, with mostly unfamiliar crops and no flowers, water or animals seen. A belt of great gravel/refuse heaps lies between gardens and wall, thrown from battlements. Several roads approach different gates. One half-closed unguarded gate has apparently immovable hinges; the fortifications are neglected, not actively sealed.
+
+Within are long narrow old streets, tall houses, stone paving, small archway hiding places and nearly impassable lanes connecting wider streets. No street names, full grid, gate count or city diameter is given. The populace leaves street centers to the advancing children and later watches from doors and windows. Vane’s early sunny sleeping spot is a few hundred yards outside the walls.
+
+Bulika’s central square and bat pillar
+State: Dry city / route hub
+Source locators: 22.008; 35.007; 35.014; 36.023
+
+An early small square contains a pillar topped with a hideous bat-like figure. During the army occupation a central square serves as camp; a narrow lane directly connects it to the palace. After Lona’s death Vane rests at the pillar base in the now-empty square. The repeated route and pillar support identifying these scenes as the same square, but that identity is contextual rather than a repeated street address.
+
+The gate-to-square-to-palace sequence is secure. Its cardinal position, the shape of the plaza, the lane length and the orientation of the bat figure are not specified.
+
+Citizen’s stair, landing, stone room, and adjoining chamber
+State: Dry city / repeated visits
+Source locators: 23.031; 24.001; 24.009; 26.014
+
+After a maze of lanes, a steep narrow stair lies between two tall houses. Its top landing, about a man’s length, separates opposite doors and shelters Vane from the street wind. One door closes against him. Mara later admits him to an empty stone-paved room where a rug serves as bed, lit by moonlight.
+
+A narrow interior passage leads to the adjacent newborn’s room. The spotless leopardess has too little room to turn on the stair and somersaults out. Vane retraces the stair to the street; later Shadow follows the same route. The repeated woman-death scenes should be retained in their sequence rather than normalized into a rationalized floor plan or an invented second street.
+
+Gem cellars and excavation labyrinth
+State: Reported industry / observed child pit
+Source locators: 23.012; 23.030; 35.016; 35.019
+
+Citizens say they dig gems in their cellars, living on inherited wealth and trade while manufactured goods come from other towns. During the raid on one house Vane enters empty upstairs rooms and an under-stair door opening to a labyrinth of excavations, where a boy is in a hole. This physically confirms underground excavation, not the connection of every cellar beneath the entire city. A second nearby house contains a murdered child.
+
+Elevated fortress-palace and outer defenses
+State: Dry city / observed architecture
+Source locators: 24.011; 24.017; 25.001; 36.008
+
+The palace stands high over the city’s heart, approached by a steep way, with many defenses and partly ruined neglected fortifications. Great gates remain open. A drawbridge-like crossing spans a rocky ravine/chasm used as moat; Vane doubts it ever contained water. A recessed stone bench outside shelters him at night.
+
+Inside is a paved court/grove of regularly spaced towering poplar-like stems, with one still taller center tree. The palace is long and low with high corner towers and a great central dome only half the towers’ height. A low half-elliptical central front arch enters the vestibule. Its suggested Indian origin is Vane’s analogy, not permission to import an Indian palace plan.
+
+Courtyard’s tallest tree and fountain passage
+State: Dry city / Earth transition
+Source locators: 25.001; 27.013; 27.018; 27.031; 28.001; 30.004
+
+The central court tree has branches gathering their ends into a fir-cone-like crown and trunk projections resembling old palm leaf bases. Lilith claims a healing blossom and dangerous snake at the top; Vane never verifies either. Cold increases as he climbs despite little wind and unmoving branches. Near the top support feels unstable, then he is drenched and flung into the earthly fountain basin.
+
+Adam explains that Lilith touched Vane’s wrapped feet throughout the ascent, gaining contact needed to reenter Earth and bypass the hot-stream prohibition. The hundred-foot height is the fountain jet in the ensuing Earth scene, not a measured height of this tree.
+
+Vestibule, restraint cage, kitchen, and irregular passages
+State: Dry palace interiors
+Source locators: 25.001; 25.019; 26.012
+
+A longish elliptical vestibule has the spotted leopardess’s cage to one side, muzzle, restraining paw mitts and collar. Two low passages lead into many narrow irregular branches; a page guides Vane. A large kitchen contains servants and provisions. The exact passages, room locations, levels and correspondence to exterior corner towers remain undescribed.
+
+A later nocturnal encounter seems to show the beast leaving yet also remaining in the cage. That double appearance must not become a second ordinary animal cage or a duplicated palace wing without explicit labeling.
+
+Black-marble elliptical great hall
+State: Dry palace / precise local geometry
+Source locators: 25.019; 25.020; 26.007; 36.003; 36.016
+
+An enormous dark chamber has close-fitting black marble floor and walls; its plan/wall is elliptical, its roof the long half of an ellipsoid. A high oval opening lies over one focus, yielding a small patch of light rather than general illumination. Later the princess’s chair is at the north focus under the aperture, on a dais, with a mirror a little above and in front of her that reflects sunlight onto her. Meridional sunlight briefly illuminates her.
+
+This north-focus statement is unusually precise local orientation. It still gives no citywide compass, room dimensions or explicit identification of this roof with the external central dome. A black curtain and white stair lead to the guest accommodation. Nocturnal dancers, shadow bodies and monsters mingle in the dark hall; images from the princess’s brain are not additional geographical rooms.
+
+Lona dies on its marble. Frightened horses run into the unseen black wall; elephants reach the dais. These events confirm local floor, wall and dais relations, not the total hall scale.
+
+White stair, guest chamber, and sunken bath
+State: Dry palace / private water
+Source locators: 25.020; 25.032; 25.035; 26.003; 26.007
+
+Behind a black curtain a white stair ascends to a beautiful guest chamber. A robe lies at the couch foot; a lamp hangs from the ceiling. A great white clear-water bath is sunk in the marble floor at one corner, with an unfamiliar delicate fragrance. The source and supposed enchantment are conjectural. This private water is an exception to the dry country, not proof of a public city water system.
+
+Round alabaster dining room
+State: Dry palace / downstairs interior
+Source locators: 25.035; 25.045; 25.055; 26.007
+
+At the foot of the white stair a room to the left is round, all alabaster, without windows. Light filters through the material everywhere; a low dome carries flitting shadow effects. An ivory table and couch hold bread, cakes, fruit, milk, wine and silver goblets. The princess leads Vane back upstairs afterward. The room’s immediate connection is stated; its external facade or palace position is not.
+
+Temporary camp outside Bulika
+State: After Lona’s death / captive Lilith
+Source locators: 36.023; 37.001; 37.013; 37.031; 38.001
+
+The party exits by the entry gate to children gathered in thicker softer grass. Lona’s body lies among them; Lilith is watched separately outside the camp perimeter, with sentries and elephants. A white leopardess circles at moonrise and passes between captive and children. There are no built defenses or permanent dwellings.
+
+Children report the Great Shadow descending from the palace hill and expanding through them before they flee out of the gate. Odu’s imagined home for him in moonless night is not a verified destination. The camp’s distance from the wall is not equated to Vane’s earlier few-hundred-yard sleeping spot.
+
+Renewed upper river, grassland, rivulets, and greater forest
+State: After true awakening
+Source locators: 45.008; 45.010; 45.011; 45.013; 46.001
+
+Above the flowing cataract, the old sandy desert is grassy plain with a broad deep quiet brim-full river, swum by children and animals. Forests have flowering shrub undergrowth, songbirds and a rivulet from every thicket. The burial place has vanished; the river comes from far beyond. The party follows upstream, with sweeter grass, lovelier flowers and larger trees.
+
+The greatest forest’s thick arched canopy scarcely admits sunshine through leaves and blossoms. Children climb into an airy vault of branches; elephants answer from below, squirrels play, birds are friendly, and no monkeys appear. The next highest-tree lookout reveals the mountain city across a plain. No text proves this greater forest is exactly the former nest wood.
+
+Unnamed mountain city, water-street, gate, and ascent
+State: Final upstream country / called heaven
+Source locators: 46.001; 46.005; 46.021; 46.025; 46.032; 46.033
+
+Far across a plain, a strange city occupies the side of a solitary mountain, summit lost in cloud; it is explicitly unlike Bulika. Rock, palace and cloud first blend visually. A tower or rock rises above the city nearer the crest, but its nature is uncertain. Lightning reveals living cloud forms without thunder. Rain intensifies and a rainbow spans the city.
+
+The river comes visibly from the very peak through the main street. Clear pale beryl-like water descends deep broad steps of porphyry and serpentine through the gate toward the mountain foot. Shallower walking steps on both banks lead upward; the bed supports flowering grass instead of sand or shingle. The gate is open. A dark-visaged woman-angel portress stands outside on its landing; descending woman-angels receive the children.
+
+The gate consists of living archetypes of precious stones. A great angel calls it heaven/kingdom, mentions black bats on unlocated frontiers, and orders animals to royal stables and then the King’s forest. Neither destination is visited or spatially described. The city is not named New Jerusalem in this scene, though Eve previously bears that biblical title.
+
+At the upper edge there is no wall. Huge broken rocks like a glacier moraine let the river billow through gaps. Three or four giant steps vanish into a snow-white cloud. The throne/source is seen with the mind’s eye. Angel guidance ends before Vane climbs with hands and feet and must release Lona’s hand.
+
+Cloud fringe, golden-lock door, and closing book
+State: Final transition to Earth
+Source locators: 46.033; 46.035; 47.001
+
+After the rocky climb and cloud steps, Vane passes into white cloud folds. An unseen warm strong hand leads him to a little door with a golden lock, pushes him through, and he turns to see a large book cover closing. He is alone in the earthly library. This is the final return mechanism; neither a known route back through the mirror nor a conventional gate road. Lona is absent, Mara sometimes present, and Vane waits rather than attempting another mirror journey.
+
+Chapter XLIII dream-only geography and false waking
+State: Explicitly dream; partial later corroboration
+Source locators: 43.001; 43.005; 43.031; 44.001
+
+Sleeping Vane experiences snowy peak above a mist sea, glacier, moon and torrent, cloud-riding, renewed senses and desired gardens/houses. An apparent awakening takes him through an empty crypt-like House of Sleep and cottage, past a clear monster lake and filled river channels crossed by wading, leaping and swimming.
+
+A bottomless grave-mouth pit in a rock space seems to lead to the earthly garret. The house appears silent and deserted; fountain and mirrors remain, but the portal will not reopen. After three nights and a fourth awakening, the narration declares all this was dreaming. The restored waters are later corroborated; the empty chamber, pit portal and false Earth stay are not thereby established as waking geography.
+
+Off-itinerary places, comparisons, and apparatus
+State: Reference / reported remote lore
+Source locators: 00.001; 01.001; 03.043; 04.006; 06.002; 07.032; 16.013; 25.001; 25.045; 29.042; 45.004; 47.017
+
+Thoreau’s epigraph describes Spaulding’s Farm in Concord, pine/oak halls, cranberry meadow and a cart-path through an unseen household: a framing analogy for overlap, not a stop on Vane’s journey. Oxford, the unnamed village and the father’s blue sea are earthly context. Switzerland is an unrealized fantasy. Raven’s rainy burrower-filled steppes of Uranus are reported remote lore.
+
+Paradise/Noah, Vallombrosa, Aladdin, Hybla, Hymettus, Indian resemblance, Maelstrom and New Jerusalem occur as allusion, analogy, testimony or title. The terminal notes cite William Law and Dante; the final Novalis quotation is philosophical. They are all retained in the evidence index to prevent accidental conversion of evocative words into local landmarks.
+
+ROUTE AND RELATIONSHIP RECORD
+
+R01. Library and masked book closet → Garret, wooden chamber, and mirror apparatus
+Hall → great stair → first floor/corridor → narrower stair → second floor/passages → winding wooden stair → garret chamber.
+Evidence status: Explicit narrated indoor sequence
+Source: 02.003; 02.008
+
+R02. Garret, wooden chamber, and mirror apparatus → Mirror-entry heath and first horizon
+Adjusted mirror reveals near moor, middle low hills, far mountains; Vane steps into heath.
+Evidence status: Observed portal, not normal distance
+Source: 02.009; 02.011; 09.001
+
+R03. First pine wood, shimmer, and overlapping forest → Garret, wooden chamber, and mirror apparatus
+Shimmer between two pines leads to wooden mirror chamber.
+Evidence status: Observed return transition
+Source: 03.040; 03.042
+
+R04. Earthly estate, lawn, garden, and home-farm → First pine wood, shimmer, and overlapping forest
+Following Raven from porch over wet grass gives way to unfamiliar forest; no discrete doorway.
+Evidence status: Observed transition
+Source: 04.012; 04.050
+
+R05. First pine wood, shimmer, and overlapping forest → Ruined church and prayer-flower
+Larger older forest thins into open heath; hawthorn associated with home-farm ruins.
+Evidence status: Observed approach / reported overlap
+Source: 05.001; 05.007
+
+R06. Ruined church and prayer-flower → Sexton’s cottage
+Open/rocky moor with prayer-flower encounter and far cottage approach.
+Evidence status: Explicit journey order; distance unknown
+Source: 05.025; 06.001
+
+R07. Sexton’s cottage → House of Death / House of Sleep / great chamber
+Inner coffin-like door opens to cold chamber and couches.
+Evidence status: Explicit threshold
+Source: 06.071; 07.001
+
+R08. House of Death / House of Sleep / great chamber → Library and masked book closet
+Escape through aisles and darkness ends at masked library door.
+Evidence status: Observed portal; adjacency denied
+Source: 07.040; 30.011
+
+R09. Mirror-entry heath and first horizon → Bad Burrow / evil hollow / monster basin
+Raven points toward setting sun; yellow creature guides across heather/rock toward monster ground and low hills.
+Evidence status: Local westward indication; later path unspecified
+Source: 09.029; 10.001
+
+R10. Bad Burrow / evil hollow / monster basin → Low hills, escape ridge, and first river approach
+Escape climbs slope/ridge; short descent gives waiting place.
+Evidence status: Explicit local relief
+Source: 10.012; 10.017
+
+R11. Low hills, escape ridge, and first river approach → First dry river branch / broader, rougher branch
+Sunrise view and descent to the first rocky dry river crossing.
+Evidence status: Explicit sequence
+Source: 11.001; 11.004
+
+R12. First dry river branch / broader, rougher branch → Evil Wood
+Cross dry channel network for a day, enter mixed wood before sunset.
+Evidence status: Explicit sequence; duration is not scale
+Source: 11.004; 11.005
+
+R13. Evil Wood → Second dry river branch and upward bank route
+Emerges into a second dry channel network; two-branch identity later confirmed.
+Evidence status: Observed sequence + later confirmation
+Source: 11.015; 16.004
+
+R14. Second dry river branch and upward bank route → Former lake basin / fruit valley / Little Ones’ hollow
+Increasing vegetation leads to former lake rim and descending fruit hollow.
+Evidence status: Explicit sequence
+Source: 12.001; 12.004
+
+R15. Former lake basin / fruit valley / Little Ones’ hollow → Bags’ huts and changing occupation of the valley
+Initial huts stand in wood above the valley; later giants move to its other end.
+Evidence status: Explicit relative elevation and changing occupation
+Source: 12.024; 33.028
+
+R16. Former lake basin / fruit valley / Little Ones’ hollow → Mara’s House of Bitterness
+Children accompany Vane up second branch; he continues alone through ravines and sand to Mara.
+Evidence status: Explicit itinerary; exact cottage position unresolved
+Source: 14.025; 15.001; 15.050
+
+R17. Mara’s House of Bitterness → Old cataract scaur / great restored cataract
+Mara says follow bank upward until bed disappears; Vane reaches ancient waterfall rock and climbs.
+Evidence status: Reported direction + observed arrival
+Source: 15.068; 16.001
+
+R18. Old cataract scaur / great restored cataract → Evil Wood
+Looking back sees the river divide into two branches with Evil Wood between on far horizon.
+Evidence status: Explicit major topology
+Source: 16.004
+
+R19. Old cataract scaur / great restored cataract → Guide forest and rose wood
+Above scaur desert ahead/left, forest skyline far right; travel via tamarisk, juniper and firs.
+Evidence status: Explicit viewpoint-relative bearing
+Source: 16.003; 16.005
+
+R20. Guide forest and rose wood → Rose-and-ivy vegetal hall
+Rose wood encloses rectangular vegetal hall opening.
+Evidence status: Observed woodland sub-site
+Source: 16.009; 16.011
+
+R21. Rose-and-ivy vegetal hall → Mouldering carriage and skeleton pair’s thicket
+Old carriage sighted before walking ten paces after leaving hall, then approached; full object separation is unmeasured. Same nearby pair recognized on return.
+Evidence status: Explicit nearby sighting; separation unmeasured
+Source: 17.001; 38.011
+
+R22. Guide forest and rose wood → Lilith’s discovery tree and converging animal tracks
+Faces rising moon per Mara’s instructions; finds wasted woman under spreading tree.
+Evidence status: Explicit sequence; lunar direction not Earth east
+Source: 16.025; 18.001
+
+R23. Lilith’s discovery tree and converging animal tracks → Hot river at the forest edge
+Converging animal tracks lead to forest edge and flowing hot water beside open plain.
+Evidence status: Observed local route
+Source: 18.010; 18.018
+
+R24. Hot river at the forest edge → Rocky hot-stream source cave and bridge-bed
+Follow stream upstream to nearby rocky hill foot and little cave spring.
+Evidence status: Observed and inspected
+Source: 18.020; 18.027
+
+R25. Hot river at the forest edge → Grassy plain between forest-edge stream and Bulika
+Crossing puts traveler in broad grassy country; Mara instructs right-angle crossing and straight onward heading.
+Evidence status: Reported direction + observed setting
+Source: 15.068; 20.001
+
+R26. Grassy plain between forest-edge stream and Bulika → Bulika: country, gardens, walls, gates, and streets
+Pursuit and marches cross grass; dawn reveals walls. No named road or measured length.
+Evidence status: Explicit order
+Source: 20.018; 22.001; 35.001
+
+R27. Bulika: country, gardens, walls, gates, and streets → Bulika’s central square and bat pillar
+Gate streets lead to pillar plaza; army reaches central square near city heart.
+Evidence status: Observed urban sequence
+Source: 22.008; 35.007
+
+R28. Bulika’s central square and bat pillar → Elevated fortress-palace and outer defenses
+A narrow connecting lane/steep way ascends to fortress above city heart.
+Evidence status: Explicit direct connection and elevation
+Source: 24.011; 35.014; 36.010
+
+R29. Elevated fortress-palace and outer defenses → Black-marble elliptical great hall
+Open gates → ravine crossing → paved grove → vestibule → guided irregular passages → great hall.
+Evidence status: Observed indoor/outdoor sequence
+Source: 25.001; 25.019; 36.008
+
+R30. Black-marble elliptical great hall → White stair, guest chamber, and sunken bath
+Black curtain leads to white stair upward to guest chamber.
+Evidence status: Explicit interior connection
+Source: 25.020; 25.032
+
+R31. White stair, guest chamber, and sunken bath → Round alabaster dining room
+Descend white stair; round alabaster room lies left at foot.
+Evidence status: Explicit local direction
+Source: 25.035; 25.038
+
+R32. Courtyard’s tallest tree and fountain passage → Earthly estate, lawn, garden, and home-farm
+Climb center tree; sudden wet tossing deposits Vane in earthly lawn fountain.
+Evidence status: Observed portal; foot-contact bypass explained later
+Source: 27.013; 28.001; 30.004
+
+R33. Former lake basin / fruit valley / Little Ones’ hollow → Hot river at the forest edge
+Baby-finding forest explicitly stretches all the way between these endpoints.
+Evidence status: Explicit broad forest continuity
+Source: 32.013
+
+R34. Former lake basin / fruit valley / Little Ones’ hollow → Little Ones’ high nest village
+New treetop settlement beyond giants’ range, within night visiting reach of fruit trees.
+Evidence status: Reported relocation, confirmed colony
+Source: 32.024; 33.001
+
+R35. Temporary camp outside Bulika → Little Ones’ high nest village
+Return order: grassy plain → hot stream → ivy hall/nearby skeleton thicket → nest village; stay one night.
+Evidence status: Explicit return itinerary
+Source: 38.001; 38.014
+
+R36. Little Ones’ high nest village → Mara’s House of Bitterness
+Direct route crosses traveler’s left branch; third night between branches; house visible before evening next day.
+Evidence status: Explicit route with viewpoint-relative branch name
+Source: 38.015; 38.020
+
+R37. Mara’s House of Bitterness → Sexton’s cottage
+Easy crossing of broader channels → ridge at sunset → shallow monster basin → moor → distant cottage light.
+Evidence status: Explicit return sequence
+Source: 40.024; 40.044; 40.059
+
+R38. Sexton’s cottage → Upper sand and the burial of Lilith’s hand
+Moor → Bad Burrow → first branch → past Mara → climb scaur → listen into upper sand and dig.
+Evidence status: Explicit mission route, no exact bearing in desert
+Source: 41.017; 41.021; 41.037
+
+R39. Upper sand and the burial of Lilith’s hand → Sexton’s cottage
+Return between branches, past empty Mara, across monster basin as waters rise, then candle-guided moor.
+Evidence status: Explicit return sequence
+Source: 42.001; 42.016
+
+R40. Bad Burrow / evil hollow / monster basin → Old cataract scaur / great restored cataract
+After awakening, pass restored monster lake, reach flowing river, follow its right bank upstream without crossing, climb cataract.
+Evidence status: Actual post-awakening journey
+Source: 45.004; 45.010
+
+R41. Old cataract scaur / great restored cataract → Renewed upper river, grassland, rivulets, and greater forest
+Climb to former sand now grass and brim-full quiet upper river; continue upstream into greater forests.
+Evidence status: Explicit restored-state connection
+Source: 45.010; 45.013
+
+R42. Renewed upper river, grassland, rivulets, and greater forest → Unnamed mountain city, water-street, gate, and ascent
+Highest-tree lookout reveals city far across plain on solitary mountain; party follows the lovely river toward it.
+Evidence status: Explicit sightline and journey order
+Source: 46.001; 46.004
+
+R43. Unnamed mountain city, water-street, gate, and ascent → Cloud fringe, golden-lock door, and closing book
+Walk up bank stairs through gate/main street; exit unwalled upper edge to source rocks and cloud steps; climb to door.
+Evidence status: Explicit final ascent; throne is mind’s-eye vision
+Source: 46.021; 46.035
+
+R44. Cloud fringe, golden-lock door, and closing book → Library and masked book closet
+Golden-lock door becomes closing book cover; Vane stands alone in earthly library.
+Evidence status: Observed final transition, ending remains open
+Source: 46.035; 47.001
+
+UNRESOLVED BEFORE ANY MAP
+
+• Exact geographical address and extent of Vane’s earthly estate.
+• Stable relation of mirror-entry heath/pine portal to the later large forest and to the distant mirror mountains.
+• Cardinal bearings and lengths of both branches; exact Mara location and easy crossing.
+• Shape and restored shoreline of the fruit-valley lake; fully surveyed island boundary around Evil Wood.
+• Identity of every earlier grove with the post-awakening greater forest.
+• Connections, if any, between hot-stream spring and the great river’s underground waters.
+• Permanent hydrological status of the wounded-leopardess water trail.
+• Complete source and route of the babies; only particular accounts and one fugitive mother are established.
+• City size, gate count, street grid, palace dimensions, exact room plan, and full extent of mines.
+• Coordinates or boundaries of Lilith’s claimed dominions, other trading towns, frontier bats, royal stables and King’s forest.
+• Ordinary ground identity of the tower-or-rock above the mountain city and the cloud manifestations.
+• Whether the ending’s last apparent waking is final; the narrator leaves this unresolved.
+
+COMPLETE ANNOTATED PASSAGE CATALOGUE
+
+E001 | 00.001–00.003 | reference
+Places/topics: Spaulding's Farm; Concord; Cranberry meadow
+Thoreau WALKING epigraph: real-world pine wood, sunset aisles as noble hall, cranberries/pleasure-ground beyond, gabled pines and tree-top attics, farmer cart-path through unseen house, lichened pines/oaks. Literary framing for overlapping worlds and vegetal architecture; NOT locations in Vane's mapped country.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm
+
+E002 | 01.001–01.001 | reference
+Places/topics: Earth; Vane estate; Oxford
+Oxford is educational backstory; inherited estate is the earthly starting setting, without a stated geographical address.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0001
+
+E003 | 01.002–01.002 | world-rule
+Places/topics: Narrative perspective
+Vane admits habit of turning hypotheses prematurely into theory; important caution when assessing his geographic conjectures, no added location.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0001
+
+E004 | 01.003–01.006 | observed
+Places/topics: Vane house; Library; Lawn
+Ancient enlarged house; library predates printing and occupies most ground floor. Large chief room nearly ceiling-high shelves, adjoining irregular rooms connected by doors, arches, short passages and up/down steps. Window overlooks central lawn fountain. August rain, evening sunset. Portrait niche in bookshelves; other portraits in gallery/great rooms.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0001
+
+E005 | 01.007–01.008 | observed
+Places/topics: Library shelves
+Disappearing/reappearing volume leaves actual shelf gap; three-day interval is earthly narrative chronology, not world geography or journey duration.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0001
+
+E006 | 01.009–01.013 | observed
+Places/topics: Library; Book closet
+Low narrow thick masked door with projecting frame and false book-backs; closet of rare old books has no other exit. Fixed mutilated parchment manuscript. Apparent disappearance through closet is observed but unexplained.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0001
+
+E007 | 01.015–01.015 | reported
+Places/topics: Vane house
+Butler reports family-house haunting gradually ceased to be mentioned; incidental location reference with no added architecture.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0001
+
+E008 | 01.016–01.021 | reported
+Places/topics: Vane house; Village; Library
+House haunting and an unnamed village are reported by butler via an old woman; Raven and Sir Upward disappear. Not proof of a second physical closet exit.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0001
+
+E009 | 01.023–01.023 | observed
+Places/topics: Library; Book closet
+Manuscript fixed in masked-door shelves verified by butler's pull; reinforces physical appearance despite later whole-book cross-world explanation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0001
+
+E010 | 02.001–02.002 | reference
+Places/topics: Vane house; Manuscript
+Some days/about week elapse before mirror discovery; attempts to free fragment fail. Temporal context only, no route or new place.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0002
+
+E011 | 02.003–02.008 | observed
+Places/topics: Vane house; Library; Hall; Garret; Mirror chamber
+Route: library to hall, across to great staircase, first floor chief rooms, wide corridor, narrower stair to second floor, passages, door, winding wooden stair, main garret. Huge beams/rafters, long gloomy vistas, doors, few cobwebbed windows and small dusky skylights. Central rough unpainted plank enclosure with small dusty sunlit chamber and narrow dusty mirror, ebony frame, eagle, chain and ball.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0002
+
+E012 | 02.009–02.011 | transition
+Places/topics: Mirror portal; Heath; Distant mountains
+Mirror ceases to reflect house. Near flat melancholy moor, middle low desolate strangely shaped heathy hills, far horizon mountain tops. Stone foreground; step over probable frame leads to open-air houseless heath. Depth sequence is explicit; compass direction absent.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0002
+
+E013 | 03.001–03.005 | world-rule
+Places/topics: Heath; Other world
+Behind entry all vague as fog/field or cloud/mountainside; no familiar house or visible door. Ground and low plants with wind real to senses. No shining sun yet raven shadow. Narrator explicitly warns language and remembered forms cannot fully describe this world.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0003
+
+E014 | 03.006–03.007 | reference
+Places/topics: Heath; Raven encounter
+Raven's rough croaking but agreeable voice; immediate encounter atmosphere, no new place.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0003
+
+E015 | 03.008–03.021 | world-rule
+Places/topics: Portals; Other world; Earth
+Raven says door out leads farther in; whereness and feeling at home determine orientation. Entry/exit not ordinary doors; Raven can travel between worlds. These are Raven's statements, not measured coordinates.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0003
+
+E016 | 03.022–03.027 | world-rule
+Places/topics: Heath; Creature identities
+Man/bird hierarchy disputed and question of selfhood; supports fluid creature forms, no directional guidance.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0003
+
+E017 | 03.028–03.039 | world-rule
+Places/topics: Other world; Home
+Loss of earthly name and identity; Raven transforms. Home described as the one place allowing passage both in and out; disappearance may be distance or heather cover. Narrator questions whether he is dead: conjecture, not confirmation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0003
+
+E018 | 03.040–03.042 | transition
+Places/topics: Heath; Pine portal; Mirror chamber; Garret; Library
+Follow Raven's direction then turn toward tall slender fragrant pine wood. Twilight interior; shimmer between two trunks like heat haze loses visibility close up, trees beyond uncertain. Shock and fall through it return to plank chamber and mirror. Descending spiral then repeated passages reaches great stair and library. No measured woodland distance or direction.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0003
+
+E019 | 03.043–03.049 | imagined
+Places/topics: Vane house; Switzerland
+House seems threatening; imagined purchase of Swiss crag and one-storey wooden nest under peak is a rejected fear-driven fantasy, not visited geography. Empty garret's mood changes next morning.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0003
+
+E020 | 04.001–04.004 | observed
+Places/topics: Vane house; Lawn; Breakfast room; Garden porch
+Rain on lawn, thrush/snail, rapid thunderstorm. Ground-floor window entry; Raven goes through little door to grass patch in nook between two wings of rambling house, via creeper-covered porch. Direct architectural relation; no exterior plan dimensions.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E021 | 04.005–04.005 | observed
+Places/topics: Garden porch; Earthly rain
+Fine-weather-for-worms remark situated in earthly storm scene, not a general other-world precipitation rule.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E022 | 04.006–04.010 | reported
+Places/topics: Uranus
+Raven claims rainy steppes of Uranus, all animals burrowers, emergent huge unfamiliar creatures and dry-bog-serpent. Remote world lore only, not on Vane's journey.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E023 | 04.011–04.011 | observed
+Places/topics: Garden porch; Earthly storm
+Flash followed by thunder about HALF MINUTE later; storm stops. Earthly storm chronology does not establish other-world climate or storm distance.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E024 | 04.012–04.043 | transition
+Places/topics: Garden; Pine forest; Cemetery
+Stepping off porch onto wet grass while following Raven eventually reveals unfamiliar land. Worm becomes winged creature/cloud. Cemetery mentioned as Raven's workplace without location. No visible discrete portal on garden crossing.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E025 | 04.044–04.049 | world-rule
+Places/topics: Garden/forest transition
+Free-agency quarrel follows involuntary crossing; establishes Vane's limited control over entry, no separate realm added.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E026 | 04.050–04.058 | world-rule
+Places/topics: Pine forest; Vane house; Seven dimensions
+Entire surroundings are pine forest; Raven says Vane and house have not left one another and names region of seven dimensions. Large tree to left about thirty yards away is an explicit local measurement.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E027 | 04.059–04.063 | world-rule
+Places/topics: Forest overlap; Vane house
+The explicit dispute over where the house stands connects the thirty-yard tree observation to the kitchen-hearth overlap; 'there' cannot be assigned ordinary independent coordinates.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E028 | 04.064–04.089 | world-rule
+Places/topics: Forest overlap; Kitchen; Breakfast room
+Raven locates tree on kitchen hearth, growing almost straight up chimney; reaching it crosses breakfast-room pianist. Rosebush beside woman; wild hyacinths inside piano strings. Objects/worlds occupy same place; smell/musical cross-sense experience. These claims do not yield normal planar overlay dimensions.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E029 | 04.090–04.090 | observed
+Places/topics: Overlapping forest
+Raven again beside Vane after rosebush listening, local position only.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E030 | 04.091–04.098 | world-rule
+Places/topics: Other world; Earth; Sexton's cottage
+Appointment already broken days ago despite apparent short earthly interval; return through oneself, clock not governing this world. Raven leads toward wife. No cardinal route specified.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0004
+
+E031 | 05.001–05.008 | observed
+Places/topics: Pine forest; Open heath; Old church; Home-farm
+Deeper forest has progressively larger, older, individually grotesque trees, then thins onto open heath. Ancient flowering hawthorn appears as white-headed man; Raven says it stands in earthly home-farm church ruins. Planned rose wilderness and three-yard no-plough buffer are Vane's intended improvements, not existing garden.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0005
+
+E032 | 05.009–05.024 | reported
+Places/topics: Old church; Cemetery
+Faint windlike music; Raven says former worshippers still gather at ruins to sing. Ascending white pigeon is interpreted as prayer; sky/ethereal stair imagery, not a literal surveyed staircase.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0005
+
+E033 | 05.025–05.033 | observed
+Places/topics: Heath; Prayer-flower
+Block of granite with unique anemone-like pale rose flower, golden centre and unfamiliar scent at its foot; prayer-flower explanation qualifies flora as spiritual manifestation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0005
+
+E034 | 06.001–06.008 | observed
+Places/topics: Rocky moor; Sexton's cottage; Cemetery
+Traverse rocky moor dry plants/mosses to cottage first visible at farthest distance. Gray-clouded descending sun, west sunset, abnormally cold wind. Flat unenclosed heath everywhere is cemetery, no church/graves visible, gray starless horizon only apparent wall. Day contains seasonal cycle: spring dawn, summer noon, autumn afternoon, winter night. Travel duration half-day seeming unreliable. Paradise/Noah's raven is comparison/remote lore.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0006
+
+E035 | 06.009–06.014 | observed
+Places/topics: Sexton's cottage
+Candle on central deal table; apparent coffin lid against wall opens as inner door; Eve stands before it. Character's eyes described as night-heaven are metaphor, not geographical heavens.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0006
+
+E036 | 06.015–06.022 | world-rule
+Places/topics: Sexton's cottage; Earthly home
+Vane proposes first going home and returning later; Eve and Raven say his day must begin with sleep. This is an intended return and an access/readiness condition, not a completed journey.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0006
+
+E037 | 06.023–06.028 | observed
+Places/topics: Sexton's cottage; Raven form
+Raven visibly becomes thin elderly pale-blue-eyed librarian; egg-shell sleep analogy not actual nest building. Character appearance offers setting context, no new architecture.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0006
+
+E038 | 06.029–06.036 | world-rule
+Places/topics: Other world; Earth
+Recollection of Raven digging earth-worms and changing to butterflies reinforces transformations; no additional animal habitat or route.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0006
+
+E039 | 06.037–06.043 | world-rule
+Places/topics: Sexton's cottage; Library
+Raven remains earthly librarian and is librarian/sexton here; library-catacomb metaphor should not create another mapped catacomb. Multiple creature/tree/crystal selves described.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0006
+
+E040 | 06.044–06.044 | observed
+Places/topics: Sexton's cottage; Adam/Raven
+Erect tall pale man with beak-like nose, shadowy smile; later identity Adam confirms host's form, not an extra inhabitant.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0006
+
+E041 | 06.045–06.071 | observed
+Places/topics: Sexton's cottage; House of sleep
+Wall cupboard holds bread/wine. Black kitten of Mara arrives and Eve takes it outside. House cannot serve as overnight halfway hostelry; sleepers cannot wake themselves. Candle-led passage through inner coffin-like door into great chamber.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0006
+
+E042 | 07.001–07.010 | observed
+Places/topics: House of sleep; Great chamber
+Ice-house air through inner threshold; faint candle glints, innumerable couches in aisles, heads toward passage, white sheets. Moon through wall openings; uncertain whole shape alternates impression cathedral nave/huge barn. Bluish icy moonlight; isolated sleepers, adults and children but no infant seen. Three empty couches beside woman with wounded hand and middle-aged man; identities established later.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0007
+
+E043 | 07.011–07.014 | observed
+Places/topics: House of sleep; Mother's couch
+Candle brought nearer wounded palm; local identification context for sleeper; no additional couch position beyond surrounding span.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0007
+
+E044 | 07.015–07.020 | reported
+Places/topics: House of sleep; Cemetery moor
+One of multiple treasure vaults; many sleepers lie on exterior moor thick as petals/leaves. Moon embalms here, unlike Earth's; few buried beneath ground. Cock on spire and resurrection bell mentioned by sexton, location/appearance not directly inspected. Vane's designated couch among three.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0007
+
+E045 | 07.027–07.039 | world-rule
+Places/topics: House of sleep; Cemetery moor
+Cold heals sleepers' wounds; air pure/sweet until Vane brings death-odour. Rejected proposal to sleep outside because dead are there also. Vallombrosa is literary simile, not itinerary.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0007
+
+E046 | 07.040–07.046 | transition
+Places/topics: House of sleep; Library; Book closet
+Escape through lengthy aisles and silent closing door into pitch darkness; next door opens directly into earthly library with masked-door handle in hand. Morning closet does not visibly reveal chamber. Small east-facing library window sends early sun via mirror to masked door; couch used overnight.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0007
+
+E047 | 07.047–07.047 | observed
+Places/topics: Book closet shelf
+Reversed book orientation in shelf triggers light reflection already recorded in surrounding paragraphs.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0007
+
+E048 | 07.048–07.050 | observed
+Places/topics: Book closet; Library
+Reversed book's gilded edges reflect light to nest of drawers in dark closet corner; father's manuscript found. Reading position in western library window provides east/west architectural relation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0007
+
+E049 | 08.001–08.003 | reported
+Places/topics: Earth; Library
+Father's manuscript opens with golden sun, blue sea and growing/flying things; no named coast or proof the estate adjoins this sea. Library encounter near ancestral portrait.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0008
+
+E050 | 08.004–08.018 | reported
+Places/topics: Library; Earthly family setting
+Raven has visited same room in father's childhood and calls from nearby vicinity; no geographical address or added spatial layout. Retains nested-manuscript narrative context.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0008
+
+E051 | 08.019–08.029 | reported
+Places/topics: Book closet; Great hall; Lost tower; Other world
+Sir Upward's original hundred-manuscript closet library. Historical route across great hall, steep rough descent, underground passage, newly built tower containing stair and top room with huge lock/tiny key. Crossing threshold reveals immense receding space and blue mountains under paler blue sky. Tower later disappeared. Raven uses house bottom-to-top route; world's physical/mental laws differ, moral laws shared. Account nested within father's manuscript; tower not present-day mapped building.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0008
+
+E052 | 08.030–08.036 | world-rule
+Places/topics: Tower/house portal
+Father's willingness to go through door follows discussion of worlds; 'ground to think' is idiom, not terrain. Invitation not yet physical travel.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0008
+
+E053 | 08.037–08.043 | world-rule
+Places/topics: Portals; Other worlds
+Door in/out and book/heart/world metaphors; more worlds and doors than narrator imagines. Not every figurative door is a literal geographical portal.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0008
+
+E054 | 08.044–08.055 | reported
+Places/topics: Garret; Mirror chamber; Heath; Mountains
+Father's ascent: light through edges of great roof slabs, floorless sections require stepping joist-to-joist. Partition rises amid one gap, chamber narrows upward through roof. Dusty floor-standing oblong mirror leaning against wall with eagle; opposite wall mirror. Chains rotate chamber top and alter sunlight at noon. Reflected rays pass through floor mirror; mist clears to mountain range and wide heath with retreating Raven. Mechanism is explicit; exact optics not established.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0008
+
+E055 | 09.001–09.006 | transition
+Places/topics: Library; Garret; Mirror portal; Heath
+Father's death inference initially conjectural. After library sleep Vane ascends; adjusts hood and mirrors near noon. First vision tremulous and impermeable, later steady blue mountains; steps through into heather. Polarisation is Vane's hypothesis, not confirmed mechanism.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0009
+
+E056 | 09.007–09.012 | observed
+Places/topics: Heath; Thickets; Fir woods; Sexton's cottage
+Search goes through many thickets and several small fir woods but does not locate expected pine forest. Near-horizon sun brings winter cold. Cottage route cannot be retraced simply from memory; Raven refuses to lead him this time. Last night versus last week discrepancy; daisies/roots of heaven reference sleepers.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0009
+
+E057 | 09.013–09.028 | reported
+Places/topics: House of sleep; Evil Wood
+Raven identifies sleeping man as Vane's father, others ancestors. Grandfather still fighting in Evil Wood where unwilling sleepers wake nightly to kill/bury their dead. Raven provides no precise wood location, says Vane will hardly miss it.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0009
+
+E058 | 09.029–09.046 | world-rule
+Places/topics: Home; Other world; Western route
+Many home routes; home in palm of hand language is spiritual, not a measured destination. Raven points toward beings like Vane: pointing direction contains blinding setting sun, supporting westward initial heading. Yellow luminous creature emerges as sun sets and Vane follows. Narrator again warns scenes may also be metaphysical arguments and descriptions cannot convey complete reality.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0009
+
+E059 | 10.001–10.004 | observed
+Places/topics: Heath; Bad Burrow; Low hills
+Light creature guides over rocky ground/heather, turns to dead book when grasped. Bitter winter night, full unfamiliar moon rising over level horizon. Nearby low hill range westward of moon becomes target; this is a relative bearing, not proof of Earth's lunar directions.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0010
+
+E060 | 10.005–10.011 | observed
+Places/topics: Bad Burrow
+Heather gives way to bare spongy soil like dry powdery peat. Rippling/heaving earth inhabited by burrowing predatory monsters, tiger-like beast, red-necked polar-bear-headed worm with white mane, feathered serpent and other no-two-alike forms. Moonlight inhibits/paralyses them; retrospective knowledge, not initially understood. Sea/waters language here is metaphor for restless earth, not actual sea.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0010
+
+E061 | 10.012–10.016 | observed
+Places/topics: Bad Burrow; Low hills; Ridge
+Near hills at moonset burrow initially quiet, mist-clad woman disintegrates into serpents/bat and ground heaves. Slope and summit cast shadow removing protection; pursuit toward still-moonlit ridge, rock shadow perilous. Creatures become blotches when entering moonlight. Hills delimit safe escape, not mileage.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0010
+
+E062 | 10.017–10.018 | observed
+Places/topics: Low hills; Ridge shelter
+Ridge top pure strong air, moon descends to low distant horizon. Short descent warmer; seated waiting dawn; darkness after moonset. No shelter structure specified.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0010
+
+E063 | 11.001–11.004 | observed
+Places/topics: Low hills; First dry river-bed; Evil Wood approach
+Sunrise return to ridge shows apparently lifeless hollow behind. Ahead wide deserted land with distant differently coloured possible forest, no habitation/cultivation/cloud/haze. Descent reaches vast exposed rock river-bed, flat/channelled or humped/pinnacled, innumerable dry water-runs, dry moss and hard lichens. Whole day to forest; no water crossed. Audible water is aural mirage, not observed stream.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0011
+
+E064 | 11.005–11.008 | observed
+Places/topics: Evil Wood
+Enter before sunset; diverse familiar/unfamiliar tree species, not pine wood. Eucalyptus-like high smooth stem, low enclosing boughs, falchion leaves, skull-like lidded calyces and frothy bloom. Glades/aisles appear to close at night; abrupt cold. Foliage suggests wolves, horses, skeletons and woman as wind rises. Door/window language describes forest apertures, not houses.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0011
+
+E065 | 11.009–11.014 | observed
+Places/topics: Evil Wood
+Nocturnal commotion on all sides, moon reveals skeleton/phantom battle and misty or bone-white horses. Mistress with dark side-spot seen above battle. At pre-sunrise voice they collapse and no bones remain, only some withered branches. Daytime wood quiet without seen birds/small mammals/moths; faint burial noises. These temporal states belong to one wood.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0011
+
+E066 | 11.015–11.017 | observed
+Places/topics: Evil Wood; Second dry river-bed
+Emerges mid-afternoon into second network of dry courses. Initially fears reverse heading; concludes another branch of same river, explicitly his inference. Sunset in broad channel, moss sleeping spot; water sounds when head touches ground. Dawn shadows stripe wrinkled rocks. 'North-west and by south' is paradoxical expression of uncertainty, not reliable compass bearing.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0011
+
+E067 | 12.001–12.004 | observed
+Places/topics: Second dry river-bed; Little Ones' hollow
+Channel vegetation increases shrub-like plants to dwarf fruit trees then clumps filling channels. Larger coarse-fruited trees at rim of former lake basin; forest from left flows into hollow; valley trees mostly fruit-bearing. Grass/moss descending slope; cherry-sized rosy apples on tiny tree. Former lake interpretation made by narrator, not named lake.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0012
+
+E068 | 12.005–12.023 | observed
+Places/topics: Little Ones' hollow; Valley rim
+Children throughout slope, some older in separate knot. Large green apple coarse/unpalatable compared with small fruits. Giant approaches from brow; Vane ascends to more level footing before ambush. Relative local elevation explicit.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0012
+
+E069 | 12.024–12.027 | observed
+Places/topics: Giants' settlement; Little Ones' hollow
+Dragged to wood above valley: wretched huts of fallen branches and few stones; woman inside. Giants eat tubers, bulbs, coarse fruits. Next morning captive tied by long rope to valley tree and scrapes bark from fruitless branches with serrated flat stone; nourishing dwarf tree close by.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0012
+
+E070 | 13.001–13.018 | observed
+Places/topics: Little Ones' hollow; Giants' settlement
+Tiny trees fill intervals like brushwood between big trees; many children hidden there. Giants almost blind to them, danger from stumpy feet. Captive nights on bare ground at hut door, children nest around him providing warmth against nightly cold. Lona comes out of wood carrying newborn; girls nurture younger children.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0013
+
+E071 | 13.020–13.067 | reported
+Places/topics: Little Ones' wood; Little Ones' hollow
+Babies found through night searching in wood; source unexplained and some think dropped from trees. Small plums squeezed for baby sustenance. Lona says all have lived here always, no counting or ordinary age, fears growth into giants. Preserve epistemic limits: children know where found, not mechanism of origin.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0013
+
+E072 | 13.069–13.090 | world-rule
+Places/topics: Little Ones' hollow; Giants' settlement; Dry world
+Vane notes no falling/lying/running water anywhere in other world so far; abundant ancient water evident. Children have never seen water before his tears; brook comparison is narrator's simile. Giants have no babies; children becoming greedy/lazy/big/stupid/bad leave Little Ones and lose identity. Small berries versus large green apples recur as ecological/moral divide.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0013
+
+E073 | 13.091–13.106 | reported
+Places/topics: Little Ones' hollow; Giants' settlement
+Growth into giants erases recognition and affection; apple consumption expresses chosen character. Children cannot define 'world' as narrator does. Social/ecological transformation, not travel to separate continent.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0013
+
+E074 | 13.110–13.123 | reported
+Places/topics: Little Ones' wood; Giants' settlement
+Tolma found under beech tree. Largest fattest unseen giant worshipped in one of giants' houses, reported by Lona rather than visited. Blunty appears giant beside quince tree after vanishing. Beech/quince are explicit flora, unlike unspecified extra fantasy vegetation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0013
+
+E075 | 13.124–13.125 | world-rule
+Places/topics: Earth; Little Ones' country
+Vane compares giant-growth with Earth's growing up; reflective analogy, no new geography.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0013
+
+E076 | 14.001–14.006 | observed
+Places/topics: Little Ones' hollow
+Long stay without desire to travel, then need to learn world and children. Attack beside work tree; evening stars expect moon. Water heard with ear against earth but never seen; fruit relieves thirst. Lava image is simile, not volcano.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0014
+
+E077 | 14.007–14.008 | observed
+Places/topics: Little Ones' hollow
+Children physically support injured Vane seated then standing; immediate departure context, not a new site.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0014
+
+E078 | 14.009–14.020 | observed
+Places/topics: Little Ones' hollow; Valley rim
+Giants threaten injured Vane; children escort him slowly up slope with food and assistance. Moon just rises when procession reaches valley rim. Departure is night, not daytime.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0014
+
+E079 | 14.021–14.024 | reported
+Places/topics: Bulika; Baby-forest; Grassy country
+Children know unnamed great place with giant-girl queen but cannot give distance/direction/name. Smooth green rockless/treeless country lies beyond baby-forest away where moon comes from. Their description is limited knowledge, later Mara supplies Bulika name.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0014
+
+E080 | 14.025–14.030 | observed
+Places/topics: Second dry river-bed; Mara's desert
+Escort travels up second river-bed branch; stop when moon at height, farthest children have yet gone from trees. Warning of ugly scratching desert Cat-woman contradicted by Lona's reassurance. Vane continues alone after children retrace route.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0014
+
+E081 | 14.031–14.033 | world-rule
+Places/topics: Little Ones' country
+Children's attachment to their country feels essential to identity; rejected suggestion to emigrate. Vane questions whether interventions would distort their nature; no literal boundary or national name established.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0014
+
+E082 | 15.001–15.012 | observed
+Places/topics: Mara's cottage; Ravines; Sandy hollow
+Full moon habitual so far; cottage silhouette in setting disc with light through open door/window. Closely successive small ravines block night progress; sleeps in sandy hollow, unfamiliar constellations. Mara protects from roaming night creatures; says house shadow would hide him but both doors open. Moon alignment is observed sightline, not location on lunar surface.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E083 | 15.013–15.015 | reported
+Places/topics: Mara's desert
+Mara's apparent ugliness/scratching are rumours contrasted with gentle voice; her naming depends on perceiver. No new terrain.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E084 | 15.016–15.035 | reported
+Places/topics: Mara's cottage; Lovers' country; Bags' settlement
+Cottage poor, Mara lives alone except guests. She names giants Bags, Little Ones Lovers; neither knows own name. Leave channels and walk long time before cottage appears; walking elapsed time not quantifiable scale.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E085 | 15.036–15.041 | reported
+Places/topics: Bulika; Grassy country; Land of Waters; Little Ones' lake basin
+Mara locates Bulika in smooth grassy country. Princess came from Vane's world and older than this world; transformed farming/shepherd community through diamond/opal mining and trade into city. Former country called Land of Waters: dry channels once live torrents, fruit valley former receiving lake. Princess removed at most half the waters in egg; remainder fled underground; subterranean waters sustain life. Mara's historical testimony, not direct observed ancient map. Palace library reportedly holds unreadable prophecy poem.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E086 | 15.043–15.049 | world-rule
+Places/topics: Land of Waters; Underground waters
+Thirst then water then growth; water still flows below. Vane confirms hearing healing water twice. No visible underground course mapped; Mara's rain/spring explanation is the book's world lore, not ordinary hydrology imposed on it.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E087 | 15.050–15.062 | observed
+Places/topics: Mara's cottage; House of Bitterness
+Wide sand tract, rock foundation buried deep in sand; cottage resembles sexton's but thicker walls. Strong heavy door directly into large bare room, two small opposed glassless windows, two doors permitting moon sightline, hearth horn lantern. Narrow steep stair straight to unceiled/unpartitioned garret, one wide low dormer, narrow bed under sloping roof with white coverlet, table dry loaf and cold water. First actual drink of water in other world; this private provision qualifies general dryness, not evidence of nearby open river. Fruit-only stay has lasted months according to Vane.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E088 | 15.063–15.066 | observed
+Places/topics: Mara's cottage; Astarte's route; Other world's sky
+Howling/purring at dormer; white woman strokes white panther-like animal by door and indicates horizon below moon halfway up sky; animal races on line. Moon had set a few hours before. Narrator later learns several moons serve world, never discovers periods/orbits. Compass from moon cannot be assumed terrestrial.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E089 | 15.068–15.077 | reported
+Places/topics: Mara's cottage; River-bed bank; Guide forest; Running-stream crossing; Bulika
+Exact directions: go UP bank until bed disappears; verge RIGHT to forest; may stay night, leave facing rising moon; maintain heading to running stream; cross it at RIGHT ANGLES; straight until city on horizon. Astarte goes shortest way to Bulika, not necessarily same route as Vane. Forest here not automatically Evil Wood or baby-forest; later route evidence must identify it.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E090 | 15.078–15.084 | world-rule
+Places/topics: Mara's cottage; Cat manifestations
+Mara says new cat messenger came from Vane's head overnight; ownership depends on participating will. Narrator doubts, treats as embodied idea. Explains creature manifestation, not geographic breeding ground.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E091 | 15.085–15.100 | transition
+Places/topics: Mara's cottage; River-bed
+Mara says no one sleeps here two successive nights and predicts later long unwilling stay. Leaving/calling back abruptly reveals doorless house despite earlier two doors; circles house no entry. Gray cat springs from window and speeds toward river-bed; Vane falls face down in sand hearing sobs. Door change observed, not mundane missing-door omission.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0015
+
+E092 | 16.001–16.004 | observed
+Places/topics: Desert; Cataract scaur; Dry river branches; Evil Wood
+Many unspecified desert miles; rocky ascent reached about sunset, green moss at base and third underground-water hearing. Scaur inferred former cataract head of channels. Sunrise summit reveals finest sand filling upper river course to plain. Looking back sees river divided into TWO branches as it fell: current followed bank and first crossed before Evil Wood. Evil Wood visible on far horizon BETWEEN branches. Desert ahead and left beyond sight; lift of forest skyline far RIGHT. This is strongest explicit landscape topology so far.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0016
+
+E093 | 16.005–16.010 | observed
+Places/topics: Guide forest; Baby-forest extension; Rose wood
+Bread hardens to stone. About noon tamarisk/juniper, then stunted firs, larger firs/thickets, forest of pines/other trees resembling baby forest; same forest farther portion is Vane's belief. Large trees in nearly geometrical spacing, little undergrowth, long sightlines, distant moving things, some birds, many brilliantly coloured or white butterflies. Pines widen to flowering shrubs then tree-sized splendid roses, other species, immense columnar trunks.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0016
+
+E094 | 16.011–16.014 | observed
+Places/topics: Vegetal hall; Rose wood
+Indeterminate house/castle shape with no verifiable masonry; apparent ivy-absorbed ruin is conjecture. Rectangular doorless gap enters hall-like open space: grass/flower floor, ivy/vine/rose walls and roof. Withered-leaf bed in corner, red sunset, warm night, branching ceiling with sky patches. Red roses disappear first in twilight, yellow/white later; stars through leaves. Numerous nesting birds, owl hunting mice. Aladdin's cave is simile, not another site.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0016
+
+E095 | 16.015–16.024 | observed
+Places/topics: Vegetal hall
+Midnight apparent splendid hall with anciently dressed dancers, skull faces/living eyes. Moon through countless-windowed vegetal roof; bodies pass through Vane. Lilith-like woman dark side-mark appears doorway. Warm wind extinguishes lights, strips dancers to skeletons, eyes vanish; remains foliage/leaf motion and owl. Night manifestation of same hall; no separate ballroom destination.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0016
+
+E096 | 16.025–16.026 | observed
+Places/topics: Vegetal hall; Guide forest
+Leaves hall into wood to resume journey; another moon rising, sets face toward it per Mara directions. Do not assume one Earth-like moon or time cycle.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0016
+
+E097 | 17.001–17.003 | observed
+Places/topics: Vegetal hall; Skeleton carriage
+Before walking ten paces after leaving the hall Vane sees the carriage, then approaches it; full separation is unmeasured. Ancient mouldering carriage upright on heavy wheels, fallen doors, two horse skeletons beside pole, coachman's skeleton on tattered hammer-cloth, two seated skeleton occupants. Local relic near hall, not known road or carriage route.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0017
+
+E098 | 17.004–17.020 | reported
+Places/topics: Skeleton carriage
+Skeleton couple's broken-joint dialogue and speculative damp bed recall their former life, not actual local bedroom. Lord of Cokayne is satirical title, not visited country. Voice sounds like spectral wind; narrator's comparison.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0017
+
+E099 | 17.021–17.046 | observed
+Places/topics: Skeleton carriage; Guide forest
+Skeleton movements around carriage, fibrous grass used to tie joint, fallen branch in bush used as crutch. Woodland said to extend enough for attempted separation. Hell/marriage language belongs to characters' interpretation, not established separate geographical region.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0017
+
+E100 | 17.047–17.059 | observed
+Places/topics: Skeleton carriage thicket
+Lady moves away faster, lord knee binding breaks and cannot follow; local branch-stick dispute. No settlement/stair or genuine thunder implied by simile of his voice.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0017
+
+E101 | 17.060–17.082 | world-rule
+Places/topics: Skeleton carriage; Vegetal hall; Guide forest
+Characters cannot get far apart or see others like themselves. Raven appears on beech bough directly overhead; hall explicitly close by and its dancers centuries spiritually in advance though physically adjacent. Vane/Raven not in hell while skeletons are: co-located spiritual states do not define ordinary bordered province.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0017
+
+E102 | 17.083–17.094 | world-rule
+Places/topics: Guide forest; House of sleep
+Raven says such as Vane eventually return; spiritual assurance not a mapped path, no additional site.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0017
+
+E103 | 17.095–17.102 | observed
+Places/topics: Guide forest
+Warning never obey/trust one who has deceived once. Raven appears several yards away flying low/fast; no mapped destination or reliable bearing.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0017
+
+E104 | 18.001–18.008 | observed
+Places/topics: Guide forest; Lilith's discovery tree
+Continue facing low rising copper-dark dented moon amid bright stars. Under spreading tree cold wasted woman on root-interlaced hard ground/pine needles. Ripe grapes gathered from forest-hall doorway; branch/leaf bedding made. Her original life/death and arrival explanations are conjectural.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0018
+
+E105 | 18.010–18.018 | observed
+Places/topics: Animal tracks; Guide forest edge; Hot river; Grassy plain
+Before dawn eastern horizon clearer. Snake, doe/calf, bear-like cubs, miniature full-grown horses of many breeds, dwarf cattle and small elephants follow converging tracks. Well-beaten main track widens with tributary paths. Trees retreat and grass thickens to vast green horizon plain. Small brim-full deep river along forest EDGE, only few yards wide, bluish rising mist, hot metallic-tasting water; animals swim to grass and apparently sleep in wood. Animal habitat interpretation belongs to Vane.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0018
+
+E106 | 18.019–18.019 | reference
+Places/topics: Hot river
+Vane's hope water banishes loneliness, 'drown desolation' metaphor; no separate inundation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0018
+
+E107 | 18.020–18.027 | observed
+Places/topics: Hot river; Spring hills; Hot-stream cave
+Woman bathed in swift steady stream. Dry warm grass/soil. Vane follows river UP toward nearby rocky hills; river issues from rock at hill bottom. Initial imagined internal waterfall/stair disproved by inspection: water rises quietly from ground at BACK of little cave like column base, then along ONE SIDE in deep narrow channel, exit not wholly water-filled. No headwater cataract inside.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0018
+
+E108 | 18.028–18.033 | observed
+Places/topics: Hot-stream cave; Guide forest
+Boulders arranged around feet/sides. Fallen beech boughs with dry yellow leaves span stream to make bridge-bed; crossed branches/twigs packed with leaves/dry moss, warmth below. Repeated journeys to wood; seven days initially, longer stay follows. Baths nourish Vane like food/drink; grapes/berries from forest. A temporary artificial bridge-bed, not masonry bridge or established crossing.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0018
+
+E109 | 18.034–18.035 | imagined
+Places/topics: Hot-stream cave
+Repeated dream of wounded angel is emotional dream, not new location or actual flying inhabitant. Account emphasises solitude and need for fellowship; no additional geography.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0018
+
+E110 | 19.001–19.009 | observed
+Places/topics: Hot-stream cave; Guide forest
+Cave stone searches fail; warm running water keeps air fresh yet sometimes oppressive, outdoor air cooler. Several weeks followed by additional week and regular night bites. Prickly-pear-like fibrous leaf skeletons, aloe-leaf stiletto and plant filaments used to sew clothing. Resemblance is stated; exact botanical identification not guaranteed.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0019
+
+E111 | 19.010–19.026 | reported
+Places/topics: Hot-stream cave; Hot river
+Leaf-fibre sandals, couch of leaves. Woman claims six-foot white leech attacked, she threw it into river with audible splash. Treat as her possibly deceptive account, not confirmed animal species.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0019
+
+E112 | 19.027–19.071 | observed
+Places/topics: Hot-stream cave; Hot river
+Awakening outside near cave; Vane tells discovery was in forest, not cave. Care lasted MORE THAN THREE MONTHS; flowing water carried hair in daily baths. Woman's repelling clenched left hand knocks Vane unconscious; wakes wet/shivering on ground. Sunup setting and near stream established, no journey away yet.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0019
+
+E113 | 20.001–20.005 | observed
+Places/topics: Hot river; Grassy plain
+Woman moves swiftly AWAY from river across grass and up gentle slope; Vane bathes then follows/overtakes within three yards near noon. Distance unmeasured, no city yet visible. Sensation of night/stars while actual noon is emotional imagery.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0020
+
+E114 | 20.006–20.017 | observed
+Places/topics: Grassy plain pursuit
+Woman orders him stop; he insists following to safety. These are intervening pursuit actions/intent, no further distinct destination.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0020
+
+E115 | 20.018–20.030 | observed
+Places/topics: Grassy plain; Route toward Bulika
+Whole day walking thick soft grass until sunset exhaustion. Low moon's light gathered around woman. She speaks of gates of her city; at this point no gate reached. Repeated unconsciousness followed by unexplained cold/wet state, not proven stream crossing.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0020
+
+E116 | 20.031–20.039 | observed
+Places/topics: Grassy plain; Leopardesses' route; Bulika
+Woman sheds clothes/falls; spotted white long-bodied beast departs, pure white beast passes from behind and pursues SAME line into distance. Vane later follows this trail. Heard city slaughter is apparent/fancied distant outcry, not personally inspected attack scene. First transformation is inferred from disappearance; second pursuer distinct.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0020
+
+E117 | 21.001–21.020 | observed
+Places/topics: Grassy plain; Fugitive mother's route
+Mother runs with child on parallel line; Vane enters her track, attacking beast vaults over him. Spotted white leopardess returns slowly lame LEFT forepaw raised, copious flow mistaken for blood sounds like water over grass. Mother struck foot with stone. Small local scene without cardinal bearings.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0021
+
+E118 | 21.021–21.033 | reported
+Places/topics: Bulika; Refuge for babies; Shadows
+Mother says fled Bulika, destination deliberately undisclosed. Reports princess sends spotted leopardess to kill babies, watches house doors, uses witches, alleged league with Shadows; admits knowledge of only one of purported two cats. Baby-prophecy reason for cruelty. No secret nursery location yet supplied.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0021
+
+E119 | 21.034–21.039 | reported
+Places/topics: Bulika palace; Grassy plain
+Mother warns of night sounds like dead unable to shriek in palace; walks off on grass. Palace acoustic claim reported, not additional haunted site.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0021
+
+E120 | 22.001–22.003 | observed
+Places/topics: Channel-less rivulet; Bulika approach
+Lame beast's supposed blood is tested and found WATER: softly murmuring stream running over grass WITHOUT channel, enough force at ankles. Follows sound upstream toward city. At dawn wall-towers silhouetted in pale aurora; rivulet ends short of city leaving bent grass and small pools, none ahead. Temporary water trail, not a permanent river.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0022
+
+E121 | 22.004–22.005 | observed
+Places/topics: Bulika gardens; Walls; Gates; Refuse belt
+Vegetable gardens close around walls, almost all unfamiliar plants, no flowers/water/animals seen. Huge gravel/refuse heaps thrown from battlements separate gardens from wall. Nearest gate half-closed, unsecured, unguarded, hinges apparently immovable. Long old silent street inside. Vane exits and walks long way across heaps and several radial roads leading to different gates.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0022
+
+E122 | 22.006–22.007 | reference
+Places/topics: Bulika approach; Little Ones' colony
+Vane's motives include knowledge of child-history and danger he restored; reflects plans, no new geography.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0022
+
+E123 | 22.008–22.010 | observed
+Places/topics: Bulika streets; Bat-pillar square; Exterior grass
+Next gate opens to narrow street of tall houses, little square with pillar bearing hideous bat-like figure. Further narrow streets; no children. Gate-near mob chases Vane, stops at walls; he sleeps a FEW HUNDRED YARDS outside in sunny grass. Gate count/plan unspecified, no surveyed grid.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0022
+
+E124 | 22.011–22.013 | observed
+Places/topics: Bulika streets; Narrow lane; Shadow's path
+Night wake under familiar-seeming moon, evil-smelling cold wind from gate. Re-entry to long narrow street; white creature crosses; almost impassable lane connects to wider street. Shadow and white leopardess on opposite side, shadow cast by beast but Shadow itself flat two-dimensional opaque being. Flat paving stones. Wind through Shadow's glance causes shudder. Do not turn capitalised Shadow into terrain shadow alone.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0022
+
+E125 | 23.001–23.011 | observed
+Places/topics: Bulika alley; Archway; Citizen's house
+Small archway off moonlit alley offers hiding place while spotted leopardess passes. Woman fears it watching her house door, reports cage/muzzle/crocodile-leather mitts/chains yet frequent escapes. Bitter wind; promise of indoor refuge. Reported restraints later observed in palace.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0023
+
+E126 | 23.012–23.030 | reported
+Places/topics: Bulika cellars; Other towns; Nations
+People dig precious stones in cellars, all manufactures made in OTHER TOWNS (unnamed/unlocated); inherited wealth/gem trade, work shunned. Strangers considered defiling and expelled before night; hypothetical guest-house would be demolished, not an actual inn. Princess allegedly power over air/water/earth and perhaps fire; citizen testimony biased. Hypothetical foreign invasion is not actual route.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0023
+
+E127 | 23.031–23.032 | observed
+Places/topics: Citizen's stair; Bulika wider street
+Maze of lanes/passages to wider street. Narrow steep stair between two tall houses; top landing about man-length between opposite doors. Woman shuts own door on Vane, he lies on sheltered landing. No street name or side orientation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0023
+
+E128 | 24.001–24.007 | observed
+Places/topics: Citizen's house; Stair landing; Interior passage
+Moonlit street below, wind excluded from landing. Spotless white leopardess cannot turn on stair, somersaults out. Mara admits Vane into empty stone-paved chamber, rug floor bed, only moonlit ambient light. Adjacent room off narrow passage has newborn; white cat carries infant then Mara intervenes. Exterior stair route retraced; Vane initially misjudges rescuer cat as hostile.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0024
+
+E129 | 24.008–24.008 | observed
+Places/topics: Bulika street
+Vane and white cat stand side by side after stair encounter; immediate spatial connector.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0024
+
+E130 | 24.009–24.010 | observed
+Places/topics: Bulika street; Shadow's path
+Woman's pulped body falls into street few yards away; thrown from neighbouring window is Vane's inference. Shadow and spotless cat on opposite side; cat repels Vane pursuing them. No confirmed building height/throwing agent.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0024
+
+E131 | 24.011–24.017 | observed
+Places/topics: Bulika fortress-palace; Palace recess
+Palace seen earlier from square high ABOVE CITY HEART, many defences, fortress-like. Fortifications/city partly ruined/neglected. Huge strong gates open, drawbridge-like crossing over rocky chasm/ravine moat; Vane doubts it ever held water. Walls have small recessed stone bench used overnight; cold wind, silent moonlit structure, warming white cat. Imagined home garden scents on waking are mistaken, not portal return.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0024
+
+E132 | 25.001–25.002 | observed
+Places/topics: Palace gates; Courtyard; Vestibule; Passages
+Circuit back to gates, crosses ravine moat to paved court with regularly spaced towering poplar-LIKE trees and taller central near-top-spreading palm-like tree. Palace style unfamiliar, suggesting Indian origin only to Vane: long LOW body, lofty CORNER towers, huge CENTRAL dome HALF tower height; central front low half-ellipse arch. Longish elliptical entrance hall, cage to one side with restrained spotted leopardess. TWO low passages branch into many narrow irregular ones; precise overall plan absent.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0025
+
+E133 | 25.003–25.005 | observed
+Places/topics: Palace passage
+Vane orders page to lead to princess; supports guided transition but no extra passage measurement.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0025
+
+E134 | 25.006–25.019 | observed
+Places/topics: Palace kitchen; Black-marble chamber
+Large busy but listless-servant kitchen via page-led passages; spotless white cat accompanies. Further many passages reach enormous dark chamber: close-fitting BLACK MARBLE floor/wall, elliptical wall/plan, roof LONG HALF OF ELLIPSOID, high OVAL opening OVER ONE FOCUS of floor ellipse; only small light spot, wall absorbs light. Apparent reddish lines fleeting. Distinguish dome exterior from this interior roof: identity not explicitly established.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0025
+
+E135 | 25.020–25.032 | observed
+Places/topics: Black-marble chamber; White stair; Guest chamber
+Princess appears in darkness/light spot; cold room. Many steps to BLACK CURTAIN; behind it WHITE STAIR up to beautiful guest room. Bath in corner, robe at couch foot; downstairs room to LEFT at stair foot. Vane says first roof since other city lodging, not proof of large travel gaps.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0025
+
+E136 | 25.033–25.034 | world-rule
+Places/topics: Palace guest chamber
+Vane evaluates contradictory testimony/beauty and accepts hospitality provisionally; cautions against taking Lilith's landscape history at face value.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0025
+
+E137 | 25.035–25.045 | observed
+Places/topics: Guest bath; Alabaster room
+Great clear-water white bath SUNK in MARBLE floor, unusual delicate smell; Vane suspects enchantment/source but unproven. Downstairs LEFT room round, all ALABASTER, no windows, light filters through everywhere, low dome with flitting shadows. Ivory table/cakes/fruit/milk/wine/loaf, couch, silver goblets. Hybla and Hymettus are wine-flower comparisons, not world locations. Pitcher-plant is water analogy, not observed local flora.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0025
+
+E138 | 25.046–25.054 | reported
+Places/topics: Princess's claimed dominions; Hot river; Guide forest
+Lilith claims millennia, imperial reach over savage dwarf-people, crossing hot river spell cast by another woman leading to collapse in forest. Dwarf savagery framing and leech rescue are deceptive testimony; do not map political borders or accept fauna/history solely from her. Step across river and route from city toward children may contain truthful details, needs Adam's later corroboration.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0025
+
+E139 | 25.055–25.067 | observed
+Places/topics: Alabaster room; Guest chamber
+Clumsy glove on left fist; fearful roar makes alabaster tremble. Princess leads back up white stair to guest chamber; sound's animal source disputed by Vane and princess, not a geological earthquake.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0025
+
+E140 | 26.001–26.003 | world-rule
+Places/topics: Guest chamber; Hot river
+Vane infers bounding river cancelled Lilith's leopard enchantment and she was en route to harm children; later Adam corroborates river safeguard. Ceiling-suspended lamp observed on waking; twilight sea is drugged sensation, not actual ocean.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0026
+
+E141 | 26.004–26.006 | observed
+Places/topics: Palace guest bed
+Vane paralysed with head pressed into pillow and weight across chest before seeing princess; room encounter context, no extra sea or place.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0026
+
+E142 | 26.007–26.011 | observed
+Places/topics: Guest chamber; White stair; Alabaster room; Black hall
+Tail disappears half-open room door; pursuit down stair to alabaster hall luminous under high moon. Pitch-dark corridor beyond, curtain into black hall. Independent shadows, dancers, mounted skeletons and burrow-beasts apparently mingle; boundaries unseen; hand-following wall reaches curtained vestibule opening. 'Secret cavern of sleep' is imagined threat, not actual mapped chamber.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0026
+
+E143 | 26.012–26.013 | observed
+Places/topics: Vestibule cage; Courtyard; Palace gate; Bulika
+Silent human/beast struggle at cage; leopardess appears both leaving and still lying caged. Shadow crosses courtyard trees to gate, cat follows, then descent to city: palace elevation relative to city explicit. Half-high moon while earlier 'high' is approximate narration, not astronomical survey.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0026
+
+E144 | 26.014–26.016 | observed
+Places/topics: Citizen's stair; Bulika street; City gate
+Shadow goes straight to previous lodging stair. Recognisable woman's crushed blackened body falls, spotted cat with baby descends. White cat attacks on paved street, Lilith transformation directly witnessed, wounded Lilith flees, white rescuer carries baby toward gate. Larger spotted versus smaller enduring white cat stated.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0026
+
+E145 | 27.001–27.009 | world-rule
+Places/topics: Palace hill; Vestibule; Black hall; Replayed landscapes
+Spotted cat flees UP hill brow to palace gate. Black hall projections replay forest-hall, Evil Wood and heath hollow while Lilith stands physically beside Vane. He recognises ellipsoid as her brain. Scenes here are simultaneity/manifestation or replay, not extra physical copies of locations to add to map.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0027
+
+E146 | 27.010–27.011 | observed
+Places/topics: Palace; Courtyard tree route
+Princess invites Vane to follow her, immediately connecting the preceding palace experience to the observed courtyard/tree ascent.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0027
+
+E147 | 27.012–27.023 | observed
+Places/topics: Palace courtyard; Central tree
+Moon near zenith. Tallest central tree top branches gather into fir-cone-like clump; trunk climbing knobs resemble palm leaf remnants. Lilith claims healing summit blossom and small snake, neither verified. Wind in top sounds like falling water. No actual species identification.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0027
+
+E148 | 27.024–27.033 | transition
+Places/topics: Central tree; Silent fountain portal
+Feet wrapped with embroidered robe strips, sandals left upstairs. Bulika night milder than sexton's region, but progressively bitter cold during ascent. Still air, unswaying branches feel yielding. Rising above top drenches and tosses Vane in stormy water; sinks to hard bottom. Local transformation/portal, not ordinary fall off tree into courtyard.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0027
+
+E149 | 28.001–28.013 | transition
+Places/topics: Earth; Lawn fountain; Vane house; Library
+Dawn in HUGE STONE BASIN of fountain father built in lawn centre. Water jet thick steel-shiny stalk rises a HUNDRED FEET and blossoms foam; describes water, not solid steel tower. Raven reaches across rim, immediately lawnside. Open house door, apparently no one awake; bedroom dressing-gown then library couch, Raven from closet. Fountain corresponds to courtyard-tree transition; metric equivalence of tree and fountain not given.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0028
+
+E150 | 28.014–28.022 | world-rule
+Places/topics: Earthly library; Little Ones' route
+Right/wrong 'way' in conversation means appropriate action, not compass guidance; retains context for critique of abandoned children.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0028
+
+E151 | 28.023–28.045 | reported
+Places/topics: Little Ones' hollow; Underground water; Orchard
+Raven proposes wells reaching heard groundwater and using Bags as woodcutters/water drawers. Suggested removal of TWO-THIRDS coarse fruit-trees to let delicate trees grow is unrealised proposal at this point, not current vegetation distribution. Water and weeping linked to growth.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0028
+
+E152 | 29.003–29.017 | world-rule
+Places/topics: Earth; Fountain; Shrubbery; Library; Book closet
+Cat followed return from fountain and bolted into shrubbery; formerly blue Persian in house feared water, goldfish mentioned as possible motive. Raven removes WHOLE sound book whose other half had stuck into HIS library, explaining fragment as cross-world object. Does not prove closets adjoining in Euclidean space.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0029
+
+E153 | 29.019–29.035 | reported
+Places/topics: Poem landscapes; Coffin hillock; Library hearth
+Poem rendered approximately in narrator's words, not literal original language. Contains hall/bower, buried coffin under green hillock with cock above, wet hair/shroud, rose-rain/milk/honey-dew baths and mirrors tinting skin, dark decaying body, two worlds one yet far apart. These are embedded lyrical experiences with no secure itinerary location. Cat cries, crosses carpet toward chimney; book blocks hearth.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0029
+
+E154 | 29.036–29.042 | reported
+Places/topics: Earthly library; Hell; New Jerusalem; Wilderness
+Charcoal sign on floor restrains cat. Adam identifies Lilith, original angelic wife, flight to alien army/Great Shadow, queen of Hell; Eve lady of New Jerusalem. Spiritual titles/history do not alone locate cities named Hell/New Jerusalem on the encountered landscape. Adam/Raven and Eve/sexton's wife identities now explicit.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0029
+
+E155 | 29.043–29.061 | observed
+Places/topics: Earthly library; Book closet
+Cat becomes spotted leopard, radiant princess, cat again. Threatens Eve's child; Adam's symbol at closet threshold and locked door confines gray cat. Physical fireplace/bookcase/closet relations observed but no full library plan.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0029
+
+E156 | 30.003–30.004 | reported
+Places/topics: Wilderness; Little Ones' colony; Hot river; Earth route
+Adam says Lilith's daughter fostered in wilderness by young angels and now mothers baby colony. Lilith's claim to region is unvalidated imperial claim. Hot stream bars her crossing after collapse. Alternate route to children VIA THREE-DIMENSIONAL EARTH, blocked by having killed former body until personal contact with Earth inhabitant. Her hand touches wrapped foot at every tree-climbing step; used Vane to enter house. Critical magical boundary and bypass, not ordinary bridge detour.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0030
+
+E157 | 30.005–30.005 | reported
+Places/topics: Book closet; Mirror route
+Vane assumes confined Lilith cannot know/open door, proved mistaken; not a genuine restriction on portals.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0030
+
+E158 | 30.006–30.016 | world-rule
+Places/topics: Book closet; House of sleep; Earthly library
+Adam orders wife/cottage route instead of children. Closet explicitly NO NEARER OR FARTHER from cottage than any other place. Book spanning libraries gives no ordinary spatial adjacency. White dove appears over portrait, goes to Raven shoulder; call reaches other world by meaning, not sound. Prevent Euclidean portal distances from being inferred.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0030
+
+E159 | 30.017–30.017 | observed
+Places/topics: Library doorway
+Vane moves for door after agreeing to depart, immediate physical route connector.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0030
+
+E160 | 30.018–30.035 | transition
+Places/topics: Library; Garret; Mirror portal; Heath
+Claws scrape hard oak closet; hurried ascent to plank chamber, chains/hood/mirrors show mountain range. Escaped spotted leopard wedges between them and leaps portal, gallops away. Vane follows briefly, Raven goes OPPOSITE direction toward cottage; Vane returns to him. Strong relative diverging directions but no compass.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0030
+
+E161 | 30.036–30.042 | observed
+Places/topics: Heath; Leopardesses' interception
+Eve warned Mara; distant white spot moves at ACUTE ANGLE to spotted leopardess route. White versus spotted cat powers described by Adam; this crossing geometry local, not surveyed long-range route.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0030
+
+E162 | 31.001–31.007 | observed
+Places/topics: Cottage approach; Heath; Moon horizon
+Walk after Raven, sun sets and death-chamber cold spreads. Heather footing, Raven flies with fireflies/butterflies. Whistle calls huge horse from alignment with half-risen moon, seeming NINETEEN HANDS, bone-gaunt but powerful, shining hide, red nostrils, blue-filmy glowing eyes. Seaward-wave mane is simile, not nearby ocean. Moon emergence does not establish moon origin of horse.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0031
+
+E163 | 31.008–31.021 | reported
+Places/topics: Heath; Cottage route; Children route
+Horse can take Vane straight cottage tonight and onwards tomorrow; pursuing leopardess direction at night difficult according to Raven. Vane instead desires pursuit; route/travel advice not distance.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0031
+
+E164 | 31.022–31.032 | world-rule
+Places/topics: Heath; Adam encounter
+Adam's human form appears in dark, disputes Vane's power to give life and meaning of death; no new route.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0031
+
+E165 | 31.033–31.044 | observed
+Places/topics: Heath; Pursuit route
+Sharp wheeling curve through heather then Raven lands on horse head and halts. After final warning horse sniffs and sets course after spotted leopardess; not deliberate compass navigation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0031
+
+E166 | 31.045–31.048 | observed
+Places/topics: Bad Burrow; Low hills; Dry river-bed; Horse-fall channel
+Fast ordered traverse evil hollow, UP hills, DOWN far slopes, across rocky river-bed chasms. Near MIDST of channels, moon reaches zenith then rolls down rapidly, disappears; wolves howl across ravines. Horse mid-jump over WIDE SHALLOW channel loses power in darkness, lands on margin and dies/becomes no horse. Moon dependence limits travel-time estimates and scale.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0031
+
+E167 | 32.001–32.004 | observed
+Places/topics: Horse-fall channel; Evil Wood passage; Orchard valley edge
+Night bitter cold, horse body freezes, wolves approach rocky ground. Gray-led cats defeat wolves then drive Vane running all night along comparatively SMOOTH route, no gully falls; passes Evil Wood UNSEEN, reaches BEYOND CHANNELS on orchard valley verge at dawn. Moss sleep spot. Explicit journey order supports relation while exact cat-driven path unknown.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0032
+
+E168 | 32.005–32.012 | observed
+Places/topics: Orchard work tree; Rescue departure
+Recaptured at old work tree; nightly bound there. Little Ones arrive through brushwood with tiny horses/elephants/bears; free him and carry on parallel paired-elephant litter. No wheeled road needed; rescue transport not reliable scale/time measure.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0032
+
+E169 | 32.013–32.023 | observed
+Places/topics: Baby-forest; Orchard valley; Hot river
+Travelling in baby-finding forest which Vane now states STRETCHES ALL THE WAY FROM VALLEY TO HOT STREAM, corroborating prior conjecture. Forest here open and SHRUBLESS; children's sudden disappearance into trees observed. Not equivalent to Evil Wood, which has distinct nightly phenomena.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0032
+
+E170 | 32.024–32.035 | observed
+Places/topics: Lovers' nest settlement
+After sunset child bird-calls reveal children in foliage, descend bough-to-bough. Former bush hiding moved to trees/no bushes, nests learned from birds; they explicitly have arms/legs, NO WINGS. One nest high in ENORMOUS WALNUT. Elephants walk off to bed; children sleep in nests, not conventional houses.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0032
+
+E171 | 33.001–33.009 | reported
+Places/topics: Orchard valley; Nest forest; Giants' settlement
+Lona narrates relocation since Vane departed: giants destroyed small-fruit trees. New site BEYOND GIANTS' RANGE but WITHIN NIGHT VISITING REACH of original orchards, in little/no-underbrush forest. Tall inviting trees above orchard species; treetop sleep-houses avoid giants who never look up. Apples, pears, figs, mesples and peaches explicit. Baby-egg bird suggestion is children's speculation, not confirmed animal. Short twilight/moonlight fruit-gathering; next-day stored night fruit not wholly good.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0033
+
+E172 | 33.010–33.017 | reported
+Places/topics: Nest forest; Orchard valley; Bulika
+Children personally befriend forest miniature animals, serpent/butterflies included. Fugitive mother from earlier plain reaches children, remains, hopes later return to rich husband in Bulika. Vane admits partly conjectural supplement on her motives, not Lona's full testimony. Stone-target practice enables rescue; not siege infrastructure yet.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0033
+
+E173 | 33.019–33.025 | reported
+Places/topics: Nest forest; Lona's tree
+Stones SCARCE in forest, children scatter far to gather for nests. Lona reports night-before-last cat battle under HER TREE: spotted climbing, white intercepts, children mistaken play, protective white drives children upward then patrols tree till morning. Local protective incident, not permanent cat den; relevant to Lilith reaching nest forest via Earth bypass.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0033
+
+E174 | 33.026–33.028 | observed
+Places/topics: Nest forest; Orchard valley far end
+Over hundred giants in small straggling groups enter after sunrise; stone volleys from FIFTY TREES, elephants trample. Giants remain until night, gone next morning to OTHER END of orchard valley, never return forest. Migration alters occupancy; avoid treating old huts and later giants' location as simultaneous fixed settlement.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0033
+
+E175 | 34.001–34.006 | reported
+Places/topics: Nest forest; Bulika; Two worlds
+Planning occupation of reportedly defenceless city. Proposed consort/state and inter-world gem commerce are Vane's ambitions; commerce explicitly impossible and harmful, not established trade route. Well/water search postponed until AFTER city taken; no wells dug here.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0034
+
+E176 | 34.007–34.012 | observed
+Places/topics: Nest forest; Forest outskirts
+Slings, larger boys' bows/arrows, girls' steel-strong needle-sharp ALOE SPIKES mounted on shafts. Wood full of brilliantly plumed singing birds, flowers apparently lacking for want of water (local perception qualifies earlier rose hall). Feather mantle for Lona, tough-evergreen leaf scale garment for Vane. FULL-SIZED horses newly appear at forest outskirts, distinct from earlier miniature fauna; several tamed.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0034
+
+E177 | 34.013–34.023 | reported
+Places/topics: Grassy plain; Bulika route; Nest forest
+All children to march including three infants; two milk cows, elephants with hay, bears with nuts, dried fruit and load horses. Route crosses short-grass plain, elephants cannot gather enough short blades. Vane BELIEVES babies brought from Bulika by fleeing mothers, not established universal origin; do not erase Adam's special account of Lona or unresolved baby mystery.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0034
+
+E178 | 34.024–34.041 | observed
+Places/topics: Nest forest; March preparations
+Review includes small galloping/jumping bull mount, large horses, optimism and predicted death; character aims for mothers. No new settlement or political boundary yet created.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0034
+
+E179 | 35.001–35.006 | observed
+Places/topics: Grassy plain; March route; Bulika approach
+Early morning blue sky/green plain departure. Intended stages morning march/afternoon rest/night march/next-day rest/twilight restart to dawn arrival, total duration not numerically fixed. Some wild four-foot followers leave at night; birds/butterflies/wasps/dragonflies reach gates. Bears/deer/elephants mounts, hay loads. Silent levels carry trumpet/neigh noise. City and sun appear together at dawn; wall looks like great rock, stone houses called nests.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0035
+
+E180 | 35.007–35.015 | observed
+Places/topics: Bulika gate; Central square; Palace lane
+Echoing gate arch and OLD PAVEMENT startle animals. Nearly HEART OF CITY before residents wake; heads at windows, people hug house edges leaving street centre. Central square halt; NARROW LANE DIRECTLY LINKS SQUARE TO PALACE, white cat bounds down it. Fugitive mother slips away with baby. Square relation stronger than detailed city street geometry.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0035
+
+E181 | 35.016–35.024 | observed
+Places/topics: Two Bulika houses; Cellar labyrinth; Central square
+First house door smashed, stairs to empty rooms, UNDER-STAIR DOOR leads LABYRINTH OF EXCAVATIONS and boy in hole; rescuer cat brings him. Second adjacent house child murdered. Returns to army at square for night; children/animals sleep where stationed, older sentries between. Mining network observed below residences; total extent/connections not known.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0035
+
+E182 | 36.001–36.002 | observed
+Places/topics: Bulika; Palace expedition
+Debate retreat versus confronting princess followed by agreement to go palace; intent rather than measured route. No territorial conquest yet.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0036
+
+E183 | 36.003–36.007 | observed
+Places/topics: Palace tower; Black hall; Central square
+Narrator reports princess watches army from great tower early morning. Black hall chair at NORTH FOCUS beneath roof aperture, mirror suspended a little ABOVE/IN FRONT of princess facing her receives reflected sunlight. Great Shadow under mirror. Several minutes of meridional sun then waits dark night. A north/south long axis is a geometrical inference if 'north focus' is used literally; the other focus is not separately named, and entrance facing/whole-city compass is unspecified.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0036
+
+E184 | 36.008–36.016 | observed
+Places/topics: Central square; Steep palace way; Courtyard; Black hall dais
+Next morning expedition Vane/Lona plus TWELVE boys, big/small horses and elephants. STEEP climb from city, open gate, PAVED GROVE to vestibule then black great hall; dome aperture lights princess as sun climbs. She occupies raised DAIS, Lona leaps onto it. Caged spotted double twitches as real Lilith waits in hall; no need second independent Lilith.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0036
+
+E185 | 36.017–36.022 | observed
+Places/topics: Black hall; Courtyard; Bulika streets
+Lona dashed on marble and dies. Blood scent stampedes Vane's/small horses into INVISIBLE BLACK WALL where they die, Lona's horse stands; elephants reach dais foot. Body carried to sunlit courtyard then streets with people at doors/windows and white cat following. Event-specific losses, not permanent stables/buildings.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0036
+
+E186 | 36.023–36.027 | observed
+Places/topics: Bat-pillar square; Exit gate; Bulika streets
+Square now empty, Vane rests on pillar base, tying this plaza to earlier bat-pillar square by contextual identification (not repeated bat description). Heads toward SAME entry gate with Lona. Twelve boys bring bound Lilith: ten on four elephants, captive on two more, two on Lona's horse. Procession exits city; no conquered government installed.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0036
+
+E187 | 37.001–37.003 | observed
+Places/topics: Exterior Bulika camp
+Beyond city, surviving army visible in distance; carry Lona onto thicker/softer grass. Elephants outside gathered children; Lilith held apart. Temporary grassy camp, distance from gate not fixed.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0037
+
+E188 | 37.004–37.012 | reported
+Places/topics: Exterior Bulika camp
+Children recognise captive as same spotted cat from nest forest, linking appearances while she remains held at camp.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0037
+
+E189 | 37.013–37.030 | reported
+Places/topics: Palace hill; Central square; City gate
+Children recount Great Shadow descending hill, expanding to envelop/isolate/enter them, terrifying them out gate onto grass. His 'home into the night where there is no moon' is Odu's supposition, not verified province/location.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0037
+
+E190 | 37.031–37.033 | observed
+Places/topics: Exterior Bulika camp
+Lona's body guarded, captive watched OUTSIDE CAMP, perimeter sentries. Moonrise white leopardess circles camp and three times passes between captive and children; sentries then sleep. No fortification or permanent settlement constructed.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0037
+
+E191 | 38.001–38.008 | observed
+Places/topics: Bulika return plain; Hot river; Ivy-hall
+Morning departure toward forest, Vane carries Lona on her horse. Lilith's eyes close AFTER crossing hot stream and remain so until Mara except ambiguous hall apparition. Meal attempt evening camp; NEXT DAY cross hot stream, children's own ground regained. Nest village still GREAT DISTANCE; stop at ivy-hall for grapes, green floor and exterior wood sleeping. Return order: Bulika, grassy approach, stream, ivy-hall, nests.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0038
+
+E192 | 38.009–38.014 | observed
+Places/topics: Ivy-hall; Skeleton pair thicket; Nest-village
+Night dancers interact/play with awakened children. Skeleton-princess apparition doorway vanishes though bound Lilith seems unmoved outside. Next morning skeleton couple nearby THICKET, improved mobile joints; collect herbs, interpreted use rubbing bones speculative. Reach nest-village, stay ONE NIGHT to resettle children. Same hall and same skeleton pair as earlier visits explicitly recognised.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0038
+
+E193 | 38.015–38.019 | observed
+Places/topics: Nest-village; Left river branch; Inter-branch desert; Mara's cottage
+Twelve sweetest/merriest on SIX elephants, two more bear captive, Vane/Lona's body on horse. Attempts DIRECT route across LEFT BRANCH of river-bed to House of Bitterness, hopes to learn how to cross BROADER/ROUGHER branch and avoid monster basin. THIRD NIGHT on desert BETWEEN TWO branches; sheltered sand camp; moon HALFWAY DOWN WEST eclipsed by translucent hooked/torn bat wing, burning-cold wind. Local sky/west marker not global orientation of river fork.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0038
+
+E194 | 38.020–38.090 | reported
+Places/topics: Inter-branch desert; Mara approach
+After attack Lilith fears first husband. Before evening NEXT DAY House of Bitterness visible. Children's feared faceless/clawed Cat-woman descriptions are Bags' lies/limited perception; Vane gives Mara's name and friendship. Their imagined claws all over house not actual interior.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0038
+
+E195 | 38.091–38.106 | observed
+Places/topics: Mara's cottage; House of Bitterness
+Mara again has doorway despite prior doorless state, white/muffled. Lona carried inside, Lilith placed on ROUGH SETTLE at ONE SIDE main room, unbound. Beasts outside by door. Bread/jug cold water given; twelve children see/drink water first time, afterwards garret floor beds. This marks time-dependent opening and first child water experience, not general stream access for whole colony.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0038
+
+E196 | 39.001–39.005 | reported
+Places/topics: Mara's garret; House of Bitterness; Desert
+Children's night report cannot distinguish dream from waking: silent internal shaking wind, rising water fills garret to ROOF then recedes leaving dry warmth, air inside/outside swarms cats, claws cannot penetrate nightgowns, distant great-grandmother-cat howl. Not literal surveyed flood level or permanent cat population; Vane distinguishes his own downstairs experience.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0039
+
+E197 | 39.006–39.010 | observed
+Places/topics: Mara's main room
+Spotless cat cowers in CORNER. Lamp on HIGH CHIMNEY-PIECE, cloudy/shadowy forms, CLAY FLOOR, small HEARTH FIRE. Settle moved from wall to ROOM CENTRE; Vane and Mara sit opposite sides hearth; Lilith FEET TOWARD HEARTH. Silver slowworm crawls floor into fire. Midnight Mara stands behind captive's head. Specific furnishing relations for interior later illustration.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0039
+
+E198 | 39.014–39.044 | world-rule
+Places/topics: House of Bitterness; Inner fire
+Words without sound; silent flame-presence as children wind report. White-hot slowworm emerges yet neither scorches settle nor visibly wounds feet, enters dark side-mark; invisible heart penetration. Metaphysical action can have spatial appearance without ordinary material heat damage.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0039
+
+E199 | 39.045–39.066 | world-rule
+Places/topics: House of Bitterness; Lilith's inner hell
+Lilith stands physically room yet Mara says far away in hell of self-consciousness; duration five minutes OR five years unknown. Silent invisible water lifts her onto settle then swiftly sinks, cold but not benumbing. Central universal fire, soul-chamber and 'way home' language are spiritual states, not extra local geology/corridors.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0039
+
+E200 | 39.067–39.067 | observed
+Places/topics: House of Bitterness
+Mara goes nearer to Lilith while both remain physically in the cottage; local movement connects the surrounding descriptions of inward distance.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0039
+
+E201 | 39.068–39.092 | world-rule
+Places/topics: House of Bitterness; Claimed Hell/wilderness
+Positive Nothingness felt around Lilith, unseen heavenly mirror presents two selves. Proposed wilderness retreat never occurs. Fist contains what she has taken, cannot yet release; claims queen of Hell/mistress of worlds. Claims unverified dominion, not comprehensive boundary map.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0039
+
+E202 | 39.093–39.107 | world-rule
+Places/topics: House of Bitterness; Outer darkness
+Narrator explicitly distinguishes Lilith IN OUTER DARKNESS from witnesses physically WITH HER but not in it. Outer darkness timeless/spaceless/separated, not traversable geographical region. Mara identifies father as helper/forgiver, proposes journey to him.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0039
+
+E203 | 39.108–39.110 | observed
+Places/topics: Mara's bed; Desert around cottage
+Mara places Lilith in HER OWN BED IN CORNER of main room (distinct upstairs guest bed). Dawn opens door, springlike gentle wind and soft rain wet desert around cottage; Lilith weeps/sleeps. Sea/ocean/inlet and heart-sands language chiefly spiritual metaphor; physical rain around cottage is explicitly stated.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0039
+
+E204 | 40.001–40.023 | reported
+Places/topics: Mara's cottage; Desert; Restoring rivers; House of sleep
+Children see actual rain and interpret falling sky. Mara predicts rain waking underground waters and rivers flowing everywhere; anticipated restoration not fully visible yet. Describes destination biggest room in world, soon too full of little nests and perhaps pulled down; no cats within dream-filled nests. Nearer home is further spiritual destination, not simply cottage relocation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E205 | 40.024–40.043 | observed
+Places/topics: Mara's cottage; Easy river-bed crossing
+Mara offers EASY way across channels but insists monster basin crossed once more. Eight elephants (six children/two Lilith), Lona's horse, white cat, Mara ON FOOT accompany. Four loaves and big jug water. Sunniest/sweetest-wind morning yet desert still described without water despite local preceding rain: transitional/local rainfall not instant complete recovery.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E206 | 40.044–40.049 | observed
+Places/topics: Broader river-bed; Ridge; Bad Burrow
+Easy crossing completed without difficulty; top ridge OVER burrow reached SUNSET, takes day from cottage. At basin margin moon appears; SHALLOW basin initially untroubled for Mara/horse, erupts when captive elephants touch it. Neck/beak/claw/tentacle monsters reach for Lilith but not children. Children cannot perceive them and are safe by blindness; same landscape has observer-dependent menace.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E207 | 40.050–40.058 | observed
+Places/topics: Bad Burrow; Opposite firm bank
+Bodiless head bounces/buries itself; fleshy-haired broad-mouth head from low earth wave LEFT of route; enormous snake/other monsters evade cat. Moon low irregular arc, sinks/rebounds one breadth, rapidly sets. Corpse-headed canine-toothed long-neck shape near far border withdraws for Mara; cat engages at MOONSET. Horse bounds to elephants. Jelly drops on Lilith, white dove pecks it off, Eve's voice then heard. Cat feared lost, not initially confirmed death; restored later by elephants.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E208 | 40.059–40.082 | observed
+Places/topics: Cemetery moor; Sexton's cottage
+Mara and mother disappear into dark; LIGHT IN DISTANCE guides stumbling moor traverse. Adam candle at doorway, Eve table bread/wine. Lilith walks in after elephants separate, Lona carried by Eve, animals sleep/shiver outside after Mara's strokes. Spiritual restoration language contextual; earthly graves not dug.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E209 | 40.083–40.105 | world-rule
+Places/topics: Cottage inner threshold; House of sleep; Great Shadow
+Coffin-door threshold immortal cold. Wind blast on ROOF associated Shadow but Adam says CANNOT ENTER/HURT here; future Shadow will lie/sleep too, last to wake with Lilith. Full security domain described, no ordinary wall fortifications needed. Into dark wide still chamber, old sleepers persist, father more peaceful/wounded lady younger. Mara explicitly Adam/Eve's daughter.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E210 | 40.106–40.120 | observed
+Places/topics: House of sleep couches
+Children can see beyond candle where Vane cannot. Choose unoccupied space BESIDE women on occupied couches, one girl beside Vane's father, boy beside wounded-hand lady. Lona now MIDDLE of formerly three empty couches. No fresh entire nursery wing: children join existing sleepers.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E211 | 40.121–40.156 | observed
+Places/topics: Three-couch group; Lilith's couch
+Lilith's prepared bed on LONA'S RIGHT HAND (relative to Lona, not cardinal east); Vane's remaining couch implicitly on other side, explicitly later. Cold comforts sleepers; sleep/dream differs from death. Sword once from angel at 'the gate' is biblical/historical allusion, unnamed geographical gate here. Adam amputates closed hand, puts in Mara lap, Lilith sleeps. Exact room dimensions unreported.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E212 | 40.157–40.172 | observed
+Places/topics: House of sleep; Cottage doorway; Lilith's couch
+Two boys sleep one on EACH SIDE of Lilith, third led away by Eve. Mara carries severed fist. Cottage open door lets in two elephant trunks; elephants with lantern retrieve white leopardess. Adam/Vane carry her into chamber, laid ACROSS LILITH'S FEET, forepaws extended, head between. These are end-of-chapter couch occupants for accurate interior state.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0040
+
+E213 | 41.001–41.020 | reported
+Places/topics: House of sleep; Cataract scaur; Upper sandy desert; Hand-burial site
+Empty bed beside Lona confirmed Vane's. Adam instructs return to known ancient cataract ROCK, climb SUMMIT, go DEEP INTO DESERT listening every FEW YARDS with head on sand, adjust all directions whenever inaudible, follow loudness to MAXIMUM, dig to moisture and bury severed hand level with sand. No measured bearing/depth/radius. Gardening spade, ritual conditions not lay hand down/touch/turn back/speak; audible underground route chosen, not pre-known mapped source coordinate.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0041
+
+E214 | 41.021–41.022 | observed
+Places/topics: Cemetery moor; Bad Burrow; First river branch
+Pitch-dark cold solitary departure; pale ground light every footstep reveals heather/low rocks. Bad Burrow still during crossing. Moon supplies EASY river route. Toward morning nearly across channels of FIRST BRANCH, judged not far Mara cottage. Confirms wider/rougher branch originally crossed first lies on cemetery side of inter-branch region.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0041
+
+E215 | 41.023–41.036 | observed
+Places/topics: Rock-narrowed crossing path; Illusory barriers
+Rock-narrowed route at low moon; false Lilith, armed men, false Mara in increasingly narrow shadows, distorted helmet-headed Shadow. Figures passed without contact; hallucination/phantom status explicit or tentative. Claimed 'where I please there I am' spoken by false figure, not accepted world law. Charneled wind then dawn; no physical checkpoint/troop camp mapped.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0041
+
+E216 | 41.037–41.038 | observed
+Places/topics: Mara's empty cottage; Cataract scaur; Hand-burial site
+Dawn passes wide OPEN cottage door: bread loaf and pitcher on table, no wailing. Worn precipice climb into desert; find loudest hidden water after much listening. Loose sand requires LARGE PIT, no numeric depth; damp soil reached, hand laid, WATER OOZES FROM UNDER FINGERS, fill grave and sleep beside. Actual source release observed; no named location nor hand explicitly opening here.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0041
+
+E217 | 42.001–42.002 | observed
+Places/topics: Hand-burial site; Restoring river; Two branches; Evil Wood; Orchard valley
+On waking moist ground/QUICKSAND in approach track, ancient river swelling and shifting sand. Vane anticipates waterfall dividing into branch to RESUBMERGE orchard lake, other perhaps DROWN MONSTERS, and between them ISLE Evil Wood. Flood outcomes predicted here, wider restored landscape confirmed later; 'perhaps' keeps monster drowning uncertain. Return BETWEEN branches past empty Mara cottage with food still untouched; knows flood-safe crossing.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0042
+
+E218 | 42.003–42.015 | observed
+Places/topics: Inter-branch desert; Mara's cottage
+Grayheaded weeping man seated on sand beyond cottage reports refusal by House of Death. Directed back to Mara's still-open food/water refuge; acceptance uncertain. Literal waymark encounter, no named settlement or permanent inhabitant.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0042
+
+E219 | 42.016–42.024 | observed
+Places/topics: Bad Burrow; Cemetery moor; Sexton's cottage
+At sun down before moonrise basin quiet until Vane crosses; MANY WATERS and great cry BEHIND him, not seen because no look back. Bitter dark return guided by EVE'S CANDLE FROM WINDOW. Open cottage EMPTY, CLAY FLOOR spade impact; coffin inner door then moves. Thus flooding reaches basin audibly, no confirmation all creatures die.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0042
+
+E220 | 42.025–42.045 | world-rule
+Places/topics: House of sleep; Lona's couch; Dream river/sea
+Lona seemingly appears through coffin door with CLOSED eyes asking dream-journey down river to great sea/beautiful dreamland; Vane carries her to couch, warmth hurts sleepers. Adam says she slept throughout and was ALREADY ON COUCH even while in arms. This dream apparition is not a physical walk across chamber. Adam says visited hilltop hearing waters and predicts basin tonight; no named hill.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0042
+
+E221 | 42.048–42.065 | world-rule
+Places/topics: House of sleep
+Adam breath warms Vane to take bread/wine. Eve song roads/inns/one home metaphor. No early/late, years unheeded; desert separating sleep-to-die from sleep-to-live is metaphorical passage, not reliable extra desert on map.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0042
+
+E222 | 42.066–42.067 | world-rule
+Places/topics: House of sleep
+Parents' sleep duration cannot be fixed by earthly years; Vane asks how long, answered in following span.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0042
+
+E223 | 42.068–42.080 | observed
+Places/topics: Five-couch family group; Vane's couch
+Wounded-hand lady identified Vane's MOTHER. She will see husband on ONE SIDE and son on OTHER; Vane lies NEXT TO HER and Lona, Lilith on Lona's opposite side. Reconstruct local sequence father–mother–Vane–Lona–Lilith (or mirror reversed); no cardinal bed axis. White dead garment, transforming youth, shared sleep begins.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0042
+
+E224 | 43.001–43.004 | dream
+Places/topics: Snowy peak; Glacier; Cloud path; Dream garden
+Dreams during sleep: damp earth and latent primroses/daisies/snowdrops, snowy peak with mist sea below and cold moon; infant in mother's bosom; youth on white horse leaping blue-heaven clouds; centuries/chiliads or single night, beyond seven dimensions/ten senses; cycles in MELTING GLACIER with moon/wind/torrent. Atonement plans unparalleled houses/garden with pools/running water are desired dream constructions, not existing world structures.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0043
+
+E225 | 43.005–43.011 | dream
+Places/topics: House of sleep; Restored monster lake; Restored river branches
+Apparent awakening to empty death-chamber (low horizontal CRYPT-LIKE windows first specified here) then empty cottage. Across moor shimmering music leads to clear still little LAKE in MONSTER DEN, reeds/rushes; walk its shore, climb hill range, see old dry riverbed full of torrents/pools/deep broad river. Traverse by wading/leaping/swimming. This whole excursion later identified as DREAM, though restored geography corroborated in XLV. Do not treat empty chamber as true evacuation.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0043
+
+E226 | 43.012–43.030 | world-rule
+Places/topics: Dream rivers; House of sleep
+Young white-robed Adam confirms Vane still on couch, all dead around; true/false dream distinction depends on spiritual state. Touch Lona's hand from within dream, both warm; 'our country' without cold and 'fields of home' refer more inward realm, not negate experienced cottage cold. Dream landscape and bodily location coexist.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0043
+
+E227 | 43.031–43.045 | dream
+Places/topics: Rock pit; Dream garret; Dream earthly house
+Many channels to larger rock space with bottomless GRAVE-MOUTH PIT. Jumps to wake and apparently returns garret mirror/cowl; earthly despair for three nights before fourth waking. House silent/deserted, no birds/creatures, fountain roaring, mirrors remain blank despite adjustment. XLIV explicitly says ALL THIS earthly-return sequence was dreaming; pit not independently verified functional portal. Sunlight-only access is Vane's reasoning within dream, not universal proven rule.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0043
+
+E228 | 44.001–44.023 | observed
+Places/topics: House of sleep; Lona's couch
+Fourth DREAM night true awakening in dark death-chamber, Lona radiant now woman at bedside, candle approaches with Adam/Eve/Mara. Sleep resolved to stronger endless life, no further dying required if remain dead. Shepherd/wolves/wilderness language identifies Mara's spiritual task, not new landscape.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0044
+
+E229 | 44.025–44.038 | observed
+Places/topics: House of sleep; Parents' empty couches
+Shadow hovers outside for Lilith. Parents truly awakened/departed LONG AGO, children remain alone on their couches. Lona kisses still-sleeping mother; Adam says their shared Father. Group breath/blessing precedes departure.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0044
+
+E230 | 44.039–44.053 | world-rule
+Places/topics: House of sleep; Sky; Universe clock
+Approach of sun heard as roaring world MILLIONS UPON MILLIONS MILES distant (cosmic rhetoric, not surveyed astronomy). Three become resurrection angels/Magdalene; golden cock on CLOCK OF UNIVERSE after millions of years crows, black bat departs. These visionary manifestations not reliable objects placed at geographical coordinates.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0044
+
+E231 | 44.054–44.075 | observed
+Places/topics: House of sleep; Lilith's couch; Cottage doorway
+Most children wake, Peter and Crispy still sleep on either side Lilith, white leopardess at her feet also waits. Odu now has tears. No bread/wine at departure; horse/elephants waiting by door, group chooses WALK and animals follow. Remaining sleepers have not vanished from room; new homebound party distinct.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0044
+
+E232 | 45.001–45.003 | world-rule
+Places/topics: Cemetery heath; Renewed world
+Dim spring twilight but every heather/shrub/grass shape and colour visible without external sky light, possible light from plants OR eyes; nothing casts shadow, mutual light. Purple heather bells ring, newly awakened senses hear life. World changed OR perception changed, narrator explicitly allows both; record both, do not flatten to ordinary daylight.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0045
+
+E233 | 45.004–45.007 | observed
+Places/topics: Restored monster lake
+Actual post-waking approach CONFIRMS former basin now clear lake. Whirlpool swept out burrowing soil; dim GREENISH light through crystalline water shows monstrous forms motionless piled/coiled/knotted at bottom. Explicitly NOT DEAD; lake persists as long as unhealthy-minded people do. Maelstrom allusion compares terror, no actual Norwegian location here. Sunrise crimson/gold wave and molten-metals sea chiefly cosmic metaphor.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0045
+
+E234 | 45.008–45.010 | observed
+Places/topics: Restored river-bed; Right bank; Great cataract; Upper river plain
+Children ahead, animals behind, insects/dragonflies/butterflies in humid summer air. Dark rocks absorb rays, renewed Earth/heaven same yet understood differently. Former dry channels now whole river rushing over rocks. DO NOT CROSS; go UP ITS RIGHT BANK to cataract AT FOOT OF SANDY DESERT where river drops SHEER and divides TWO branches. Climb height, old upper desert now grassy plains/banks with deep broad QUIET BRIM-FULL river; children/beasts swim. Right bank not assigned compass direction in text.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0045
+
+E235 | 45.011–45.013 | observed
+Places/topics: Renewed upper desert; Hand-burial vicinity; Greater forest
+Former desert flowers/new wide forests with FLOWERING SHRUB UNDERGROWTH, songbirds and rivulet from every thicket. Buried-hand place leaves NO SIGN, river comes from FAR BEYOND it. Continue UPSTREAM margins/forest, sweeter grass/more lovely flowers/larger trees. Greatest forest thick arched canopy barely sunlight through leaves/blossoms; children in airy bough-vault, unseen elephants answer below, squirrels/petting birds, NO MONKEYS observed. Distinct renewed habitat, no secure identity with earlier baby forest.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0045
+
+E236 | 46.001–46.004 | observed
+Places/topics: Greater forest lookout; Plain; Mountain city
+Children highest tree see strange city FAR ACROSS PLAIN on SIDE OF SOLITARY MOUNTAIN whose summit lost in clouds. Explicit NOT LIKE BULIKA. Vane climbs confirms city rising in blue clouds, rock/buildings/clouds indistinguishable; continue near lovelier river. No named city or distance, not automatically Bulika transformed.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0046
+
+E237 | 46.005–46.020 | observed
+Places/topics: Mountain city; High tower/rock; Heavenly cloud manifestations
+From plain visible tower OR ROCK above city nearer crest (uncertain). Gray/dark-gray/purple whirling clouds, lightning shows beautiful man, angel-faces, mothers and animal/bird forms: horses/elephants/lions/dogs, silver cranes/red flamingoes/opal pigeons/peacocks/hummingbirds, butterflies and creeping forms. Lona says serpents grow birds; dead childhood pony seen. These cloud manifestations not necessarily each resident's ground habitat. No thunder heard.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0046
+
+E238 | 46.021–46.024 | observed
+Places/topics: Mountain city river; Gate; Water stair
+Sweet cooling rain then torrents and rainbow spans city; river remains CLEAR pale BERYLLINE not muddy, grass bed flowering primroses/daisies/crocuses/narcissi/pimpernels/anemones instead of sand/shingle/rock. River visibly from mountain VERY PEAK through city's MAIN STREET. Descends DEEP WIDE STEPS of PORPHYRY AND SERPENTINE to gate and mountain foot; SHALLOWER WALKING STEPS BOTH BANKS lead UP to gate/ascending street. Open gate, river descending against travellers' ascent.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0046
+
+E239 | 46.025–46.032 | observed
+Places/topics: Mountain city gate; Royal stables; King's forest; Frontiers
+Dark-visaged woman-angel portress OUTSIDE ON LANDING. Children enter, climb waterside stair, intercepted lovingly by descending woman-angels. Great angel welcomes; reports black bats on frontiers, unnamed/unlocated, orders animals to ROYAL STABLES then KING'S FOREST, neither visited/described. Gate built of living archetypal precious stones, not conventional mined gems. City explicitly called heaven/kingdom; New Jerusalem identification is interpretive link, not name supplied here.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0046
+
+E240 | 46.033–46.035 | transition
+Places/topics: Mountain city upper edge; Source rocks; Cloud stair; Book-door; Library
+Traverse city upward and OUT: NO WALL ON UPPER SIDE, great broken-rock pile like glacier moraine, river billows through gaps. Apparently THREE OR FOUR huge steps vanish into SNOW-WHITE CLOUD; throne of Ancient of Days seen only MIND'S EYE. Angel stops; hand/feet rock climb, Lona hand released; pass cloud fringe/folds. Warm strong unseen hand leads to little GOLDEN-LOCK DOOR, pushes through, turns to see LARGE BOOK COVER closing; alone in EARTHLY LIBRARY. True river source linked throne, no mundane spring engineering imposed.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0046
+
+E241 | 47.001–47.012 | world-rule
+Places/topics: Earthly library; House of sleep; Dream/waking question
+Vane still lacks Lona, Mara often with him. Final doubt whether last waking itself dream or premature waking leaves epistemic frame OPEN; previous true-waking status provisional in light of ending. Never again seeks mirror; waits after hand-sent return. No further map expedition or confirmed reunion.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0047
+
+E242 | 47.013–47.016 | observed
+Places/topics: Earthly library; Outdoor world
+Books sometimes ripple as another world about to break through; outside heavens/earth/trees/grass shake then restore familiar appearance, loved voices indistinct. Narrator cannot tell internal origin versus external entry. Never dreams now yet may dream while awake; waits. Novalis quotation is paratextual philosophical reference, not route.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0047
+
+E243 | 47.017–47.017 | reference
+Places/topics: Literary notes
+Gutenberg text's terminal notes identify William Law, Dante's Paradiso and Purgatorio passages; not additional locations travelled in Lilith. Count as edition reference apparatus, not fictional geography.
+Original chapter: https://www.gutenberg.org/files/1640/1640-h/1640-h.htm#link2HCH0047
+
+COVERAGE AUDIT
+
+All source blocks were read. Broad spans include surrounding dialogue and do not imply every included sentence is itself geographical.
+2296 of 2324 source blocks occur within evidence spans; 28 short blocks were read but not separately selected.
+
+00: 3 blocks read; 3 in evidence spans; 1 groups. Thoreau epigraph
+01: 23 blocks read; 21 in evidence spans; 8 groups. CHAPTER I. THE LIBRARY
+02: 11 blocks read; 11 in evidence spans; 3 groups. CHAPTER II. THE MIRROR
+03: 49 blocks read; 49 in evidence spans; 7 groups. CHAPTER III. THE RAVEN
+04: 98 blocks read; 98 in evidence spans; 11 groups. CHAPTER IV. SOMEWHERE OR NOWHERE?
+05: 33 blocks read; 33 in evidence spans; 3 groups. CHAPTER V. THE OLD CHURCH
+06: 71 blocks read; 71 in evidence spans; 8 groups. CHAPTER VI. THE SEXTON’S COTTAGE
+07: 50 blocks read; 44 in evidence spans; 7 groups. CHAPTER VII. THE CEMETERY
+08: 55 blocks read; 55 in evidence spans; 6 groups. CHAPTER VIII. MY FATHER’S MANUSCRIPT
+09: 46 blocks read; 46 in evidence spans; 4 groups. CHAPTER IX. I REPENT
+10: 18 blocks read; 18 in evidence spans; 4 groups. CHAPTER X. THE BAD BURROW
+11: 17 blocks read; 17 in evidence spans; 4 groups. CHAPTER XI. THE EVIL WOOD
+12: 27 blocks read; 27 in evidence spans; 3 groups. CHAPTER XII. FRIENDS AND FOES
+13: 125 blocks read; 120 in evidence spans; 6 groups. CHAPTER XIII. THE LITTLE ONES
+14: 33 blocks read; 33 in evidence spans; 6 groups. CHAPTER XIV. A CRISIS
+15: 100 blocks read; 98 in evidence spans; 10 groups. CHAPTER XV. A STRANGE HOSTESS
+16: 26 blocks read; 26 in evidence spans; 5 groups. CHAPTER XVI. A GRUESOME DANCE
+17: 102 blocks read; 102 in evidence spans; 7 groups. CHAPTER XVII. A GROTESQUE TRAGEDY
+18: 35 blocks read; 34 in evidence spans; 6 groups. CHAPTER XVIII. DEAD OR ALIVE?
+19: 71 blocks read; 71 in evidence spans; 3 groups. CHAPTER XIX. THE WHITE LEECH
+20: 39 blocks read; 39 in evidence spans; 4 groups. CHAPTER XX. GONE!—BUT HOW?
+21: 39 blocks read; 39 in evidence spans; 3 groups. CHAPTER XXI. THE FUGITIVE MOTHER
+22: 13 blocks read; 13 in evidence spans; 5 groups. CHAPTER XXII. BULIKA
+23: 32 blocks read; 32 in evidence spans; 3 groups. CHAPTER XXIII. A WOMAN OF BULIKA
+24: 17 blocks read; 17 in evidence spans; 4 groups. CHAPTER XXIV. THE WHITE LEOPARDESS
+25: 67 blocks read; 67 in evidence spans; 8 groups. CHAPTER XXV. THE PRINCESS
+26: 16 blocks read; 16 in evidence spans; 5 groups. CHAPTER XXVI. A BATTLE ROYAL
+27: 33 blocks read; 33 in evidence spans; 4 groups. CHAPTER XXVII. THE SILENT FOUNTAIN
+28: 45 blocks read; 45 in evidence spans; 3 groups. CHAPTER XXVIII. I AM SILENCED
+29: 61 blocks read; 58 in evidence spans; 4 groups. CHAPTER XXIX. THE PERSIAN CAT
+30: 42 blocks read; 40 in evidence spans; 6 groups. CHAPTER XXX. ADAM EXPLAINS
+31: 48 blocks read; 48 in evidence spans; 5 groups. CHAPTER XXXI. THE SEXTON’S OLD HORSE
+32: 35 blocks read; 35 in evidence spans; 4 groups. CHAPTER XXXII. THE LOVERS AND THE BAGS
+33: 28 blocks read; 27 in evidence spans; 4 groups. CHAPTER XXXIII. LONA’S NARRATIVE
+34: 41 blocks read; 41 in evidence spans; 4 groups. CHAPTER XXXIV. PREPARATION
+35: 24 blocks read; 24 in evidence spans; 3 groups. Chapter XXXV. THE LITTLE ONES IN BULIKA
+36: 27 blocks read; 27 in evidence spans; 5 groups. CHAPTER XXXVI. MOTHER AND DAUGHTER
+37: 33 blocks read; 33 in evidence spans; 4 groups. CHAPTER XXXVII. THE SHADOW
+38: 106 blocks read; 106 in evidence spans; 5 groups. CHAPTER XXXVIII. TO THE HOUSE OF BITTERNESS
+39: 110 blocks read; 107 in evidence spans; 8 groups. CHAPTER XXXIX. THAT NIGHT
+40: 172 blocks read; 172 in evidence spans; 9 groups. CHAPTER XL. THE HOUSE OF DEATH
+41: 38 blocks read; 38 in evidence spans; 4 groups. CHAPTER XLI. I AM SENT
+42: 80 blocks read; 78 in evidence spans; 7 groups. CHAPTER XLII. I SLEEP THE SLEEP
+43: 45 blocks read; 45 in evidence spans; 4 groups. CHAPTER XLIII. THE DREAMS THAT CAME
+44: 75 blocks read; 74 in evidence spans; 4 groups. CHAPTER XLIV. THE WAKING
+45: 13 blocks read; 13 in evidence spans; 4 groups. CHAPTER XLV. THE JOURNEY HOME
+46: 35 blocks read; 35 in evidence spans; 5 groups. CHAPTER XLVI. THE CITY
+47: 17 blocks read; 17 in evidence spans; 3 groups. CHAPTER XLVII. THE “ENDLESS ENDING”
+
+Read blocks not separately selected:
+01.014: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+01.022: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+07.021: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+07.022: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+07.023: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+07.024: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+07.025: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+07.026: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+13.019: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+13.068: Read: anxiety about selfishness and growth; its world/inhabitant implications are retained in the surrounding giant-growth evidence groups.
+13.107: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+13.108: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+13.109: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+15.042: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+15.067: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+18.009: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+29.001: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+29.002: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+29.018: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+30.001: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+30.002: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+33.018: Read: reflection on children’s growth and Lona’s practical wisdom; no new place or spatial detail.
+39.011: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+39.012: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+39.013: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+42.046: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+42.047: Read: brief dialogue, reaction, or narrative connector; no additional place description or geographical relationship.
+44.024: Read: aphorism about morning always being at hand, not a separate weather observation or measured time interval.
+
+SOURCE PROVENANCE
+Normalized from saved HTML. HTML tags removed; entities decoded; prose whitespace collapsed. Verse line breaks retained. Paragraph IDs are local research locators, not printed page numbers.
+Saved HTML SHA-256: 6daaca3dd183092e7440dabb1cded1a61edd89791f3049c2aac76460240bf2a3

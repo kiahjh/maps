@@ -1,0 +1,39 @@
+{
+  "role": "Secondary interpretation and cross-checks. The preserved published novel remains the source for mapped geography.",
+  "references": [
+    {
+      "title": "Mapping the Text of Lilith: MacDonald’s Labyrinths and Gardens",
+      "author": "Kaitlyn Dryer",
+      "publication": "North Wind 31 (2012), pp. 65–94",
+      "url": "https://digitalcommons.snc.edu/northwind/vol31/iss1/6/",
+      "local_files": ["northwind-mapping-dryer.pdf", "northwind-mapping-dryer.txt"]
+    },
+    {
+      "title": "Lilith by MacDonald Study Guide",
+      "author": "Dale J. Nelson",
+      "publication": "Study notes copyright 2000, posted on SFF Chronicles in January 2012",
+      "url": "https://www.sffchronicles.com/threads/534726/",
+      "kind": "Study guide and interpretation of the published novel",
+      "edition": "Page references use the 1994 reprint of the 1981 Eerdmans edition, not our Gutenberg paragraph locators.",
+      "relevance": [
+        "Notes 29, 55, and 117 discuss how moral and spiritual states affect perception. Useful for later changes in scene appearance.",
+        "Note 61 contrasts Lilith’s enclosed palace with Mara’s open doors and unglazed windows. Useful for architectural atmosphere.",
+        "Note 117 discusses Dante parallels while treating purgatory primarily as suffering and learning. This does not establish another mapped territory."
+      ]
+    },
+    {
+      "title": "The Spiritual Structure of Lilith",
+      "author": "Greville MacDonald, with introduction and notes by John Docherty",
+      "url": "https://www.george-macdonald.com/resources/spiritual_structure_lilith.html",
+      "kind": "Paraphrase of the first manuscript draft, with quotations, interpretation, and critical notes",
+      "relevance": [
+        "Interprets the hot stream through its warmth, metallic taste, water, and rising mist. Useful visual cues; symbolic interpretation does not establish a physical link to the great river.",
+        "Compares earlier and published versions of the ivy hall, Bulika, restoration, and the final mountain city. Version differences must stay explicit.",
+        "Docherty’s notes challenge several assertions in Greville’s account, including the identity of the hand-burier and aspects of symbolic interpretation."
+      ],
+      "published_text_cross_check": {
+        "46.024": "The published text describes river steps of porphyry and serpentine, with shallower walking steps on both banks. The manuscript paraphrase instead describes malachite and porphyry stairs across house tops; those details should not replace the published scene."
+      }
+    }
+  ]
+}

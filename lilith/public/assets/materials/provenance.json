@@ -1,0 +1,71 @@
+{
+  "provider": "Poly Haven",
+  "api": "https://api.polyhaven.com",
+  "assets": [
+    {
+      "id": "rock_face_03",
+      "name": "Rock Face 03",
+      "authors": {
+        "Dario Barresi": "Photography",
+        "Rico Cilliers": "Processing"
+      },
+      "source": "https://polyhaven.com/a/rock_face_03",
+      "license": "CC0-1.0",
+      "license_source": "https://polyhaven.com/license",
+      "source_scale": null,
+      "acquired": "2026-09-30",
+      "files": {
+        "color": {
+          "path": "public/assets/materials/rock_face_03/color.jpg",
+          "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_diff_1k.jpg",
+          "sha256": "ea48e0e47ad42c8bd312476178b1248ec66f0eb19156a26a1c222f2a40caaf2d",
+          "bytes": 927082
+        },
+        "normal": {
+          "path": "public/assets/materials/rock_face_03/normal.jpg",
+          "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_nor_gl_1k.jpg",
+          "sha256": "c6423169583f31715cf0636954bad524e806848a5f2861fcea6794275f726ff0",
+          "bytes": 1146788
+        },
+        "roughness": {
+          "path": "public/assets/materials/rock_face_03/roughness.jpg",
+          "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_rough_1k.jpg",
+          "sha256": "9e3d9a2fd75244892e7acb6bab2eaed1279299510a7970672c0ee27ff1c19fea",
+          "bytes": 638904
+        }
+      }
+    },
+    {
+      "id": "mossy_rock",
+      "name": "Mossy Rock",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "source": "https://polyhaven.com/a/mossy_rock",
+      "license": "CC0-1.0",
+      "license_source": "https://polyhaven.com/license",
+      "source_scale": "3x3M",
+      "acquired": "2026-09-30",
+      "files": {
+        "color": {
+          "path": "public/assets/materials/mossy_rock/color.jpg",
+          "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_diff_1k.jpg",
+          "sha256": "4dbf37f1b0465c9c8914213163923be159716f5b97fb6946437b6c5e143ef540",
+          "bytes": 1124438
+        },
+        "normal": {
+          "path": "public/assets/materials/mossy_rock/normal.jpg",
+          "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_nor_gl_1k.jpg",
+          "sha256": "232cdd6a9fdfd01bb8bb1f8f604c53dbca79fa0d3d7995edf85c9945757aa8df",
+          "bytes": 995727
+        },
+        "roughness": {
+          "path": "public/assets/materials/mossy_rock/roughness.jpg",
+          "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_rough_1k.jpg",
+          "sha256": "0a18bdeb08444b730170b0477f13940ce6cd4d82d06137df661f96d1e2a6a66e",
+          "bytes": 780918
+        }
+      }
+    }
+  ]
+}

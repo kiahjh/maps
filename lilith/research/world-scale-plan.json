@@ -1,0 +1,110 @@
+{
+  "schema": "lilith-world-scale-proposal/1.0",
+  "prepared": "2026-10-01",
+  "status": "research-proposal-not-runtime-layout",
+  "source": "lilith-geography-evidence.json",
+  "study": "../docs/world-geography-study.md",
+  "units": "metres",
+  "policy": {
+    "existing_regional_coordinates": "Replace where needed; the old schematic supplies no measured distance or fixed compass orientation.",
+    "preserve": "The accepted project-authored cataract art language and human object scale.",
+    "revisable": "All regional positions, outlines and dimensions, including the cataract's chosen 38 m drop and 40 m upper width.",
+    "range_meaning": "Invented candidate route lengths for a first terrain draft, not source measurements, confidence intervals or straight-line separations.",
+    "layout_method": "Fit all shared routes, crossings, habitats and sightlines jointly before assigning final coordinates. Do not uniformly enlarge the schematic.",
+    "orientation": "Axes and north remain editorial. Left/right descriptions are tied to the narrator's viewpoint. Several moons prevent assuming every moonrise is terrestrial east.",
+    "time": "Use elapsed travel as a qualitative scale check; do not convert every hour to a fixed walking distance.",
+    "state": "Keep source-observed dry/restored changes separate from predictions, dreams, imagined scenes and cross-world transitions."
+  },
+  "constraints": [
+    {
+      "id": "river-fork",
+      "places": ["cataract", "first-branch", "second-branch", "evil-wood"],
+      "relationship": "The great river divides at its fall; Evil Wood lies between the branches and is visible on the far horizon from the cataract.",
+      "refs": ["16.004", "45.010"],
+      "design_freedom": "Branch courses, wood extent, exact distances, waterfall height and width."
+    },
+    {
+      "id": "channel-belts",
+      "places": ["low-hills", "first-branch", "evil-wood", "second-branch", "orchard"],
+      "relationship": "The first branch is an extensive rocky plain with innumerable water-runs; the second is another channel network with increasing dwarf fruit trees toward the valley.",
+      "refs": ["11.001", "11.004", "11.015", "11.016", "12.001", "12.002", "12.003"],
+      "design_freedom": "Widths, bends, subdivisions and restored water distribution; full travel durations are not measured bank-to-bank widths."
+    },
+    {
+      "id": "mara-itinerary",
+      "places": ["mara", "mara-approach", "cataract", "first-branch", "second-branch", "bad-burrow", "sleep"],
+      "relationship": "Mara's cottage stands on rock in deep sand after a long approach from the channels. It belongs to the interbranch return itinerary, many desert miles below the cataract, and connects through an easy crossing to the ridge and monster basin.",
+      "refs": ["15.035", "15.050", "16.001", "38.015", "38.016", "40.027", "40.044", "41.022", "41.037", "42.002"],
+      "design_freedom": "Exact cottage coordinates, approach paths and crossing sites."
+    },
+    {
+      "id": "continuous-forest",
+      "places": ["orchard", "baby-forest", "nests", "guide-forest", "ivy-hall", "hot-stream"],
+      "relationship": "The baby-finding forest extends from the valley to the hot stream. Nest trees occupy a sparsely undergrown region; fruit remains accessible. The hall lies on the returning journey with the nests still far away.",
+      "refs": ["16.006", "16.008", "32.013", "32.027", "32.033", "33.004", "33.021", "38.008", "38.013"],
+      "design_freedom": "Forest boundary, internal habitats, local connection of individual groves and distances. Sparse stones in the nest forest are a habitat constraint."
+    },
+    {
+      "id": "hall-carriage-sightline",
+      "places": ["ivy-hall", "carriage"],
+      "relationship": "Vane sees the carriage before walking ten paces after leaving the hall, then approaches it. The passage measures travel before sighting, not full object separation.",
+      "refs": ["17.001", "38.011"],
+      "design_freedom": "Nearby object position and geometry, subject to the sightline. No ten-pace separation cap is imposed."
+    },
+    {
+      "id": "hot-stream-system",
+      "places": ["hot-stream", "hot-cave", "baby-forest", "plain"],
+      "relationship": "The hot stream is deep and brim-full but nowhere more than a few yards wide, at the forest/plain boundary. Nearby upstream hills contain a small cave spring that rises quietly from its floor.",
+      "refs": ["18.017", "18.022", "18.025", "18.026", "18.027"],
+      "design_freedom": "Exact width, course, hills and cave form. No established connection to the great river; no internal cataract."
+    },
+    {
+      "id": "bulika-approach",
+      "places": ["hot-stream", "plain", "bulika", "bulika-camp"],
+      "relationship": "Substantial grassland separates the crossing and city. Vane travels all day and continues toward dawn; the expedition and return have separate travel/rest stages. Vegetable gardens and refuse surround the walls.",
+      "refs": ["20.018", "20.020", "20.025", "21.039", "22.002", "22.004", "35.001", "35.003", "35.006", "38.004", "38.008"],
+      "design_freedom": "Plain dimensions, approach route and city plan. A few hundred yards outside the gate describes an individual rest site, not the whole plain."
+    },
+    {
+      "id": "upper-river-restoration",
+      "places": ["cataract", "hand-site", "restored-upper", "mountain-city"],
+      "relationship": "Fine sand conceals the upper dry course. Restoration produces a deep, broad, quiet river through grassy plains and flowering forests; the burial spot disappears and water comes from far beyond it.",
+      "refs": ["16.004", "41.017", "41.038", "45.010", "45.011", "45.012", "45.013"],
+      "design_freedom": "Upper distances and landforms. The hand-site is an event location, not the source."
+    },
+    {
+      "id": "mountain-city",
+      "places": ["restored-upper", "mountain-city", "book-door", "bulika"],
+      "relationship": "Beyond greater forests and a far plain stands a solitary mountain city explicitly unlike Bulika. The river flows from the peak through its main street and broad steps, with shallower stairs along its banks.",
+      "refs": ["46.001", "46.002", "46.003", "46.023", "46.024", "46.033", "46.035"],
+      "design_freedom": "Upstream distance, mountain height, architecture and cloud scene. Do not merge the city with Bulika or every earlier distant hill."
+    },
+    {
+      "id": "world-and-state-boundaries",
+      "places": ["estate", "entry-heath", "pine-portal", "orchard", "evil-wood", "bad-burrow", "book-door"],
+      "relationship": "Earth and the strange country connect through transitions. The restored orchard lake and Evil Wood island are anticipated rather than fully surveyed. Dream terrain requires separate treatment; the monster lake is subsequently witnessed.",
+      "refs": ["02.010", "04.001", "06.003", "06.004", "15.066", "42.001", "43.001", "44.001", "45.004", "46.035", "47.002"],
+      "design_freedom": "Portal presentation, provisional shorelines and editorial orientation. Avoid implying ordinary ground adjacency or dream confirmation."
+    }
+  ],
+  "candidate_routes": [
+    {"from":"low-hills","to":"evil-wood","via":["first-branch"],"range_m":[20000,35000],"refs":["11.001","11.004","11.005"]},
+    {"from":"evil-wood","to":"orchard","via":["second-branch"],"range_m":[10000,20000],"refs":["11.015","11.016","12.001","12.003","12.004"]},
+    {"from":"mara","to":"cataract","via":[],"range_m":[20000,35000],"refs":["16.001","16.002","16.003"]},
+    {"from":"cataract","to":"guide-forest","via":[],"destination_scope":"first forest fringe, not the hall","range_m":[8000,15000],"refs":["16.004","16.005","16.006"]},
+    {"from":"nests","to":"orchard","via":[],"destination_scope":"fruit gathering grounds, not basin centre","range_m":[1000,4000],"refs":["33.001","33.004"]},
+    {"from":"ivy-hall","to":"nests","via":[],"range_m":[8000,18000],"refs":["38.008","38.011","38.013"]},
+    {"from":"nests","to":"mara","via":["second-branch"],"range_m":[30000,65000],"refs":["38.015","38.016"]},
+    {"from":"mara","to":"low-hills","via":["first-branch"],"range_m":[18000,30000],"refs":["40.027","40.043","40.044"]},
+    {"from":"hot-stream","to":"bulika","via":["plain"],"range_m":[20000,45000],"refs":["20.018","20.020","22.002","35.001","35.006","38.008"]}
+  ],
+  "unallocated": [
+    "Exact length and bearing of the restored upper journey to the mountain city.",
+    "Physical widths of both ancient channel belts and restored discharge through the fork.",
+    "Hand-site distance above the cataract; directions describe listening and searching rather than a measured separation.",
+    "Hot-cave distance from the bathing place; the hills are nearby, but no distance is supplied.",
+    "Dimensions of the fruit basin, Evil Wood, Bulika, the hall and the House of Sleep.",
+    "Final coordinates and total world bounds; the candidate routes must first be fitted together."
+  ],
+  "next_review": "A connected physical-scale terrain draft with movable region anchors, plausible routes and both dry/restored views, before expanding finished scenery."
+}
